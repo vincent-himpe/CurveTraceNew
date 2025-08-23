@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EMKSDUMJ
 
 [Document5]
-DocumentPath=IBVG-GENERATOR.SchDoc
+DocumentPath=IBVG-DRIVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
