@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\GitHub\CurveTracer\CT8042\LTspice\ACTIVECLAMP.net
+Start Time: Mon Aug 25 17:16:23 2025
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.048 seconds.
+
+Files loaded:
+C:\GitHub\CurveTracer\CT8042\LTspice\ACTIVECLAMP.net
+C:\Users\VincentHimpe\AppData\Local\LTspice\lib\cmp\standard.bjt
+
