@@ -78,120 +78,153 @@ Configuration3_Name5=VisibleOrder
 Configuration3_Item5=Description=120|Designator=120|Quantity=120|LCSC=100
 Configuration3_Name6=VisibleOrder_Flat
 Configuration3_Item6=Description=120|Designator=120|Quantity=120|LCSC=100
-OutputType4=Schematic Print
-OutputName4=Schematic Prints
+OutputType4=PCBDrawing
+OutputName4=Project Coversheet
 OutputCategory4=Documentation
-OutputDocumentPath4=
+OutputDocumentPath4=CT9042 Cover Sheet.PCBDwf
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
-OutputEnabled4_OutputMedium2=2
+OutputEnabled4_OutputMedium2=1
 OutputEnabled4_OutputMedium3=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
-OutputType5=BOM_PartType
-OutputName5=Bill of Materials
-OutputCategory5=Report
+OutputType5=Schematic Print
+OutputName5=Schematic Prints
+OutputCategory5=Documentation
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
-OutputEnabled5_OutputMedium2=0
-OutputEnabled5_OutputMedium3=5
+OutputEnabled5_OutputMedium2=2
+OutputEnabled5_OutputMedium3=0
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration5_Name1=ColumnNameFormat
-Configuration5_Item1=CaptionAsName
-Configuration5_Name2=General
-Configuration5_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
-Configuration5_Name3=GroupOrder
-Configuration5_Item3=LCSC=True
-Configuration5_Name4=SortOrder
-Configuration5_Item4=Designator=Up
-Configuration5_Name5=VisibleOrder
-Configuration5_Item5=Description=120|Designator=120|Quantity=120|LCSC=100
-Configuration5_Name6=VisibleOrder_Flat
-Configuration5_Item6=Description=120|Designator=120|Quantity=120|LCSC=100
-OutputType6=PCBDrawing
-OutputName6=Main Board Draftsman
-OutputCategory6=Documentation
-OutputDocumentPath6=CT8042 Fabrication Drawing.PCBDwf
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
+OutputType6=BOM_PartType
+OutputName6=Bill of Materials
+OutputCategory6=Report
+OutputDocumentPath6=
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
-OutputEnabled6_OutputMedium3=0
+OutputEnabled6_OutputMedium3=5
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType7=PCBDrawing
-OutputName7=Main Board  Draftsman
-OutputCategory7=Documentation
-OutputDocumentPath7=CT8042 Assembly Drawing.PCBDwf
+Configuration6_Name1=ColumnNameFormat
+Configuration6_Item1=CaptionAsName
+Configuration6_Name2=General
+Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration6_Name3=GroupOrder
+Configuration6_Item3=LCSC=True
+Configuration6_Name4=SortOrder
+Configuration6_Item4=Designator=Up
+Configuration6_Name5=VisibleOrder
+Configuration6_Item5=Description=120|Designator=120|Quantity=120|LCSC=100
+Configuration6_Name6=VisibleOrder_Flat
+Configuration6_Item6=Description=120|Designator=120|Quantity=120|LCSC=100
+OutputType7=Pick Place
+OutputName7=Generates pick and place files
+OutputCategory7=Assembly
+OutputDocumentPath7=CT8042.PcbDoc
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
-OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium3=4
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Package / Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#18=Name:Supplier Part Number 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#19=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#20=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#21=Name:Supplier Part Number 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#22=Name:LCSC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#23=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#24=Name:Supplier 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#25=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#26=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#27=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#28=Name:Supplier 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#29=Name:Supplier 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#30=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#31=Name:Supplier Part Number 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#32=Name:Location,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#33=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#34=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|DocumentPath=C:\GitHub\UsbGpib-USBTMC\HW\USBgpib-V3-USBTMC.PcbDoc
 OutputType8=PCBDrawing
-OutputName8=Project Coversheet Draftsman
+OutputName8=Front Panel Coversheet
 OutputCategory8=Documentation
-OutputDocumentPath8=CT9042 Cover Sheet.PCBDwf
+OutputDocumentPath8=CT9042 Front Panel Cover Sheet .PCBDwf
 OutputVariantName8=
 OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
-OutputEnabled8_OutputMedium2=1
+OutputEnabled8_OutputMedium2=3
 OutputEnabled8_OutputMedium3=0
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Pick Place
-OutputName9=Generates pick and place files
-OutputCategory9=Assembly
-OutputDocumentPath9=CT8042.PcbDoc
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=PCBDrawing
+OutputName9=Front Panel Fabrication
+OutputCategory9=Documentation
+OutputDocumentPath9=CT9042 Front Panel Fabrication Drawing.PCBDwf
 OutputVariantName9=
-OutputEnabled9=0
+OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
-OutputEnabled9_OutputMedium2=0
-OutputEnabled9_OutputMedium3=4
+OutputEnabled9_OutputMedium2=4
+OutputEnabled9_OutputMedium3=0
 OutputDefault9=0
-Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Package / Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#18=Name:Supplier Part Number 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#19=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#20=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#21=Name:Supplier Part Number 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#22=Name:LCSC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#23=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#24=Name:Supplier 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#25=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#26=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#27=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#28=Name:Supplier 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#29=Name:Supplier 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#30=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#31=Name:Supplier Part Number 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#32=Name:Location,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#33=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#34=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|DocumentPath=C:\GitHub\UsbGpib-USBTMC\HW\USBgpib-V3-USBTMC.PcbDoc
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType10=PCBDrawing
-OutputName10=Front Cover Fabrication Draftsman
+OutputName10=Front Board Coversheet
 OutputCategory10=Documentation
-OutputDocumentPath10=CT9042 Front Cover Fabrication Drawing.PCBDwf
+OutputDocumentPath10=CT9042 Front Board Cover Sheet.PCBDwf
 OutputVariantName10=
 OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
-OutputEnabled10_OutputMedium2=3
+OutputEnabled10_OutputMedium2=5
 OutputEnabled10_OutputMedium3=0
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType11=PCBDrawing
-OutputName11=Front Panel Assembly Draftsman
+OutputName11=Front Board Fabrication
 OutputCategory11=Documentation
-OutputDocumentPath11=CT8042 Frontpanel Assembly Drawing.PCBDwf
+OutputDocumentPath11=CT9042 Front Board Fabrication Drawing.PCBDwf
 OutputVariantName11=
 OutputEnabled11=1
 OutputEnabled11_OutputMedium1=0
-OutputEnabled11_OutputMedium2=5
+OutputEnabled11_OutputMedium2=6
 OutputEnabled11_OutputMedium3=0
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=PCBDrawing
-OutputName12=Front Panel Fabrication Draftsman
+OutputName12=Front Board Assembly
 OutputCategory12=Documentation
-OutputDocumentPath12=CT9042 Frontpanel Fabrication Drawing.PCBDwf
+OutputDocumentPath12=CT8042 Front Board Assembly Drawing.PCBDwf
 OutputVariantName12=
 OutputEnabled12=1
 OutputEnabled12_OutputMedium1=0
-OutputEnabled12_OutputMedium2=4
+OutputEnabled12_OutputMedium2=7
 OutputEnabled12_OutputMedium3=0
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=PCBDrawing
+OutputName13=Main Board Coversheet
+OutputCategory13=Documentation
+OutputDocumentPath13=CT8042 Fabrication Drawing.PCBDwf
+OutputVariantName13=
+OutputEnabled13=0
+OutputEnabled13_OutputMedium1=0
+OutputEnabled13_OutputMedium2=0
+OutputEnabled13_OutputMedium3=0
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Main Board Fabrication
+OutputCategory14=Documentation
+OutputDocumentPath14=CT8042 Fabrication Drawing.PCBDwf
+OutputVariantName14=
+OutputEnabled14=0
+OutputEnabled14_OutputMedium1=0
+OutputEnabled14_OutputMedium2=0
+OutputEnabled14_OutputMedium3=0
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType15=PCBDrawing
+OutputName15=Main Board Assembly
+OutputCategory15=Documentation
+OutputDocumentPath15=CT8042 Assembly Drawing.PCBDwf
+OutputVariantName15=
+OutputEnabled15=0
+OutputEnabled15_OutputMedium1=0
+OutputEnabled15_OutputMedium2=0
+OutputEnabled15_OutputMedium3=0
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [PublishSettings]
 OutputFilePath2=.\PDF\CT8042.PDF
