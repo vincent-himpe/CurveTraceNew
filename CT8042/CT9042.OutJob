@@ -195,33 +195,33 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 OutputType13=PCBDrawing
 OutputName13=Main Board Coversheet
 OutputCategory13=Documentation
-OutputDocumentPath13=CT8042 Fabrication Drawing.PCBDwf
+OutputDocumentPath13=CT9042 Main Board Cover Sheet.PCBDwf
 OutputVariantName13=
-OutputEnabled13=0
+OutputEnabled13=1
 OutputEnabled13_OutputMedium1=0
-OutputEnabled13_OutputMedium2=0
+OutputEnabled13_OutputMedium2=8
 OutputEnabled13_OutputMedium3=0
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType14=PCBDrawing
 OutputName14=Main Board Fabrication
 OutputCategory14=Documentation
-OutputDocumentPath14=CT8042 Fabrication Drawing.PCBDwf
+OutputDocumentPath14=CT9042 Main Board Fabrication Drawing.PCBDwf
 OutputVariantName14=
-OutputEnabled14=0
+OutputEnabled14=1
 OutputEnabled14_OutputMedium1=0
-OutputEnabled14_OutputMedium2=0
+OutputEnabled14_OutputMedium2=9
 OutputEnabled14_OutputMedium3=0
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType15=PCBDrawing
 OutputName15=Main Board Assembly
 OutputCategory15=Documentation
-OutputDocumentPath15=CT8042 Assembly Drawing.PCBDwf
+OutputDocumentPath15=CT9042 Main Board Assembly Drawing.PCBDwf
 OutputVariantName15=
-OutputEnabled15=0
+OutputEnabled15=1
 OutputEnabled15_OutputMedium1=0
-OutputEnabled15_OutputMedium2=0
+OutputEnabled15_OutputMedium2=10
 OutputEnabled15_OutputMedium3=0
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1

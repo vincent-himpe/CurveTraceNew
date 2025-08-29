@@ -1,0 +1,769 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D79
+Added Component: Designator=C68(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C69(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C70(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C71(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U12(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U14(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = "AS393AMTR-E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "DIODES-INC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "AS393AMTR-E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U203(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U208(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U209(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U211(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U212(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U214(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U218(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U220(SO127P600-8N)
+Added Component: Designator=U221(SO127P600-8N)
+Added Component: Designator=U222(SO127P600-8N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin *1-1
+Add Pin To Net: Unknown Pin: Pin *1-2
+Add Pin To Net: Unknown Pin: Pin *1-3
+Add Pin To Net: Unknown Pin: Pin *1-4
+Add Pin To Net: Unknown Pin: Pin *2-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Added Pin To Net: NetName=P5VA Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C68-2
+Added Pin To Net: NetName=P5VA Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=N5VA Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=N5VA Pin=C71-2
+Add Pin To Net: Unknown Pin: Pin D24-1
+Add Pin To Net: Unknown Pin: Pin D24-3
+Add Pin To Net: Unknown Pin: Pin D25-1
+Add Pin To Net: Unknown Pin: Pin D25-3
+Add Pin To Net: Unknown Pin: Pin D26-1
+Add Pin To Net: Unknown Pin: Pin D26-3
+Add Pin To Net: Unknown Pin: Pin D27-1
+Add Pin To Net: Unknown Pin: Pin D27-3
+Add Pin To Net: Unknown Pin: Pin D31-1
+Add Pin To Net: Unknown Pin: Pin D31-3
+Add Pin To Net: Unknown Pin: Pin D32-1
+Add Pin To Net: Unknown Pin: Pin D32-3
+Add Pin To Net: Unknown Pin: Pin D33-1
+Add Pin To Net: Unknown Pin: Pin D33-3
+Add Pin To Net: Unknown Pin: Pin D36-1
+Add Pin To Net: Unknown Pin: Pin D36-3
+Add Pin To Net: Unknown Pin: Pin D37-1
+Add Pin To Net: Unknown Pin: Pin D37-3
+Add Pin To Net: Unknown Pin: Pin D39-1
+Add Pin To Net: Unknown Pin: Pin D39-3
+Add Pin To Net: Unknown Pin: Pin D40-1
+Add Pin To Net: Unknown Pin: Pin D40-2
+Add Pin To Net: Unknown Pin: Pin D41-1
+Add Pin To Net: Unknown Pin: Pin D41-2
+Add Pin To Net: Unknown Pin: Pin D42-1
+Add Pin To Net: Unknown Pin: Pin D42-2
+Add Pin To Net: Unknown Pin: Pin D43-1
+Add Pin To Net: Unknown Pin: Pin D43-3
+Add Pin To Net: Unknown Pin: Pin D44-1
+Add Pin To Net: Unknown Pin: Pin D44-3
+Add Pin To Net: Unknown Pin: Pin D45-1
+Add Pin To Net: Unknown Pin: Pin D45-3
+Add Pin To Net: Unknown Pin: Pin D217-1
+Add Pin To Net: Unknown Pin: Pin D217-3
+Add Pin To Net: Unknown Pin: Pin D220-1
+Add Pin To Net: Unknown Pin: Pin D220-3
+Add Pin To Net: Unknown Pin: Pin D221-1
+Add Pin To Net: Unknown Pin: Pin D221-3
+Add Pin To Net: Unknown Pin: Pin D222-1
+Add Pin To Net: Unknown Pin: Pin D222-3
+Add Pin To Net: Unknown Pin: Pin D223-1
+Add Pin To Net: Unknown Pin: Pin D223-3
+Add Pin To Net: Unknown Pin: Pin D224-1
+Add Pin To Net: Unknown Pin: Pin D224-3
+Add Pin To Net: Unknown Pin: Pin D225-1
+Add Pin To Net: Unknown Pin: Pin D225-3
+Add Pin To Net: Unknown Pin: Pin D226-1
+Add Pin To Net: Unknown Pin: Pin D226-3
+Add Pin To Net: Unknown Pin: Pin D227-1
+Add Pin To Net: Unknown Pin: Pin D227-3
+Add Pin To Net: Unknown Pin: Pin D228-1
+Add Pin To Net: Unknown Pin: Pin D228-3
+Add Pin To Net: Unknown Pin: Pin D229-1
+Add Pin To Net: Unknown Pin: Pin D229-3
+Add Pin To Net: Unknown Pin: Pin DISP1-1
+Add Pin To Net: Unknown Pin: Pin DISP1-2
+Add Pin To Net: Unknown Pin: Pin DISP1-3
+Add Pin To Net: Unknown Pin: Pin DISP1-4
+Add Pin To Net: Unknown Pin: Pin DISP1-5
+Add Pin To Net: Unknown Pin: Pin DISP1-6
+Add Pin To Net: Unknown Pin: Pin DISP1-11
+Add Pin To Net: Unknown Pin: Pin DISP1-12
+Add Pin To Net: Unknown Pin: Pin DISP1-13
+Add Pin To Net: Unknown Pin: Pin DISP1-14
+Add Pin To Net: Unknown Pin: Pin DISP1-15
+Add Pin To Net: Unknown Pin: Pin DISP1-16
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J1-16
+Add Pin To Net: Unknown Pin: Pin J1-17
+Add Pin To Net: Unknown Pin: Pin J1-18
+Add Pin To Net: Unknown Pin: Pin J1-19
+Add Pin To Net: Unknown Pin: Pin J1-20
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J2-12
+Add Pin To Net: Unknown Pin: Pin J2-13
+Add Pin To Net: Unknown Pin: Pin J2-14
+Add Pin To Net: Unknown Pin: Pin J2-15
+Add Pin To Net: Unknown Pin: Pin J2-16
+Add Pin To Net: Unknown Pin: Pin J2-17
+Add Pin To Net: Unknown Pin: Pin J2-18
+Add Pin To Net: Unknown Pin: Pin J2-19
+Add Pin To Net: Unknown Pin: Pin J2-20
+Add Pin To Net: Unknown Pin: Pin K1-1
+Add Pin To Net: Unknown Pin: Pin K1-3
+Add Pin To Net: Unknown Pin: Pin K1-4
+Add Pin To Net: Unknown Pin: Pin K1-5
+Add Pin To Net: Unknown Pin: Pin K1-6
+Add Pin To Net: Unknown Pin: Pin K1-7
+Add Pin To Net: Unknown Pin: Pin K1-8
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-3
+Add Pin To Net: Unknown Pin: Pin K2-4
+Add Pin To Net: Unknown Pin: Pin K2-5
+Add Pin To Net: Unknown Pin: Pin K2-6
+Add Pin To Net: Unknown Pin: Pin K2-7
+Add Pin To Net: Unknown Pin: Pin K2-8
+Add Pin To Net: Unknown Pin: Pin K3-1
+Add Pin To Net: Unknown Pin: Pin K3-2
+Add Pin To Net: Unknown Pin: Pin K3-3
+Add Pin To Net: Unknown Pin: Pin K3-4
+Add Pin To Net: Unknown Pin: Pin K3-5
+Add Pin To Net: Unknown Pin: Pin K3-6
+Add Pin To Net: Unknown Pin: Pin K3-8
+Add Pin To Net: Unknown Pin: Pin K4-1
+Add Pin To Net: Unknown Pin: Pin K4-5
+Add Pin To Net: Unknown Pin: Pin K4-6
+Add Pin To Net: Unknown Pin: Pin K4-8
+Add Pin To Net: Unknown Pin: Pin K5-1
+Add Pin To Net: Unknown Pin: Pin K5-5
+Add Pin To Net: Unknown Pin: Pin K5-6
+Add Pin To Net: Unknown Pin: Pin K5-7
+Add Pin To Net: Unknown Pin: Pin K5-8
+Add Pin To Net: Unknown Pin: Pin K6-2
+Add Pin To Net: Unknown Pin: Pin K6-3
+Add Pin To Net: Unknown Pin: Pin K6-5
+Add Pin To Net: Unknown Pin: Pin K6-6
+Add Pin To Net: Unknown Pin: Pin K6-7
+Add Pin To Net: Unknown Pin: Pin K6-8
+Add Pin To Net: Unknown Pin: Pin K7-1
+Add Pin To Net: Unknown Pin: Pin K7-3
+Add Pin To Net: Unknown Pin: Pin K7-4
+Add Pin To Net: Unknown Pin: Pin K7-5
+Add Pin To Net: Unknown Pin: Pin K7-6
+Add Pin To Net: Unknown Pin: Pin K7-8
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin K8-4
+Add Pin To Net: Unknown Pin: Pin K8-6
+Add Pin To Net: Unknown Pin: Pin K9-2
+Add Pin To Net: Unknown Pin: Pin K9-3
+Add Pin To Net: Unknown Pin: Pin K9-5
+Add Pin To Net: Unknown Pin: Pin K9-6
+Add Pin To Net: Unknown Pin: Pin K9-7
+Add Pin To Net: Unknown Pin: Pin K9-8
+Add Pin To Net: Unknown Pin: Pin K10-1
+Add Pin To Net: Unknown Pin: Pin K10-3
+Add Pin To Net: Unknown Pin: Pin K10-4
+Add Pin To Net: Unknown Pin: Pin K10-5
+Add Pin To Net: Unknown Pin: Pin K10-6
+Add Pin To Net: Unknown Pin: Pin K10-8
+Add Pin To Net: Unknown Pin: Pin K11-1
+Add Pin To Net: Unknown Pin: Pin K11-2
+Add Pin To Net: Unknown Pin: Pin K11-4
+Add Pin To Net: Unknown Pin: Pin K11-6
+Add Pin To Net: Unknown Pin: Pin K12-1
+Add Pin To Net: Unknown Pin: Pin K12-2
+Add Pin To Net: Unknown Pin: Pin K12-4
+Add Pin To Net: Unknown Pin: Pin K12-5
+Add Pin To Net: Unknown Pin: Pin K12-7
+Add Pin To Net: Unknown Pin: Pin K12-8
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P5-1
+Add Pin To Net: Unknown Pin: Pin P6-1
+Add Pin To Net: Unknown Pin: Pin Q217-1
+Add Pin To Net: Unknown Pin: Pin Q217-2
+Add Pin To Net: Unknown Pin: Pin Q217-3
+Add Pin To Net: Unknown Pin: Pin R35-1
+Add Pin To Net: Unknown Pin: Pin R35-2
+Add Pin To Net: Unknown Pin: Pin R35-3
+Add Pin To Net: Unknown Pin: Pin R62-1
+Add Pin To Net: Unknown Pin: Pin R62-2
+Add Pin To Net: Unknown Pin: Pin R62-3
+Add Pin To Net: Unknown Pin: Pin R78-1
+Add Pin To Net: Unknown Pin: Pin R78-2
+Add Pin To Net: Unknown Pin: Pin R78-3
+Add Pin To Net: Unknown Pin: Pin R96-1
+Add Pin To Net: Unknown Pin: Pin R96-2
+Add Pin To Net: Unknown Pin: Pin R96-3
+Add Pin To Net: Unknown Pin: Pin R99-1
+Add Pin To Net: Unknown Pin: Pin R99-2
+Add Pin To Net: Unknown Pin: Pin R99-3
+Add Pin To Net: Unknown Pin: Pin R100-1
+Add Pin To Net: Unknown Pin: Pin R100-2
+Add Pin To Net: Unknown Pin: Pin R100-3
+Add Pin To Net: Unknown Pin: Pin R107-1
+Add Pin To Net: Unknown Pin: Pin R107-2
+Add Pin To Net: Unknown Pin: Pin R107-3
+Add Pin To Net: Unknown Pin: Pin SW4-1
+Add Pin To Net: Unknown Pin: Pin SW4-2
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4
+Add Pin To Net: Unknown Pin: Pin SW4-5
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-18
+Add Pin To Net: Unknown Pin: Pin U2-19
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U3-17
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U4-17
+Add Pin To Net: Unknown Pin: Pin U4-19
+Add Pin To Net: Unknown Pin: Pin U4-20
+Add Pin To Net: Unknown Pin: Pin U4-21
+Add Pin To Net: Unknown Pin: Pin U4-22
+Add Pin To Net: Unknown Pin: Pin U4-23
+Add Pin To Net: Unknown Pin: Pin U4-37
+Add Pin To Net: Unknown Pin: Pin U4-38
+Add Pin To Net: Unknown Pin: Pin U4-39
+Add Pin To Net: Unknown Pin: Pin U4-40
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Add Pin To Net: Unknown Pin: Pin U5-11
+Add Pin To Net: Unknown Pin: Pin U5-12
+Add Pin To Net: Unknown Pin: Pin U5-21
+Add Pin To Net: Unknown Pin: Pin U5-22
+Add Pin To Net: Unknown Pin: Pin U5-23
+Add Pin To Net: Unknown Pin: Pin U5-24
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Add Pin To Net: Unknown Pin: Pin U6-21
+Add Pin To Net: Unknown Pin: Pin U6-22
+Add Pin To Net: Unknown Pin: Pin U6-23
+Add Pin To Net: Unknown Pin: Pin U6-24
+Added Pin To Net: NetName=VCD Pin=U7-5
+Added Pin To Net: NetName=NetD22_3 Pin=U7-6
+Added Pin To Net: NetName=NetD22_3 Pin=U7-7
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-12
+Add Pin To Net: Unknown Pin: Pin U8-13
+Add Pin To Net: Unknown Pin: Pin U8-14
+Add Pin To Net: Unknown Pin: Pin U8-15
+Add Pin To Net: Unknown Pin: Pin U8-16
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin U10-10
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-12
+Add Pin To Net: Unknown Pin: Pin U10-13
+Add Pin To Net: Unknown Pin: Pin U10-14
+Add Pin To Net: Unknown Pin: Pin U10-15
+Add Pin To Net: Unknown Pin: Pin U10-16
+Added Pin To Net: NetName=DRIVE Pin=U12-5
+Added Pin To Net: NetName=ADC-VCD Pin=U12-6
+Added Pin To Net: NetName=ADC-VCD Pin=U12-7
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U13-5
+Add Pin To Net: Unknown Pin: Pin U13-9
+Add Pin To Net: Unknown Pin: Pin U13-10
+Add Pin To Net: Unknown Pin: Pin U13-11
+Add Pin To Net: Unknown Pin: Pin U13-12
+Add Pin To Net: Unknown Pin: Pin U13-13
+Add Pin To Net: Unknown Pin: Pin U13-14
+Add Pin To Net: Unknown Pin: Pin U13-15
+Added Pin To Net: NetName=OVERLOAD Pin=U14-1
+Added Pin To Net: NetName=NetR109_2 Pin=U14-2
+Added Pin To Net: NetName=NetC217_2 Pin=U14-3
+Added Pin To Net: NetName=N5VA Pin=U14-4
+Added Pin To Net: NetName=NetC34_2 Pin=U14-5
+Added Pin To Net: NetName=NetR115_1 Pin=U14-6
+Added Pin To Net: NetName=OVERLOAD Pin=U14-7
+Added Pin To Net: NetName=P5VA Pin=U14-8
+Add Pin To Net: Unknown Pin: Pin U15-1
+Add Pin To Net: Unknown Pin: Pin U15-2
+Add Pin To Net: Unknown Pin: Pin U15-3
+Add Pin To Net: Unknown Pin: Pin U15-4
+Add Pin To Net: Unknown Pin: Pin U15-5
+Add Pin To Net: Unknown Pin: Pin U15-6
+Add Pin To Net: Unknown Pin: Pin U15-7
+Add Pin To Net: Unknown Pin: Pin U15-8
+Add Pin To Net: Unknown Pin: Pin u16-1
+Add Pin To Net: Unknown Pin: Pin u16-2
+Add Pin To Net: Unknown Pin: Pin u16-3
+Add Pin To Net: Unknown Pin: Pin U17-8
+Add Pin To Net: Unknown Pin: Pin U17-9
+Add Pin To Net: Unknown Pin: Pin U101-1
+Add Pin To Net: Unknown Pin: Pin U101-2
+Add Pin To Net: Unknown Pin: Pin U101-3
+Add Pin To Net: Unknown Pin: Pin U101-4
+Add Pin To Net: Unknown Pin: Pin U101-5
+Add Pin To Net: Unknown Pin: Pin U101-6
+Add Pin To Net: Unknown Pin: Pin U101-7
+Add Pin To Net: Unknown Pin: Pin U101-8
+Added Pin To Net: NetName=NetC234_2 Pin=U203-1
+Added Pin To Net: NetName=NetC234_1 Pin=U203-2
+Added Pin To Net: NetName=NetD28_3 Pin=U203-3
+Added Pin To Net: NetName=N15VA Pin=U203-4
+Added Pin To Net: NetName=NetR39_2 Pin=U203-5
+Added Pin To Net: NetName=NetR35_2 Pin=U203-6
+Added Pin To Net: NetName=NetQ201_1 Pin=U203-7
+Added Pin To Net: NetName=P15VA Pin=U203-8
+Add Pin To Net: Unknown Pin: Pin U206-1
+Add Pin To Net: Unknown Pin: Pin U206-2
+Add Pin To Net: Unknown Pin: Pin U206-3
+Add Pin To Net: Unknown Pin: Pin U206-4
+Add Pin To Net: Unknown Pin: Pin U206-5
+Add Pin To Net: Unknown Pin: Pin U206-6
+Add Pin To Net: Unknown Pin: Pin U206-7
+Add Pin To Net: Unknown Pin: Pin U206-8
+Add Pin To Net: Unknown Pin: Pin U206-9
+Add Pin To Net: Unknown Pin: Pin U206-10
+Add Pin To Net: Unknown Pin: Pin U206-15
+Add Pin To Net: Unknown Pin: Pin U206-16
+Added Pin To Net: NetName=NetR58_2 Pin=U208-1
+Added Pin To Net: NetName=NetR58_1 Pin=U208-2
+Added Pin To Net: NetName=AGND Pin=U208-3
+Added Pin To Net: NetName=P5VA Pin=U208-4
+Added Pin To Net: NetName=AGND Pin=U208-5
+Added Pin To Net: NetName=NetR60_1 Pin=U208-6
+Added Pin To Net: NetName=NetR60_2 Pin=U208-7
+Added Pin To Net: NetName=N5VA Pin=U208-8
+Added Pin To Net: NetName=NetR68_1 Pin=U209-1
+Added Pin To Net: NetName=NetR68_1 Pin=U209-2
+Added Pin To Net: NetName=NetD30_3 Pin=U209-3
+Added Pin To Net: NetName=P15VA Pin=U209-4
+Added Pin To Net: NetName=AGND Pin=U209-5
+Added Pin To Net: NetName=NetR67_1 Pin=U209-6
+Added Pin To Net: NetName=NetR65_1 Pin=U209-7
+Added Pin To Net: NetName=N15VA Pin=U209-8
+Added Pin To Net: NetName=NetR86_1 Pin=U211-1
+Added Pin To Net: NetName=NetR86_1 Pin=U211-2
+Added Pin To Net: NetName=NetU211_3 Pin=U211-3
+Added Pin To Net: NetName=VCD Pin=U212-1
+Added Pin To Net: NetName=NetR250_1 Pin=U212-2
+Added Pin To Net: NetName=NetC219_1 Pin=U212-3
+Added Pin To Net: NetName=N5VA Pin=U212-4
+Added Pin To Net: NetName=GND Pin=U212-5
+Added Pin To Net: NetName=NetR241_2 Pin=U212-6
+Added Pin To Net: NetName=NetR242_2 Pin=U212-7
+Added Pin To Net: NetName=P5VA Pin=U212-8
+Add Pin To Net: Unknown Pin: Pin U213-1
+Add Pin To Net: Unknown Pin: Pin U213-2
+Add Pin To Net: Unknown Pin: Pin U213-3
+Add Pin To Net: Unknown Pin: Pin U213-4
+Add Pin To Net: Unknown Pin: Pin U213-5
+Add Pin To Net: Unknown Pin: Pin U213-9
+Add Pin To Net: Unknown Pin: Pin U213-10
+Add Pin To Net: Unknown Pin: Pin U213-11
+Add Pin To Net: Unknown Pin: Pin U213-12
+Add Pin To Net: Unknown Pin: Pin U213-13
+Add Pin To Net: Unknown Pin: Pin U213-14
+Add Pin To Net: Unknown Pin: Pin U213-15
+Added Pin To Net: NetName=NetR101_1 Pin=U214-1
+Added Pin To Net: NetName=NetR101_2 Pin=U214-2
+Added Pin To Net: NetName=AGND Pin=U214-3
+Added Pin To Net: NetName=N5VA Pin=U214-4
+Added Pin To Net: NetName=AGND Pin=U214-5
+Added Pin To Net: NetName=NetR103_2 Pin=U214-6
+Added Pin To Net: NetName=NetR102_2 Pin=U214-7
+Added Pin To Net: NetName=P5VA Pin=U214-8
+Added Pin To Net: NetName=NetR293_2 Pin=U218-5
+Added Pin To Net: NetName=NetQ217_1 Pin=U218-6
+Added Pin To Net: NetName=NetQ217_3 Pin=U218-7
+Added Pin To Net: NetName=N5V Pin=U220-1
+Added Pin To Net: NetName=LIMIT Pin=U220-2
+Added Pin To Net: NetName=NetC223_2 Pin=U220-3
+Added Pin To Net: NetName=P5V Pin=U220-4
+Added Pin To Net: NetName=NetC222_1 Pin=U220-5
+Added Pin To Net: NetName=RESET Pin=U220-6
+Added Pin To Net: NetName=P5V Pin=U220-8
+Added Pin To Net: NetName=N5V Pin=U221-1
+Added Pin To Net: NetName=SET Pin=U221-2
+Added Pin To Net: NetName=DISCHARGE Pin=U221-3
+Added Pin To Net: NetName=P5V Pin=U221-4
+Added Pin To Net: NetName=NetC221_1 Pin=U221-5
+Added Pin To Net: NetName=RESET Pin=U221-6
+Added Pin To Net: NetName=P5V Pin=U221-8
+Added Pin To Net: NetName=RESET Pin=U222-1
+Added Pin To Net: NetName=NetC219_1 Pin=U222-2
+Added Pin To Net: NetName=NetC224_2 Pin=U222-3
+Added Pin To Net: NetName=NetC225_2 Pin=U222-5
+Added Pin To Net: NetName=NetC219_1 Pin=U222-6
+Added Pin To Net: NetName=SET Pin=U222-7
+Add Pin To Net: Unknown Pin: Pin VR202-1
+Add Pin To Net: Unknown Pin: Pin VR202-2
+Add Pin To Net: Unknown Pin: Pin VR202-3
+Add Pin To Net: Unknown Pin: Pin VR203-1
+Add Pin To Net: Unknown Pin: Pin VR203-2
+Add Pin To Net: Unknown Pin: Pin VR203-3
+Add Pin To Net: Unknown Pin: Pin VR205-1
+Add Pin To Net: Unknown Pin: Pin VR205-2
+Add Pin To Net: Unknown Pin: Pin VR205-3
+Add Pin To Net: Unknown Pin: Pin VR206-1
+Add Pin To Net: Unknown Pin: Pin VR206-2
+Add Pin To Net: Unknown Pin: Pin VR206-3
+Add Pin To Net: Unknown Pin: Pin VR211-1
+Add Pin To Net: Unknown Pin: Pin VR211-2
+Add Pin To Net: Unknown Pin: Pin VR211-3
+Add Net: Net with name "PNC" already exists
+Add Class Member: Failed to add class member : Component *1 CONN-115-230
+Add Class Member: Failed to add class member : Component *2 PAD-2.5MM-1.8MM-FASTON
+Add Class Member: Failed to add class member : Component * PAD-2.5MM-1.8MM-FASTON
+Added Member To Class: ClassName=U_POWERAMP Member=Component C68 CAP0603
+Added Member To Class: ClassName=U_POWERAMP Member=Component C69 CAP0603
+Added Member To Class: ClassName=U_POWERAMP Member=Component C70 CAP0603
+Added Member To Class: ClassName=U_POWERAMP Member=Component C71 CAP0603
+Add Class Member: Failed to add class member : Component D24 MMBD4148
+Add Class Member: Failed to add class member : Component D25 MMBD4148
+Add Class Member: Failed to add class member : Component D26 MMBD4148
+Add Class Member: Failed to add class member : Component D27 MMBD4148
+Add Class Member: Failed to add class member : Component D31 BAS16
+Add Class Member: Failed to add class member : Component D32 BAS16
+Add Class Member: Failed to add class member : Component D33 BAS16
+Add Class Member: Failed to add class member : Component D36 BAS16
+Add Class Member: Failed to add class member : Component D37 BAS16
+Add Class Member: Failed to add class member : Component D39 MMBD4148
+Add Class Member: Failed to add class member : Component D40 LED-GREEN-3MM
+Add Class Member: Failed to add class member : Component D41 LED-GREEN-3MM
+Add Class Member: Failed to add class member : Component D42 LED-GREEN-3MM
+Add Class Member: Failed to add class member : Component D43 MMBD4148
+Add Class Member: Failed to add class member : Component D44 MMBD4148
+Add Class Member: Failed to add class member : Component D45 MMBD4148
+Add Class Member: Failed to add class member : Component D217 BAS16
+Add Class Member: Failed to add class member : Component D220 BAS16
+Add Class Member: Failed to add class member : Component D221 BAS16
+Add Class Member: Failed to add class member : Component D222 BAS16
+Add Class Member: Failed to add class member : Component D223 BAS16
+Add Class Member: Failed to add class member : Component D224 BAS16
+Add Class Member: Failed to add class member : Component D225 BAS16
+Add Class Member: Failed to add class member : Component D226 BAS16
+Add Class Member: Failed to add class member : Component D227 BAS16
+Add Class Member: Failed to add class member : Component D228 BAS16
+Add Class Member: Failed to add class member : Component D229 BAS16
+Add Class Member: Failed to add class member : Component DISP1 DISPLAY-LCD-2X40
+Add Class Member: Failed to add class member : Component J1 BOXHEADER-10X2
+Add Class Member: Failed to add class member : Component J2 BOXHEADER-10X2
+Add Class Member: Failed to add class member : Component J3 BANANA RED, CHASSIS
+Add Class Member: Failed to add class member : Component J4 CONNECTOR,BANANA,BLUE,CHASSIS,CLIFF
+Add Class Member: Failed to add class member : Component J5 BANANA BLACK, CHASSIS
+Add Class Member: Failed to add class member : Component J6 BANANA RED, CHASSIS
+Add Class Member: Failed to add class member : Component J7 CONNECTOR,BANANA,BLUE,CHASSIS,CLIFF
+Add Class Member: Failed to add class member : Component J8 BANANA BLACK, CHASSIS
+Add Class Member: Failed to add class member : Component K1 RELA-OMRON-OMRON G6K-2F-Y-TR DC5
+Add Class Member: Failed to add class member : Component K2 RELA-OMRON-OMRON G6K-2F-Y-TR DC5
+Add Class Member: Failed to add class member : Component K3 RELA-OMRON-OMRON G6K-2F-Y-TR DC5
+Add Class Member: Failed to add class member : Component K4 RELA-OMRON-OMRON G6K-2F-Y-TR DC5
+Add Class Member: Failed to add class member : Component K5 RELA-OMRON-OMRON G6K-2F-Y-TR DC5
+Add Class Member: Failed to add class member : Component K6 RELAY-IXYS-CPC1907B
+Add Class Member: Failed to add class member : Component K7 RELAY-KEMET-UA2-5NJ
+Add Class Member: Failed to add class member : Component K8 RELAY-IXYS-LCA701S
+Add Class Member: Failed to add class member : Component K9 RELAY-IXYS-CPC1907B
+Add Class Member: Failed to add class member : Component K10 RELAY-KEMET-UA2-5NJ
+Add Class Member: Failed to add class member : Component K11 RELAY-IXYS-LCA701S
+Add Class Member: Failed to add class member : Component K12 RELAY-CIT-J104B2C5VDC.20S
+Add Class Member: Failed to add class member : Component P1 PAD-2.5MM-1.8MM
+Add Class Member: Failed to add class member : Component P2 PAD-2.5MM-1.8MM
+Add Class Member: Failed to add class member : Component P3 PAD-2.5MM-1.8MM
+Add Class Member: Failed to add class member : Component P4 PAD-2.5MM-1.8MM
+Add Class Member: Failed to add class member : Component P5 PAD-2.5MM-1.8MM
+Add Class Member: Failed to add class member : Component P6 PAD-2.5MM-1.8MM
+Add Class Member: Failed to add class member : Component Q217 MMBFJ112
+Add Class Member: Failed to add class member : Component R35 TRIMMER-BOURNS-3214X-1-501
+Add Class Member: Failed to add class member : Component R62 TRIMMER-BOURNS-3214X-1-501
+Add Class Member: Failed to add class member : Component R78 TRIMMER-BOURNS-3214X-1-103E
+Add Class Member: Failed to add class member : Component R96 TRIMMER-BOURNS-3214X-1-102E
+Add Class Member: Failed to add class member : Component R99 TRIMMER-BOURNS-3214X-1-102E
+Add Class Member: Failed to add class member : Component R100 TRIMMER-BOURNS-3214X-1-102E
+Add Class Member: Failed to add class member : Component R107 TRIMMER-BOURNS-3214X-1-103E
+Add Class Member: Failed to add class member : Component SW4 PEC12R-XX
+Add Class Member: Failed to add class member : Component U1 PCAL9555
+Add Class Member: Failed to add class member : Component U2 PCAL9555
+Add Class Member: Failed to add class member : Component U3 PCAL9555
+Add Class Member: Failed to add class member : Component U4 ATMEGA1284
+Add Class Member: Failed to add class member : Component U5 PCAL9555
+Add Class Member: Failed to add class member : Component U6 PCAL9555
+Added Member To Class: ClassName=U_SWEEP Member=Component U7 LF412
+Add Class Member: Failed to add class member : Component U8 DG451
+Add Class Member: Failed to add class member : Component U9 ATL431B 48ppm 0.5%
+Add Class Member: Failed to add class member : Component U10 DAC0802C
+Added Member To Class: ClassName=U_POWERAMP Member=Component U12 LF412
+Add Class Member: Failed to add class member : Component U13 CD4053
+Added Member To Class: ClassName=U_MULTIPLIER Member=Component U14 LM393
+Add Class Member: Failed to add class member : Component U15 AD633JR
+Add Class Member: Failed to add class member : Component u16 LM385-2V5-SOT23
+Add Class Member: Failed to add class member : Component U101 LF412
+Added Member To Class: ClassName=U_IBVG-DRIVER Member=Component U203 LF412
+Add Class Member: Failed to add class member : Component U206 CD4053
+Added Member To Class: ClassName=U_IBVG-DRIVER Member=Component U208 LF412
+Added Member To Class: ClassName=U_IBVG-DRIVER Member=Component U209 LF412
+Added Member To Class: ClassName=U_POWERAMP Member=Component U211 LF412
+Added Member To Class: ClassName=U_SWEEP Member=Component U212 LF412
+Add Class Member: Failed to add class member : Component U213 CD4053
+Added Member To Class: ClassName=U_POWERAMP Member=Component U214 LF412
+Added Member To Class: ClassName=U_SWEEP Member=Component U218 LF412
+Added Member To Class: ClassName=U_SWEEP Member=Component U220 TLC555
+Added Member To Class: ClassName=U_SWEEP Member=Component U221 TLC555
+Added Member To Class: ClassName=U_SWEEP Member=Component U222 LF412
+Add Class Member: Failed to add class member : Component VR202 TRIMMER-BOURNS-3214X-1-104
+Add Class Member: Failed to add class member : Component VR203 TRIMMER-BOURNS-3214X-1-251
+Add Class Member: Failed to add class member : Component VR205 TRIMMER-BOURNS-3214X-1-503
+Add Class Member: Failed to add class member : Component VR206 TRIMMER-BOURNS-3214X-1-103E
+Add Class Member: Failed to add class member : Component VR211 TRIMMER-BOURNS-3214X-1-103E
