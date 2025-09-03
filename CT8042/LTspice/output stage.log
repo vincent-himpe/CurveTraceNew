@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\GitHub\CurveTracer\CT8042\LTspice\output stage.net
-Start Time: Sun Aug 31 20:49:48 2025
+Start Time: Mon Sep  1 14:02:52 2025
 solver = Normal
 Maximum thread count: 22
 tnom = 27
@@ -44,7 +44,7 @@ Gmin = 3.50467e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 6.819 seconds.
+Total elapsed time: 7.942 seconds.
 
 Files loaded:
 C:\GitHub\CurveTracer\CT8042\LTspice\output stage.net

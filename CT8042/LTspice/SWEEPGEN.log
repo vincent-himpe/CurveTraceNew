@@ -1,0 +1,56 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\GitHub\CurveTracer\CT8042\LTspice\SWEEPGEN.net
+Start Time: Tue Sep  2 11:51:25 2025
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+Gmin = 2.7607e-07
+vernier = 0.25
+vernier = 0.125
+vernier = 0.166667
+Gmin = 2.01984e-07
+vernier = 0.222222
+Gmin = 1.25681e-07
+vernier = 0.296296
+vernier = 0.395061
+Gmin = 5.84612e-08
+vernier = 0.526748
+vernier = 0.702331
+Gmin = 1.7846e-08
+vernier = 0.351165
+vernier = 0.46822
+Gmin = 7.9875e-09
+vernier = 0.624294
+Gmin = 2.14882e-09
+vernier = 0.832392
+vernier = 1
+Gmin = 2.83105e-10
+Gmin = 3.03981e-11
+Gmin = 3.26397e-12
+Gmin = 3.50467e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 1.230 seconds.
+
+Files loaded:
+C:\GitHub\CurveTracer\CT8042\LTspice\SWEEPGEN.net
+C:\Users\VincentHimpe\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\VincentHimpe\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\VincentHimpe\AppData\Local\LTspice\lib\cmp\standard.jft
+C:\Users\VincentHimpe\AppData\Local\LTspice\lib\sub\LTC2.lib
+C:\Users\VincentHimpe\AppData\Local\LTspice\lib\sub\NE555.sub
+
