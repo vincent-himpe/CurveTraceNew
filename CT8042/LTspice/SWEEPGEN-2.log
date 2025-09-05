@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\GitHub\CurveTracer\CT8042\LTspice\SWEEPGEN-2.net
-Start Time: Tue Sep  2 13:41:06 2025
+Start Time: Tue Sep  2 21:15:53 2025
 solver = Normal
 Maximum thread count: 22
 tnom = 27
@@ -26,10 +26,11 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.276 seconds.
+Total elapsed time: 0.320 seconds.
 
 Files loaded:
 C:\GitHub\CurveTracer\CT8042\LTspice\SWEEPGEN-2.net
+C:\Users\VincentHimpe\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\VincentHimpe\AppData\Local\LTspice\lib\cmp\standard.bjt
 C:\Users\VincentHimpe\AppData\Local\LTspice\lib\cmp\standard.mos
 C:\Users\VincentHimpe\AppData\Local\LTspice\lib\sub\LT1017.sub
