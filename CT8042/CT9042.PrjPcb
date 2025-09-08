@@ -339,23 +339,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EMKSDUMJ
 
 [Document18]
-DocumentPath=PSU48.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QJHHAZYW
-
-[Document19]
 DocumentPath=CT9042 Front Board Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVYFBTCE
 
-[Document20]
+[Document19]
 DocumentPath=CT8042 Front Board Assembly Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOMFWSLM
 
-[Document21]
+[Document20]
 DocumentPath=CT9042 Front Panel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFOCGONQ
 
-[Document22]
+[Document21]
 DocumentPath=CT9042 Front Panel Cover Sheet .PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBAOCPHT
 
-[Document23]
+[Document22]
 DocumentPath=CT9042 Front Panel Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,6 +422,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFQGZWVM
+
+[Document23]
+DocumentPath=Operation.txt
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Parameter1]
 Name=SCHdrafter

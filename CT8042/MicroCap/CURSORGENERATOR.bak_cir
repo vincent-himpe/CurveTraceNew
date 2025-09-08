@@ -7,8 +7,16 @@ Shape Version=11.00
 Screen=2560,1440
 MCAPVersion=12.2.0.5
 Key ID=Demo
-NLCnt=83
+NLCnt=89
 TXCnt=2
+
+[shapedef]
+Name=Capacitor
+Line=0,0,22,0
+Line=22,-8,22,8
+Line=26,-8,26,8
+Line=26,0,48,0
+Current=32,12,16,12
 
 [shapedef]
 Name=Ground
@@ -187,6 +195,18 @@ Pin="5",a,3,-3,-9,6
 Pin="6",a,-1,5,-3,-1
 Pin="7",a,6,10,-8,9
 Pin="8",a,10,3,-2,-1
+
+[compdef]
+Name=Capacitor
+Definition=Capacitor
+Shape=Capacitor
+Mask=7425
+Used=27
+memo=Capacitor
+Label Offset=16,12,12,12
+PinCnt=2
+Pin="Plus",6,0,-3,-5
+Pin="Minus",0,0,-14,-5
 
 [Circuit]
 Window Placement=2,3, -1,-1, -8,-31, 26,26,1817,824
@@ -488,7 +508,7 @@ Pxs=1096,608,1480,608
 Pxs=1136,304,1136,384
 
 [Wire]
-Pxs=1136,384,1304,384
+Pxs=1136,384,1224,384
 
 [Wire]
 Pxs=1064,328,1064,384
@@ -776,6 +796,40 @@ ON=0,0,Saved_Pulse
 V=DC 0 AC 1 0 Pulse 0 5 100n 10n 10n 1US 3US
 Style=256
 
+[Comp]
+Name=Capacitor
+Px=1312,440
+Rot=6
+
+[Attr]
+ON=12,-26,PART
+V=C1
+Style=8192
+
+[Attr]
+ON=12,-40,CAPACITANCE
+V=1NF
+Style=8192
+
+[Attr]
+ON=0,0,PACKAGE
+V
+
+[Wire]
+Pxs=1224,440,1264,440
+
+[Wire]
+Pxs=1224,384,1224,440
+
+[Wire]
+Pxs=1224,384,1304,384
+
+[Wire]
+Pxs=1312,440,1368,440
+
+[Wire]
+Pxs=1368,384,1368,440
+
 [Grid Text]
 Text="P"
 Px=664,432
@@ -989,7 +1043,7 @@ Scale 0=1
 Scale 1=1
 Scale 2=1
 Scale 3=1
-Px=633,489
+Px=1366,385
 WinBackGround Color=#FFFFFF
 Select Color=#FF0000
 Anchor Color=#000000
