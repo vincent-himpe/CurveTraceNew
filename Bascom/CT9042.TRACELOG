@@ -1,0 +1,49 @@
+0165    
+0168      X = X + 1
+0169    Loop
+0170    END
+0156      cooked = 0
+0157      cooked = y
+0158      cooked = cooked * 4
+0159      LOCATE 1,30
+0160      LCD format(cookedstring," 0.00")
+0161      LOCATE 2,30
+0162      'cooked = cooked \10
+0164      LCD format(cookedstring,"0.000")
+0165    
+0168      X = X + 1
+0169    Loop
+0170    END
+0156      cooked = 0
+0157      cooked = y
+0158      cooked = cooked * 4
+0159      LOCATE 1,30
+0160      LCD format(cookedstring," 0.00")
+0161      LOCATE 2,30
+0162      'cooked = cooked \10
+0164      LCD format(cookedstring,"0.000")
+0165    
+0168      X = X + 1
+0169    Loop
+0170    END
+0156      cooked = 0
+0157      cooked = y
+0158      cooked = cooked * 4
+0159      LOCATE 1,30
+0160      LCD format(cookedstring," 0.00")
+0161      LOCATE 2,30
+0162      'cooked = cooked \10
+0164      LCD format(cookedstring,"0.000")
+0165    
+0168      X = X + 1
+0169    Loop
+0170    END
+0156      cooked = 0
+0157      cooked = y
+0158      cooked = cooked * 4
+0159      LOCATE 1,30
+0160      LCD format(cookedstring," 0.00")
+0161      LOCATE 2,30
+0162      'cooked = cooked \10
+0164      LCD format(cookedstring,"0.000")
+0165    

@@ -1,0 +1,57 @@
+$regfile = "avrx64da64.dat"
+$crystal = 20000000
+$hwstack = 40
+$swstack = 40
+$framesize = 40
+
+
+'$regfile = "attiny13.dat "
+'$crystal = 9600000
+'$hwstack = 20
+'$swstack = 16
+'$framesize = 4
+
+
+Declare Sub Pcint0_isr()
+Led1 Alias Portb.3
+Led2 Alias Portb.4
+Button Alias Portb.0
+Config Led1 = Output
+Config Led2 = Output
+Config Button = Input
+Button = 1  'set pullup resistor
+
+
+' attiny code
+'Set Pcmsk.pcint0
+'Set Gimsk.pcie
+'On Pcint0 Pcint0_isr
+
+on portb_int  KeyIntBhandler
+enable PORTB_INT
+Enable Interrupts
+
+Enable Interrupts
+Do
+   Toggle Led1
+   'Waitms 1
+Loop
+End
+
+Sub Pcint0_isr()
+   If Pinb.0 = 0 Then
+    '  Waitms 20
+      If Pinb.0 = 0 Then
+         Toggle Led2
+      End If
+   End If
+  return
+End Sub
+
+
+
+
+
+
+
+

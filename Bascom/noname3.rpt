@@ -1,0 +1,319 @@
+Report       : noname3
+Date         : 09-10-2025
+Time         : 07:26:30
+
+Compiler     : BASCOM-AVR LIBRARY V 2.0.8.7
+Processor    : ATTINY13
+SRAM         : 40 hex
+EEPROM       : 40 hex
+ROMSIZE      : 400 hex
+
+ROMIMAGE     : FE hex  -> Will fit into ROM
+ROMIMAGE     :  254 dec
+FLASH USED   :  24  %
+XTAL         : 9600000 Hz
+BAUD         : 9600 Baud
+BAUD error   : 100.%
+
+Stack start  : 9F hex
+Stack size   : 14 hex
+S-Stacksize  : 10 hex
+S-Stackstart : 8C hex
+Framesize    : 4 hex
+Framestart   : 78 hex
+Space left   :  23  dec
+
+LCD DB7      : PORTB.7
+LCD DB6      : PORTB.6
+LCD DB5      : PORTB.5
+LCD DB4      : PORTB.4
+LCD E        : PORTB.3
+LCD RS       : PORTB.2
+LCD mode     :  4  bit
+
+--------------------------------------------------------------------------------
+Variable                         Type            Address(hex)   Address(dec)
+--------------------------------------------------------------------------------
+ADC                              Word              0024          36 
+HWSTACK                          Word              005D          93 
+SWSTACK                          Word              001C          28 
+FRAME                            Word              0004          4 
+R0                                                 0000          0 
+R1                                                 0001          1 
+R2                                                 0002          2 
+R3                                                 0003          3 
+R4                                                 0004          4 
+R5                                                 0005          5 
+R6                                                 0006          6 
+R7                                                 0007          7 
+R8                                                 0008          8 
+R9                                                 0009          9 
+R10                                                000A          10 
+R11                                                000B          11 
+R12                                                000C          12 
+R13                                                000D          13 
+R14                                                000E          14 
+R15                                                000F          15 
+R16                                                0010          16 
+R17                                                0011          17 
+R18                                                0012          18 
+R19                                                0013          19 
+R20                                                0014          20 
+R21                                                0015          21 
+R22                                                0016          22 
+R23                                                0017          23 
+R24                                                0018          24 
+R25                                                0019          25 
+R26                                                001A          26 
+R27                                                001B          27 
+R28                                                001C          28 
+R29                                                001D          29 
+R30                                                001E          30 
+R31                                                001F          31 
+ADCD                             Word              0024          36 
+PWM0                             Byte              0056          86 
+PWM0A                            Byte              0056          86 
+PWM0B                            Byte              0049          73 
+ERR                              Bit [2]           0006          6 
+
+--------------------------------------------------------------------------------
+Constant                         Value
+--------------------------------------------------------------------------------
+_SRAM_FREE                       0
+_XRAM_FREE                       0
+_ADC_REFMODEL                    3
+SREG                             &H3F
+SPL                              &H3D
+GIMSK                            &H3B
+GIFR                             &H3A
+TIMSK                            &H39
+TIMSK0                           &H39
+TIFR                             &H38
+TIFR0                            &H38
+SPMCSR                           &H37
+OCR0A                            &H36
+PWM0A                            &H36
+COMPARE0A                        &H36
+OCR0                             &H36
+PWM0                             &H36
+COMPARE0                         &H36
+MCUCR                            &H35
+MCUSR                            &H34
+MCUCSR                           &H34
+TCCR0B                           &H33
+TCCR0                            &H33
+TCNT0                            &H32
+COUNTER0                         &H32
+TIMER0                           &H32
+OSCCAL                           &H31
+TCCR0A                           &H2F
+DWDR                             &H2E
+OCR0B                            &H29
+PWM0B                            &H29
+COMPARE0B                        &H29
+GTCCR                            &H28
+CLKPR                            &H26
+WDTCR                            &H21
+EEAR                             &H1E
+EEARL                            &H1E
+EEDR                             &H1D
+EECR                             &H1C
+PORTB                            &H18
+DDRB                             &H17
+PINB                             &H16
+PCMSK                            &H15
+DIDR0                            &H14
+ACSR                             &H08
+ADMUX                            &H07
+ADCSRA                           &H06
+ADCSR                            &H06
+ADCH                             &H05
+ADCL                             &H04
+ADCSRB                           &H03
+_ROMSIZE                         1024
+_CHIP                            30
+SP7                              7
+SP6                              6
+SP5                              5
+SP4                              4
+SP3                              3
+SP2                              2
+SP1                              1
+SP0                              0
+INT0                             6
+PCIE                             5
+INTF0                            6
+PCIF                             5
+OCIE0B                           3
+OCIE0A                           2
+TOIE0                            1
+OCF0B                            3
+OCF0A                            2
+TOV0                             1
+TSM                              7
+PSR10                            0
+PUD                              6
+SE                               5
+SM1                              4
+SM0                              3
+ISC01                            1
+ISC00                            0
+WDRF                             3
+BORF                             2
+EXTRF                            1
+PORF                             0
+CTPB                             4
+RFLB                             3
+PGWRT                            2
+PGERS                            1
+SPMEN                            0
+COM0A1                           7
+COM0A0                           6
+COM0B1                           5
+COM0B0                           4
+WGM01                            1
+WGM00                            0
+COM00                            6
+COM01                            7
+FOC0A                            7
+FOC0B                            6
+WGM02                            3
+CS02                             2
+CS01                             1
+CS00                             0
+CLKPCE                           7
+CLKPS3                           3
+CLKPS2                           2
+CLKPS1                           1
+CLKPS0                           0
+WDTIF                            7
+WDTIE                            6
+WDP3                             5
+WDTOE                            4
+WDE                              3
+WDP2                             2
+WDP1                             1
+WDP0                             0
+EEPM1                            5
+EEPM0                            4
+EERIE                            3
+EEMPE                            2
+EEMWE                            2
+EEPE                             1
+EEWE                             1
+EERE                             0
+PB4                              4
+PB3                              3
+PB2                              2
+PB1                              1
+PB0                              0
+DDB4                             4
+DDB3                             3
+DDB2                             2
+DDB1                             1
+DDB0                             0
+PINB4                            4
+PINB3                            3
+PINB2                            2
+PINB1                            1
+PINB0                            0
+PCINT5                           5
+PCINT4                           4
+PCINT3                           3
+PCINT2                           2
+PCINT1                           1
+PCINT0                           0
+ADC0D                            5
+ADC2D                            4
+ADC3D                            3
+ADC1D                            2
+AIN1D                            1
+AIN0D                            0
+ACD                              7
+ACBG                             6
+AINBG                            6
+ACO                              5
+ACI                              4
+ACIE                             3
+ACIS1                            1
+ACIS0                            0
+REFS0                            6
+ADLAR                            5
+MUX1                             1
+MUX0                             0
+ADEN                             7
+ADSC                             6
+ADATE                            5
+ADIF                             4
+ADIE                             3
+ADPS2                            2
+ADPS1                            1
+ADPS0                            0
+ACME                             6
+ADTS2                            2
+ADTS1                            1
+ADTS0                            0
+_RESET                           0
+_DATE_FORMAT                     0
+_DATE_SEPARATOR                  92
+_GSTRBUF                         120
+_DECIMALPOINT                    46
+_RTSCTS                          0
+_RTSCTS1                         0
+_RTSCTS3                         0
+_RTSCTS4                         0
+_RTSCTS5                         0
+_RTSCTS6                         0
+_RTSCTS7                         0
+_RTSCTS8                         0
+_RAMSIZE                         64
+_ERAMSIZE                        64
+_SIM                             0
+_HUGE                            0
+_BASE                            1
+_XTAL                            9600000
+_BUILD                           20870
+_COMPILER                        90
+_HWMUL                           0
+_DOSFILEWRITE                    0
+_DOSDIRWRITE                     0
+_1WEXT                           0
+_UARTS                           0
+_HWSTACKSTART                    159
+_TIMEOUT                         0
+_PBIN_EXTENDED                   0
+_SPI_EXTENDED                    0
+_INPBIN_EXTENDED                 0
+_BIGSTRINGS                      0
+SEROUT_EXTPULL                   1
+_FPROTECT                        0
+_HWSTACK_LOW                     &H008B
+_SWSTACK_LOW                     &H007C
+_FRAME_HIGH                      &H007D
+_HAVEMOVW                        1
+_XMEGA                           0
+_XTINY                           0
+CBITINFINITY                     0
+CMBITINFINITY                    1
+CBITZERO                         1
+CMBITZERO                        2
+CBITNAN                          2
+CMBITNAN                         4
+CBITNANIFINF                     3
+CMBITNANIFINF                    8
+CBITNANIFMINUS                   4
+CMBITNANIFMINUS                  16
+CBITSIGN                         7
+CMBITSIGN                        128
+CEXPADDOFFSET                    0
+CEXPSUBOFFSET                    12
+CEXPMULOFFSET                    24
+CEXPDIVOFFSET                    36
+
+
+--------------------------------------------------------------------------------
+Warnings:
+--------------------------------------------------------------------------------
+ADCD                             not used
+
+High Baud rate error  in line  34 

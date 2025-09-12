@@ -1,0 +1,39 @@
+$regfile =  "attiny13.dat "
+$crystal = 9600000
+$hwstack=20
+$swstack = 16
+$framesize = 32
+
+Led1 Alias Portb.3
+Led2 Alias Portb.4
+Button Alias Portb.0
+Config Led1 = Output
+Config Led2 = Output
+Config Button = Input
+Button = 1  'set pullup resistor
+Set Pcmsk.pcint0
+Set Gimsk.pcie
+On Pcint0 Pcint0_isr
+Enable Interrupts
+Do
+   Toggle Led1
+   Waitms 40
+Loop
+Pcint0_isr:
+   If Pinb.0 = 0 Then
+      Waitms 20
+      If Pinb.0 = 0 Then
+         Toggle Led2
+      End If
+   End If
+Return
+End
+
+
+
+
+
+
+
+
+

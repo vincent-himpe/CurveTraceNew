@@ -1,11 +1,8 @@
 '------------------------------------------------------------------
-'                    (c) 1995-2023 MCS
-'                      TWI1-PCF8574A.bas
-'purpose : test PCF8574A I2C chip with TWI1 interface
-'Micro: 128db64
+'Micro: 64db64
 '------------------------------------------------------------------
-$regfile = "mx4809.dat"                                ' the used chip
-$crystal = 20000000                                         ' frequency used
+$regfile = "avrx64da64.dat"                                                     ' the used chip
+$crystal = 20000000                                                             ' frequency used
 $hwstack = 40
 $swstack = 40
 $framesize = 40
@@ -29,6 +26,7 @@ DIM ADCRESULTS(3) AS INTEGER
 
 DIM ADCSTRING AS STRING * 4
 Dim ADCLength As Byte
+Dim Xx As Byte
 Dim ADCSpaces As Byte
 
 
@@ -214,5 +212,5 @@ end sub
 Sub KeyIntBhandler()
     'locate 1,1
     'lcd"BLAH"
-    portc = &b1010_1010
+    Portc = &B1010_1010
 end sub

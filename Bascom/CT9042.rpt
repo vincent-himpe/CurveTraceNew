@@ -1,6 +1,6 @@
 Report       : CT9042
-Date         : 09-08-2025
-Time         : 20:42:49
+Date         : 09-09-2025
+Time         : 18:34:49
 
 Compiler     : BASCOM-AVR LIBRARY V 2.0.8.7
 Processor    : M4809
@@ -8,9 +8,9 @@ SRAM         : 1800 hex
 EEPROM       : 100 hex
 ROMSIZE      : C000 hex
 
-ROMIMAGE     : 59C hex  -> Will fit into ROM
-ROMIMAGE     :  1436 dec
-FLASH USED   :  2  %
+ROMIMAGE     : 66A hex  -> Will fit into ROM
+ROMIMAGE     :  1642 dec
+FLASH USED   :  3  %
 XTAL         : 20000000 Hz
 USART0        : BAUD NOT SET
 USART1        : BAUD NOT SET
@@ -66,9 +66,71 @@ TCB3_CNT                         Word              0ABA          2746
 TCB3_CCMP                        Word              0ABC          2748 
 NVMCTRL_DATA                     Word              1006          4102 
 NVMCTRL_ADDR                     Word              1008          4104 
+___LTMPA                                           0010          16 
+___LTMPB                                           0014          20 
+___LTMPC                                           0018          24 
+___DWTMPA                                          0010          16 
+___DWTMPB                                          0014          20 
+___DWTMPC                                          0018          24 
+___ITMPA                                           0010          16 
+___ITMPB                                           0014          20 
+___ITMPC                                           0018          24 
+___SINGLEA                       Single            0010          16 
+___WTMPA                                           0010          16 
+___WTMPR18                                         0012          18 
+___ITMPR18                                         0012          18 
+___WTMPR22                                         0016          22 
+___WTMPR30                                         001E          30 
+___WR18                                            0012          18 
+___WR16                                            0010          16 
+___WR20                                            0014          20 
+___WR21                                            0015          21 
+___DWR16                                           0010          16 
+___DWR20                                           0014          20 
+___LR16                                            0010          16 
+___LR20                                            0014          20 
+___WTMPAH                                          0011          17 
 HWSTACK                          Word              003D          61 
 SWSTACK                          Word              001C          28 
 FRAME                            Word              0004          4 
+___WTMPB                                           0014          20 
+___WTMPC                                           0018          24 
+___STMPA                                           000D          13 
+___STMPB                                           0012          18 
+_TEMP1                                             0018          24 
+_TEMP2                                             0019          25 
+___R0                                              0000          0 
+___R1                                              0001          1 
+___R2                                              0002          2 
+___R3                                              0003          3 
+___R4                                              0004          4 
+___R5                                              0005          5 
+___R6                                              0006          6 
+___R7                                              0007          7 
+___R8                                              0008          8 
+___R9                                              0009          9 
+___R10                                             000A          10 
+___R11                                             000B          11 
+___R12                                             000C          12 
+___R13                                             000D          13 
+___R14                                             000E          14 
+___R15                                             000F          15 
+___R16                                             0010          16 
+___R17                                             0011          17 
+___R18                                             0012          18 
+___R19                                             0013          19 
+___R20                                             0014          20 
+___R21                                             0015          21 
+___R22                                             0016          22 
+___R23                                             0017          23 
+___R24                                             0018          24 
+___R25                                             0019          25 
+___R26                                             001A          26 
+___R27                                             001B          27 
+___R28                                             001C          28 
+___R29                                             001D          29 
+___R30                                             001E          30 
+___R31                                             001F          31 
 R0                                                 0000          0 
 R1                                                 0001          1 
 R2                                                 0002          2 
@@ -101,8 +163,44 @@ R28                                                001C          28
 R29                                                001D          29 
 R30                                                001E          30 
 R31                                                001F          31 
+___BTMPA                                           0010          16 
+_A1                                                0010          16 
+_A2                                                0011          17 
+_A3                                                0012          18 
+_A4                                                0013          19 
+_B1                                                0014          20 
+_B2                                                0015          21 
+_B3                                                0016          22 
+_B4                                                0017          23 
+___BTMPB                                           0014          20 
+___BTMPR0                                          0000          0 
+___BTMPC                                           0018          24 
+___BTMP2                                           0019          25 
+___BITTMPA                       Bit [0]           0010          16 
+___BITTMPB                       Bit [0]           0014          20 
+___BITTMPC                       Bit [0]           0018          24 
+___BITSIGNED                     Bit [0]           0006          6 
 ERR                              Bit [2]           0006          6 
+_XLXH                                              001A          26 
+_ZLZH                                              001E          30 
+___STRA                          String            0000          0 
+___XLBYTE                        Byte              001A          26 
+___XLINTEGER                     Integer           001A          26 
+___XLWORD                        Word              001A          26 
+___XLLONG                        Long              001A          26 
+___XLDWORD                       Dword             001A          26 
+___XLDOUBLE                      Double            001A          26 
+___STRFRAME                      String            0004          4 
+___XL                                              001A          26 
+___STRBUF                        String            3F88          16264 
 LEFTMARKER                       Word              2800          10240 
+_XTINYREG                        Byte(8)           2802          10242 
+___LTMPAX                        Long              2802          10242 
+___DWTMPAX                       Dword             2802          10242 
+___BTMPAX                        Byte              2802          10242 
+___WTMPAX                        Word              2802          10242 
+___STMPAX                        Single            2802          10242 
+___DOUBLEAX                      Double            2802          10242 
 RIGHTMARKER                      Word              280A          10250 
 COOKED                           Word              280C          10252 
 COOKEDSTRING                     String * 6        280E          10254 

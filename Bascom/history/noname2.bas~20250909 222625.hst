@@ -1,0 +1,28 @@
+$regfile = "avrx64da64.dat"                                                     ' the used chip
+$crystal = 20000000                                                             ' frequency used
+$hwstack = 40
+$swstack = 40
+$framesize = 40
+
+Declare Sub Inthandler()
+
+Dim X As Word
+
+Config Portc = Output
+
+Config Portc = Output
+Config Portb = Input
+Config Porta = Output
+Config Xpin = Portb , Pullup = Pullup , Sense = Falling
+On Portb_int  Inthandler
+enable Interrupts
+Do
+X = X  + 1
+portc = x
+If X = 0 Then Porta = 0                                                         ' when this loop overflows clear porta
+Loop
+End
+
+Sub Inthandler()
+   porta = &B1010_1010
+End Sub

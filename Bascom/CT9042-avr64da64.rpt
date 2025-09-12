@@ -1,0 +1,2107 @@
+Report       : CT9042-avr64da64
+Date         : 09-10-2025
+Time         : 06:13:21
+
+Compiler     : BASCOM-AVR LIBRARY V 2.0.8.7
+Processor    : T64DA64
+SRAM         : 2000 hex
+EEPROM       : 200 hex
+ROMSIZE      : 10000 hex
+
+ROMIMAGE     : 6C0 hex  -> Will fit into ROM
+ROMIMAGE     :  1728 dec
+FLASH USED   :  2  %
+XTAL         : 20000000 Hz
+USART0        : BAUD NOT SET
+USART1        : BAUD NOT SET
+USART2        : BAUD NOT SET
+USART3        : BAUD NOT SET
+USART4        : BAUD NOT SET
+USART5        : BAUD NOT SET
+
+Stack start  : 7FFF hex
+Stack size   : 28 hex
+S-Stacksize  : 28 hex
+S-Stackstart : 7FD8 hex
+Framesize    : 28 hex
+Framestart   : 7F88 hex
+Space left   :  8033  dec
+
+LCD DB7      : PORTF.3
+LCD DB6      : PORTF.2
+LCD DB5      : PORTF.1
+LCD DB4      : PORTF.0
+LCD E        : PORTF.4
+LCD RS       : PORTF.6
+LCD mode     :  4  bit
+
+--------------------------------------------------------------------------------
+Variable                         Type            Address(hex)   Address(dec)
+--------------------------------------------------------------------------------
+CPU_SP                           Word              003D          61 
+SP                               Word              003D          61 
+RTC_CNT                          Word              0148          328 
+RTC_PER                          Word              014A          330 
+RTC_CMP                          Word              014C          332 
+ADC0_RES                         Word              0610          1552 
+ADC0_WINLT                       Word              0612          1554 
+ADC0_WINHT                       Word              0614          1556 
+DAC0_DATA                        Word              06A2          1698 
+USART0_BAUD                      Word              0808          2056 
+USART1_BAUD                      Word              0828          2088 
+USART2_BAUD                      Word              0848          2120 
+USART3_BAUD                      Word              0868          2152 
+USART4_BAUD                      Word              0888          2184 
+USART5_BAUD                      Word              08A8          2216 
+TCA0_CNT                         Word              0A20          2592 
+TCA0_PER                         Word              0A26          2598 
+TCA0_CMP0                        Word              0A28          2600 
+TCA0_CMP1                        Word              0A2A          2602 
+TCA0_CMP2                        Word              0A2C          2604 
+TCA0_PERBUF                      Word              0A36          2614 
+TCA0_CMP0BUF                     Word              0A38          2616 
+TCA0_CMP1BUF                     Word              0A3A          2618 
+TCA0_CMP2BUF                     Word              0A3C          2620 
+TCA1_CNT                         Word              0A60          2656 
+TCA1_PER                         Word              0A66          2662 
+TCA1_CMP0                        Word              0A68          2664 
+TCA1_CMP1                        Word              0A6A          2666 
+TCA1_CMP2                        Word              0A6C          2668 
+TCA1_PERBUF                      Word              0A76          2678 
+TCA1_CMP0BUF                     Word              0A78          2680 
+TCA1_CMP1BUF                     Word              0A7A          2682 
+TCA1_CMP2BUF                     Word              0A7C          2684 
+TCB0_CNT                         Word              0B0A          2826 
+TCB0_CCMP                        Word              0B0C          2828 
+TCB1_CNT                         Word              0B1A          2842 
+TCB1_CCMP                        Word              0B1C          2844 
+TCB2_CNT                         Word              0B2A          2858 
+TCB2_CCMP                        Word              0B2C          2860 
+TCB3_CNT                         Word              0B3A          2874 
+TCB3_CCMP                        Word              0B3C          2876 
+TCB4_CNT                         Word              0B4A          2890 
+TCB4_CCMP                        Word              0B4C          2892 
+TCD0_CAPTUREA                    Word              0BA2          2978 
+TCD0_CAPTUREB                    Word              0BA4          2980 
+TCD0_CMPASET                     Word              0BA8          2984 
+TCD0_CMPACLR                     Word              0BAA          2986 
+TCD0_CMPBSET                     Word              0BAC          2988 
+TCD0_CMPBCLR                     Word              0BAE          2990 
+NVMCTRL_DATA                     Word              1006          4102 
+SIGROW_TEMPSENSE0                Word              1104          4356 
+SIGROW_TEMPSENSE1                Word              1106          4358 
+NVMCTRL_ADDR                     Dword             1008          4104 
+LOCK_KEY                         Dword             1040          4160 
+___LTMPA                                           0010          16 
+___LTMPB                                           0014          20 
+___LTMPC                                           0018          24 
+___DWTMPA                                          0010          16 
+___DWTMPB                                          0014          20 
+___DWTMPC                                          0018          24 
+___ITMPA                                           0010          16 
+___ITMPB                                           0014          20 
+___ITMPC                                           0018          24 
+___SINGLEA                       Single            0010          16 
+___WTMPA                                           0010          16 
+___WTMPR18                                         0012          18 
+___ITMPR18                                         0012          18 
+___WTMPR22                                         0016          22 
+___WTMPR30                                         001E          30 
+___WR18                                            0012          18 
+___WR16                                            0010          16 
+___WR20                                            0014          20 
+___WR21                                            0015          21 
+___DWR16                                           0010          16 
+___DWR20                                           0014          20 
+___LR16                                            0010          16 
+___LR20                                            0014          20 
+___WTMPAH                                          0011          17 
+HWSTACK                          Word              003D          61 
+SWSTACK                          Word              001C          28 
+FRAME                            Word              0004          4 
+___WTMPB                                           0014          20 
+___WTMPC                                           0018          24 
+___STMPA                                           000D          13 
+___STMPB                                           0012          18 
+_TEMP1                                             0018          24 
+_TEMP2                                             0019          25 
+___R0                                              0000          0 
+___R1                                              0001          1 
+___R2                                              0002          2 
+___R3                                              0003          3 
+___R4                                              0004          4 
+___R5                                              0005          5 
+___R6                                              0006          6 
+___R7                                              0007          7 
+___R8                                              0008          8 
+___R9                                              0009          9 
+___R10                                             000A          10 
+___R11                                             000B          11 
+___R12                                             000C          12 
+___R13                                             000D          13 
+___R14                                             000E          14 
+___R15                                             000F          15 
+___R16                                             0010          16 
+___R17                                             0011          17 
+___R18                                             0012          18 
+___R19                                             0013          19 
+___R20                                             0014          20 
+___R21                                             0015          21 
+___R22                                             0016          22 
+___R23                                             0017          23 
+___R24                                             0018          24 
+___R25                                             0019          25 
+___R26                                             001A          26 
+___R27                                             001B          27 
+___R28                                             001C          28 
+___R29                                             001D          29 
+___R30                                             001E          30 
+___R31                                             001F          31 
+R0                                                 0000          0 
+R1                                                 0001          1 
+R2                                                 0002          2 
+R3                                                 0003          3 
+R4                                                 0004          4 
+R5                                                 0005          5 
+R6                                                 0006          6 
+R7                                                 0007          7 
+R8                                                 0008          8 
+R9                                                 0009          9 
+R10                                                000A          10 
+R11                                                000B          11 
+R12                                                000C          12 
+R13                                                000D          13 
+R14                                                000E          14 
+R15                                                000F          15 
+R16                                                0010          16 
+R17                                                0011          17 
+R18                                                0012          18 
+R19                                                0013          19 
+R20                                                0014          20 
+R21                                                0015          21 
+R22                                                0016          22 
+R23                                                0017          23 
+R24                                                0018          24 
+R25                                                0019          25 
+R26                                                001A          26 
+R27                                                001B          27 
+R28                                                001C          28 
+R29                                                001D          29 
+R30                                                001E          30 
+R31                                                001F          31 
+___BTMPA                                           0010          16 
+_A1                                                0010          16 
+_A2                                                0011          17 
+_A3                                                0012          18 
+_A4                                                0013          19 
+_B1                                                0014          20 
+_B2                                                0015          21 
+_B3                                                0016          22 
+_B4                                                0017          23 
+___BTMPB                                           0014          20 
+___BTMPR0                                          0000          0 
+___BTMPC                                           0018          24 
+___BTMP2                                           0019          25 
+___BITTMPA                       Bit [0]           0010          16 
+___BITTMPB                       Bit [0]           0014          20 
+___BITTMPC                       Bit [0]           0018          24 
+___BITSIGNED                     Bit [0]           0006          6 
+ERR                              Bit [2]           0006          6 
+_XLXH                                              001A          26 
+_ZLZH                                              001E          30 
+___STRA                          String            0000          0 
+___XLBYTE                        Byte              001A          26 
+___XLINTEGER                     Integer           001A          26 
+___XLWORD                        Word              001A          26 
+___XLLONG                        Long              001A          26 
+___XLDWORD                       Dword             001A          26 
+___XLDOUBLE                      Double            001A          26 
+___STRFRAME                      String            0004          4 
+___XL                                              001A          26 
+___STRBUF                        String            7F88          32648 
+LEFTMARKER                       Word              6000          24576 
+_XTINYREG                        Byte(8)           6002          24578 
+___LTMPAX                        Long              6002          24578 
+___DWTMPAX                       Dword             6002          24578 
+___BTMPAX                        Byte              6002          24578 
+___WTMPAX                        Word              6002          24578 
+___STMPAX                        Single            6002          24578 
+___DOUBLEAX                      Double            6002          24578 
+RIGHTMARKER                      Word              600A          24586 
+COOKED                           Word              600C          24588 
+COOKEDSTRING                     String * 6        600E          24590 
+X                                Integer           6015          24597 
+Y                                Integer           6017          24599 
+ADCRESULTS                       Integer(3)        6019          24601 
+ADCSTRING                        String * 4        601F          24607 
+ADCLENGTH                        Byte              6024          24612 
+XX                               Byte              6025          24613 
+ADCSPACES                        Byte              6026          24614 
+
+--------------------------------------------------------------------------------
+Constant                         Value
+--------------------------------------------------------------------------------
+_SRAM_FREE                       0
+_XRAM_FREE                       0
+_EPROM_PAGESIZE                  1
+_ADC_REFMODEL                    30
+VPORTA_DIR                       0
+DDRA                             0
+VPORTA_OUT                       1
+PORTA                            1
+VPORTA_IN                        2
+PINA                             2
+VPORTA_INTFLAGS                  3
+VPORTB_DIR                       4
+DDRB                             4
+VPORTB_OUT                       5
+PORTB                            5
+VPORTB_IN                        6
+PINB                             6
+VPORTB_INTFLAGS                  7
+VPORTC_DIR                       8
+DDRC                             8
+VPORTC_OUT                       9
+PORTC                            9
+VPORTC_IN                        10
+PINC                             10
+VPORTC_INTFLAGS                  11
+VPORTD_DIR                       12
+DDRD                             12
+VPORTD_OUT                       13
+PORTD                            13
+VPORTD_IN                        14
+PIND                             14
+VPORTD_INTFLAGS                  15
+VPORTE_DIR                       16
+DDRE                             16
+VPORTE_OUT                       17
+PORTE                            17
+VPORTE_IN                        18
+PINE                             18
+VPORTE_INTFLAGS                  19
+VPORTF_DIR                       20
+DDRF                             20
+VPORTF_OUT                       21
+PORTF                            21
+VPORTF_IN                        22
+PINF                             22
+VPORTF_INTFLAGS                  23
+VPORTG_DIR                       24
+DDRG                             24
+VPORTG_OUT                       25
+PORTG                            25
+VPORTG_IN                        26
+PING                             26
+VPORTG_INTFLAGS                  27
+GPR_GPR0                         28
+GPR_GPR1                         29
+GPR_GPR2                         30
+GPR_GPR3                         31
+CPU_CCP                          52
+CPU_RAMPZ                        59
+RAMPZ                            59
+CPU_SPL                          61
+CPU_SPH                          62
+SPL                              61
+SPH                              62
+CPU_SREG                         63
+SREG                             63
+RSTCTRL_RSTFR                    64
+RSTCTRL_SWRR                     65
+SLPCTRL_CTRLA                    80
+SLPCTRL_VREGCTRL                 81
+CLKCTRL_MCLKCTRLA                96
+CLKCTRL_MCLKCTRLB                97
+CLKCTRL_MCLKLOCK                 98
+CLKCTRL_MCLKSTATUS               99
+CLKCTRL_OSCHFCTRLA               104
+CLKCTRL_OSCHFTUNE                105
+CLKCTRL_PLLCTRLA                 112
+CLKCTRL_OSC32KCTRLA              120
+CLKCTRL_XOSC32KCTRLA             124
+BOD_CTRLA                        128
+BOD_CTRLB                        129
+BOD_VLMCTRLA                     136
+BOD_INTCTRL                      137
+BOD_INTFLAGS                     138
+BOD_STATUS                       139
+VREF_ADC0REF                     160
+VREF_DAC0REF                     162
+VREF_ACREF                       164
+WDT_CTRLA                        256
+WDT_STATUS                       257
+CPUINT_CTRLA                     272
+CPUINT_STATUS                    273
+CPUINT_LVL0PRI                   274
+CPUINT_LVL1VEC                   275
+CRCSCAN_CTRLA                    288
+CRCSCAN_CTRLB                    289
+CRCSCAN_STATUS                   290
+RTC_CTRLA                        320
+RTC_STATUS                       321
+RTC_INTCTRL                      322
+RTC_INTFLAGS                     323
+RTC_TEMP                         324
+RTC_DBGCTRL                      325
+RTC_CALIB                        326
+RTC_CLKSEL                       327
+RTC_CNTL                         328
+RTC_CNTH                         329
+RTC_PERL                         330
+RTC_PERH                         331
+RTC_CMPL                         332
+RTC_CMPH                         333
+RTC_PITCTRLA                     336
+RTC_PITSTATUS                    337
+RTC_PITINTCTRL                   338
+RTC_PITINTFLAGS                  339
+RTC_PITDBGCTRL                   341
+CCL_CTRLA                        448
+CCL_SEQCTRL0                     449
+CCL_SEQCTRL1                     450
+CCL_SEQCTRL2                     451
+CCL_INTCTRL0                     453
+CCL_INTCTRL1                     454
+CCL_INTFLAGS                     455
+CCL_LUT0CTRLA                    456
+CCL_LUT0CTRLB                    457
+CCL_LUT0CTRLC                    458
+CCL_TRUTH0                       459
+CCL_LUT1CTRLA                    460
+CCL_LUT1CTRLB                    461
+CCL_LUT1CTRLC                    462
+CCL_TRUTH1                       463
+CCL_LUT2CTRLA                    464
+CCL_LUT2CTRLB                    465
+CCL_LUT2CTRLC                    466
+CCL_TRUTH2                       467
+CCL_LUT3CTRLA                    468
+CCL_LUT3CTRLB                    469
+CCL_LUT3CTRLC                    470
+CCL_TRUTH3                       471
+CCL_LUT4CTRLA                    472
+CCL_LUT4CTRLB                    473
+CCL_LUT4CTRLC                    474
+CCL_TRUTH4                       475
+CCL_LUT5CTRLA                    476
+CCL_LUT5CTRLB                    477
+CCL_LUT5CTRLC                    478
+CCL_TRUTH5                       479
+EVSYS_SWEVENTA                   512
+EVSYS_SWEVENTB                   513
+EVSYS_CHANNEL0                   528
+EVSYS_CHANNEL1                   529
+EVSYS_CHANNEL2                   530
+EVSYS_CHANNEL3                   531
+EVSYS_CHANNEL4                   532
+EVSYS_CHANNEL5                   533
+EVSYS_CHANNEL6                   534
+EVSYS_CHANNEL7                   535
+EVSYS_CHANNEL8                   536
+EVSYS_CHANNEL9                   537
+EVSYS_USERCCLLUT0A               544
+EVSYS_USERCCLLUT0B               545
+EVSYS_USERCCLLUT1A               546
+EVSYS_USERCCLLUT1B               547
+EVSYS_USERCCLLUT2A               548
+EVSYS_USERCCLLUT2B               549
+EVSYS_USERCCLLUT3A               550
+EVSYS_USERCCLLUT3B               551
+EVSYS_USERCCLLUT4A               552
+EVSYS_USERCCLLUT4B               553
+EVSYS_USERCCLLUT5A               554
+EVSYS_USERCCLLUT5B               555
+EVSYS_USERADC0START              556
+EVSYS_USERPTCSTART               557
+EVSYS_USEREVSYSEVOUTA            558
+EVSYS_USEREVSYSEVOUTB            559
+EVSYS_USEREVSYSEVOUTC            560
+EVSYS_USEREVSYSEVOUTD            561
+EVSYS_USEREVSYSEVOUTE            562
+EVSYS_USEREVSYSEVOUTF            563
+EVSYS_USEREVSYSEVOUTG            564
+EVSYS_USERUSART0IRDA             565
+EVSYS_USERUSART1IRDA             566
+EVSYS_USERUSART2IRDA             567
+EVSYS_USERUSART3IRDA             568
+EVSYS_USERUSART4IRDA             569
+EVSYS_USERUSART5IRDA             570
+EVSYS_USERTCA0CNTA               571
+EVSYS_USERTCA0CNTB               572
+EVSYS_USERTCA1CNTA               573
+EVSYS_USERTCA1CNTB               574
+EVSYS_USERTCB0CAPT               575
+EVSYS_USERTCB0COUNT              576
+EVSYS_USERTCB1CAPT               577
+EVSYS_USERTCB1COUNT              578
+EVSYS_USERTCB2CAPT               579
+EVSYS_USERTCB2COUNT              580
+EVSYS_USERTCB3CAPT               581
+EVSYS_USERTCB3COUNT              582
+EVSYS_USERTCB4CAPT               583
+EVSYS_USERTCB4COUNT              584
+EVSYS_USERTCD0INPUTA             585
+EVSYS_USERTCD0INPUTB             586
+PORTA_DIR                        1024
+PORTA_DIRSET                     1025
+PORTA_DIRCLR                     1026
+PORTA_DIRTGL                     1027
+PORTA_OUT                        1028
+PORTA_OUTSET                     1029
+PORTA_OUTCLR                     1030
+PORTA_OUTTGL                     1031
+PORTA_IN                         1032
+PORTA_INTFLAGS                   1033
+PORTA_PORTCTRL                   1034
+PORTA_PINCONFIG                  1035
+PORTA_PINCTRLUPD                 1036
+PORTA_PINCTRLSET                 1037
+PORTA_PINCTRLCLR                 1038
+PORTA_PIN0CTRL                   1040
+PORTA_PIN1CTRL                   1041
+PORTA_PIN2CTRL                   1042
+PORTA_PIN3CTRL                   1043
+PORTA_PIN4CTRL                   1044
+PORTA_PIN5CTRL                   1045
+PORTA_PIN6CTRL                   1046
+PORTA_PIN7CTRL                   1047
+PORTB_DIR                        1056
+PORTB_DIRSET                     1057
+PORTB_DIRCLR                     1058
+PORTB_DIRTGL                     1059
+PORTB_OUT                        1060
+PORTB_OUTSET                     1061
+PORTB_OUTCLR                     1062
+PORTB_OUTTGL                     1063
+PORTB_IN                         1064
+PORTB_INTFLAGS                   1065
+PORTB_PORTCTRL                   1066
+PORTB_PINCONFIG                  1067
+PORTB_PINCTRLUPD                 1068
+PORTB_PINCTRLSET                 1069
+PORTB_PINCTRLCLR                 1070
+PORTB_PIN0CTRL                   1072
+PORTB_PIN1CTRL                   1073
+PORTB_PIN2CTRL                   1074
+PORTB_PIN3CTRL                   1075
+PORTB_PIN4CTRL                   1076
+PORTB_PIN5CTRL                   1077
+PORTB_PIN6CTRL                   1078
+PORTB_PIN7CTRL                   1079
+PORTC_DIR                        1088
+PORTC_DIRSET                     1089
+PORTC_DIRCLR                     1090
+PORTC_DIRTGL                     1091
+PORTC_OUT                        1092
+PORTC_OUTSET                     1093
+PORTC_OUTCLR                     1094
+PORTC_OUTTGL                     1095
+PORTC_IN                         1096
+PORTC_INTFLAGS                   1097
+PORTC_PORTCTRL                   1098
+PORTC_PINCONFIG                  1099
+PORTC_PINCTRLUPD                 1100
+PORTC_PINCTRLSET                 1101
+PORTC_PINCTRLCLR                 1102
+PORTC_PIN0CTRL                   1104
+PORTC_PIN1CTRL                   1105
+PORTC_PIN2CTRL                   1106
+PORTC_PIN3CTRL                   1107
+PORTC_PIN4CTRL                   1108
+PORTC_PIN5CTRL                   1109
+PORTC_PIN6CTRL                   1110
+PORTC_PIN7CTRL                   1111
+PORTD_DIR                        1120
+PORTD_DIRSET                     1121
+PORTD_DIRCLR                     1122
+PORTD_DIRTGL                     1123
+PORTD_OUT                        1124
+PORTD_OUTSET                     1125
+PORTD_OUTCLR                     1126
+PORTD_OUTTGL                     1127
+PORTD_IN                         1128
+PORTD_INTFLAGS                   1129
+PORTD_PORTCTRL                   1130
+PORTD_PINCONFIG                  1131
+PORTD_PINCTRLUPD                 1132
+PORTD_PINCTRLSET                 1133
+PORTD_PINCTRLCLR                 1134
+PORTD_PIN0CTRL                   1136
+PORTD_PIN1CTRL                   1137
+PORTD_PIN2CTRL                   1138
+PORTD_PIN3CTRL                   1139
+PORTD_PIN4CTRL                   1140
+PORTD_PIN5CTRL                   1141
+PORTD_PIN6CTRL                   1142
+PORTD_PIN7CTRL                   1143
+PORTE_DIR                        1152
+PORTE_DIRSET                     1153
+PORTE_DIRCLR                     1154
+PORTE_DIRTGL                     1155
+PORTE_OUT                        1156
+PORTE_OUTSET                     1157
+PORTE_OUTCLR                     1158
+PORTE_OUTTGL                     1159
+PORTE_IN                         1160
+PORTE_INTFLAGS                   1161
+PORTE_PORTCTRL                   1162
+PORTE_PINCONFIG                  1163
+PORTE_PINCTRLUPD                 1164
+PORTE_PINCTRLSET                 1165
+PORTE_PINCTRLCLR                 1166
+PORTE_PIN0CTRL                   1168
+PORTE_PIN1CTRL                   1169
+PORTE_PIN2CTRL                   1170
+PORTE_PIN3CTRL                   1171
+PORTE_PIN4CTRL                   1172
+PORTE_PIN5CTRL                   1173
+PORTE_PIN6CTRL                   1174
+PORTE_PIN7CTRL                   1175
+PORTF_DIR                        1184
+PORTF_DIRSET                     1185
+PORTF_DIRCLR                     1186
+PORTF_DIRTGL                     1187
+PORTF_OUT                        1188
+PORTF_OUTSET                     1189
+PORTF_OUTCLR                     1190
+PORTF_OUTTGL                     1191
+PORTF_IN                         1192
+PORTF_INTFLAGS                   1193
+PORTF_PORTCTRL                   1194
+PORTF_PINCONFIG                  1195
+PORTF_PINCTRLUPD                 1196
+PORTF_PINCTRLSET                 1197
+PORTF_PINCTRLCLR                 1198
+PORTF_PIN0CTRL                   1200
+PORTF_PIN1CTRL                   1201
+PORTF_PIN2CTRL                   1202
+PORTF_PIN3CTRL                   1203
+PORTF_PIN4CTRL                   1204
+PORTF_PIN5CTRL                   1205
+PORTF_PIN6CTRL                   1206
+PORTF_PIN7CTRL                   1207
+PORTG_DIR                        1216
+PORTG_DIRSET                     1217
+PORTG_DIRCLR                     1218
+PORTG_DIRTGL                     1219
+PORTG_OUT                        1220
+PORTG_OUTSET                     1221
+PORTG_OUTCLR                     1222
+PORTG_OUTTGL                     1223
+PORTG_IN                         1224
+PORTG_INTFLAGS                   1225
+PORTG_PORTCTRL                   1226
+PORTG_PINCONFIG                  1227
+PORTG_PINCTRLUPD                 1228
+PORTG_PINCTRLSET                 1229
+PORTG_PINCTRLCLR                 1230
+PORTG_PIN0CTRL                   1232
+PORTG_PIN1CTRL                   1233
+PORTG_PIN2CTRL                   1234
+PORTG_PIN3CTRL                   1235
+PORTG_PIN4CTRL                   1236
+PORTG_PIN5CTRL                   1237
+PORTG_PIN6CTRL                   1238
+PORTG_PIN7CTRL                   1239
+PORTMUX_EVSYSROUTEA              1504
+PORTMUX_CCLROUTEA                1505
+PORTMUX_USARTROUTEA              1506
+PORTMUX_USARTROUTEB              1507
+PORTMUX_SPIROUTEA                1508
+PORTMUX_TWIROUTEA                1509
+PORTMUX_TCAROUTEA                1510
+PORTMUX_TCBROUTEA                1511
+PORTMUX_TCDROUTEA                1512
+PORTMUX_ACROUTEA                 1513
+PORTMUX_ZCDROUTEA                1514
+ADC0_CTRLA                       1536
+ADC0_CTRLB                       1537
+ADC0_CTRLC                       1538
+ADC0_CTRLD                       1539
+ADC0_CTRLE                       1540
+ADC0_SAMPCTRL                    1541
+ADC0_MUXPOS                      1544
+ADC0_MUXNEG                      1545
+ADC0_COMMAND                     1546
+ADC0_EVCTRL                      1547
+ADC0_INTCTRL                     1548
+ADC0_INTFLAGS                    1549
+ADC0_DBGCTRL                     1550
+ADC0_TEMP                        1551
+ADC0_RESL                        1552
+ADC0_RESH                        1553
+ADC0_WINLTL                      1554
+ADC0_WINLTH                      1555
+ADC0_WINHTL                      1556
+ADC0_WINHTH                      1557
+AC0_CTRLA                        1664
+AC0_CTRLB                        1665
+AC0_MUXCTRL                      1666
+AC0_DACREF                       1669
+AC0_INTCTRL                      1670
+AC0_STATUS                       1671
+AC1_CTRLA                        1672
+AC1_CTRLB                        1673
+AC1_MUXCTRL                      1674
+AC1_DACREF                       1677
+AC1_INTCTRL                      1678
+AC1_STATUS                       1679
+AC2_CTRLA                        1680
+AC2_CTRLB                        1681
+AC2_MUXCTRL                      1682
+AC2_DACREF                       1685
+AC2_INTCTRL                      1686
+AC2_STATUS                       1687
+DAC0_CTRLA                       1696
+DAC0_DATAL                       1698
+DAC0_DATAH                       1699
+ZCD0_CTRLA                       1728
+ZCD0_INTCTRL                     1730
+ZCD0_STATUS                      1731
+ZCD1_CTRLA                       1736
+ZCD1_INTCTRL                     1738
+ZCD1_STATUS                      1739
+ZCD2_CTRLA                       1744
+ZCD2_INTCTRL                     1746
+ZCD2_STATUS                      1747
+USART0_RXDATAL                   2048
+UDRR                             2048
+USART0_RXDATAH                   2049
+USART0_TXDATAL                   2050
+UDRW                             2050
+USART0_TXDATAH                   2051
+USART0_STATUS                    2052
+USR                              2052
+USART0_CTRLA                     2053
+USART0_CTRLB                     2054
+UCR                              2054
+USART0_CTRLC                     2055
+USART0_BAUDL                     2056
+USART0_BAUDH                     2057
+USART0_CTRLD                     2058
+USART0_DBGCTRL                   2059
+USART0_EVCTRL                    2060
+USART0_TXPLCTRL                  2061
+USART0_RXPLCTRL                  2062
+USART1_RXDATAL                   2080
+UDRR1                            2080
+USART1_RXDATAH                   2081
+USART1_TXDATAL                   2082
+UDRW1                            2082
+USART1_TXDATAH                   2083
+USART1_STATUS                    2084
+USR1                             2084
+UCSR1A                           2084
+USART1_CTRLA                     2085
+USART1_CTRLB                     2086
+UCR1                             2086
+USART1_CTRLC                     2087
+USART1_BAUDL                     2088
+USART1_BAUDH                     2089
+USART1_CTRLD                     2090
+USART1_DBGCTRL                   2091
+USART1_EVCTRL                    2092
+USART1_TXPLCTRL                  2093
+USART1_RXPLCTRL                  2094
+USART2_RXDATAL                   2112
+UDRR2                            2112
+USART2_RXDATAH                   2113
+USART2_TXDATAL                   2114
+UDRW2                            2114
+USART2_TXDATAH                   2115
+USART2_STATUS                    2116
+USR2                             2116
+UCSR2A                           2116
+USART2_CTRLA                     2117
+USART2_CTRLB                     2118
+UCR2                             2118
+USART2_CTRLC                     2119
+USART2_BAUDL                     2120
+USART2_BAUDH                     2121
+USART2_CTRLD                     2122
+USART2_DBGCTRL                   2123
+USART2_EVCTRL                    2124
+USART2_TXPLCTRL                  2125
+USART2_RXPLCTRL                  2126
+USART3_RXDATAL                   2144
+UDRR3                            2144
+USART3_RXDATAH                   2145
+USART3_TXDATAL                   2146
+UDRW3                            2146
+USART3_TXDATAH                   2147
+USART3_STATUS                    2148
+USR3                             2148
+UCSR3A                           2148
+USART3_CTRLA                     2149
+USART3_CTRLB                     2150
+UCR3                             2150
+USART3_CTRLC                     2151
+USART3_BAUDL                     2152
+USART3_BAUDH                     2153
+USART3_CTRLD                     2154
+USART3_DBGCTRL                   2155
+USART3_EVCTRL                    2156
+USART3_TXPLCTRL                  2157
+USART3_RXPLCTRL                  2158
+USART4_RXDATAL                   2176
+UDRR4                            2176
+USART4_RXDATAH                   2177
+USART4_TXDATAL                   2178
+UDRW4                            2178
+USART4_TXDATAH                   2179
+USART4_STATUS                    2180
+USR4                             2180
+UCSR4A                           2180
+USART4_CTRLA                     2181
+USART4_CTRLB                     2182
+UCR4                             2182
+USART4_CTRLC                     2183
+USART4_BAUDL                     2184
+USART4_BAUDH                     2185
+USART4_CTRLD                     2186
+USART4_DBGCTRL                   2187
+USART4_EVCTRL                    2188
+USART4_TXPLCTRL                  2189
+USART4_RXPLCTRL                  2190
+USART5_RXDATAL                   2208
+UDRR5                            2208
+USART5_RXDATAH                   2209
+USART5_TXDATAL                   2210
+UDRW5                            2210
+USART5_TXDATAH                   2211
+USART5_STATUS                    2212
+USR5                             2212
+UCSR5A                           2212
+USART5_CTRLA                     2213
+USART5_CTRLB                     2214
+UCR5                             2214
+USART5_CTRLC                     2215
+USART5_BAUDL                     2216
+USART5_BAUDH                     2217
+USART5_CTRLD                     2218
+USART5_DBGCTRL                   2219
+USART5_EVCTRL                    2220
+USART5_TXPLCTRL                  2221
+USART5_RXPLCTRL                  2222
+TWI0_CTRLA                       2304
+TWI0_DUALCTRL                    2305
+TWI0_DBGCTRL                     2306
+TWI0_MCTRLA                      2307
+TWI0_MCTRLB                      2308
+TWI0_MSTATUS                     2309
+TWI0_MBAUD                       2310
+TWI0_MADDR                       2311
+TWI0_MDATA                       2312
+TWI0_SCTRLA                      2313
+TWI0_SCTRLB                      2314
+TWI0_SSTATUS                     2315
+TWI0_SADDR                       2316
+TWI0_SDATA                       2317
+TWI0_SADDRMASK                   2318
+TWI1_CTRLA                       2336
+TWI1_DUALCTRL                    2337
+TWI1_DBGCTRL                     2338
+TWI1_MCTRLA                      2339
+TWI1_MCTRLB                      2340
+TWI1_MSTATUS                     2341
+TWI1_MBAUD                       2342
+TWI1_MADDR                       2343
+TWI1_MDATA                       2344
+TWI1_SCTRLA                      2345
+TWI1_SCTRLB                      2346
+TWI1_SSTATUS                     2347
+TWI1_SADDR                       2348
+TWI1_SDATA                       2349
+TWI1_SADDRMASK                   2350
+SPI0_CTRLA                       2368
+SPI0_CTRLB                       2369
+SPI0_INTCTRL                     2370
+SPI0_INTFLAGS                    2371
+SPI0_DATA                        2372
+SPI1_CTRLA                       2400
+SPI1_CTRLB                       2401
+SPI1_INTCTRL                     2402
+SPI1_INTFLAGS                    2403
+SPI1_DATA                        2404
+TCA0_CTRLA                       2560
+TCA0_SPLIT_CTRLA                 2560
+TCA0_CTRLB                       2561
+TCA0_SPLIT_CTRLB                 2561
+TCA0_SPLIT_CTRLC                 2562
+TCA0_CTRLC                       2562
+TCA0_SPLIT_CTRLD                 2563
+TCA0_CTRLD                       2563
+TCA0_CTRLECLR                    2564
+TCA0_SPLIT_CTRLECLR              2564
+TCA0_CTRLESET                    2565
+TCA0_SPLIT_CTRLESET              2565
+TCA0_CTRLFCLR                    2566
+TCA0_CTRLFSET                    2567
+TCA0_EVCTRL                      2569
+TCA0_SPLIT_INTCTRL               2570
+TCA0_INTCTRL                     2570
+TCA0_SPLIT_INTFLAGS              2571
+TCA0_INTFLAGS                    2571
+TCA0_SPLIT_DBGCTRL               2574
+TCA0_DBGCTRL                     2574
+TCA0_TEMP                        2575
+TCA0_SPLIT_LCNT                  2592
+TCA0_CNTL                        2592
+TCA0_CNTH                        2593
+TCA0_SPLIT_HCNT                  2593
+TCA0_SPLIT_LPER                  2598
+TCA0_PERL                        2598
+TCA0_PERH                        2599
+TCA0_SPLIT_HPER                  2599
+TCA0_SPLIT_LCMP0                 2600
+TCA0_CMP0L                       2600
+TCA0_CMP0H                       2601
+TCA0_SPLIT_HCMP0                 2601
+TCA0_CMP1L                       2602
+TCA0_CMP1H                       2603
+TCA0_SPLIT_LCMP1                 2602
+TCA0_SPLIT_HCMP1                 2603
+TCA0_CMP2L                       2604
+TCA0_CMP2H                       2605
+TCA0_SPLIT_LCMP2                 2604
+TCA0_SPLIT_HCMP2                 2605
+TCA0_PERBUFL                     2614
+TCA0_PERBUFH                     2615
+TCA0_CMP0BUFL                    2616
+TCA0_CMP0BUFH                    2617
+TCA0_CMP1BUFL                    2618
+TCA0_CMP1BUFH                    2619
+TCA0_CMP2BUFL                    2620
+TCA0_CMP2BUFH                    2621
+TCA1_CTRLA                       2624
+TCA1_SPLIT_CTRLA                 2624
+TCA1_CTRLB                       2625
+TCA1_SPLIT_CTRLB                 2625
+TCA1_SPLIT_CTRLC                 2626
+TCA1_CTRLC                       2626
+TCA1_SPLIT_CTRLD                 2627
+TCA1_CTRLD                       2627
+TCA1_CTRLECLR                    2628
+TCA1_SPLIT_CTRLECLR              2628
+TCA1_SPLIT_CTRLESET              2629
+TCA1_CTRLESET                    2629
+TCA1_CTRLFCLR                    2630
+TCA1_CTRLFSET                    2631
+TCA1_EVCTRL                      2633
+TCA1_INTCTRL                     2634
+TCA1_SPLIT_INTCTRL               2634
+TCA1_INTFLAGS                    2635
+TCA1_SPLIT_INTFLAGS              2635
+TCA1_DBGCTRL                     2638
+TCA1_SPLIT_DBGCTRL               2638
+TCA1_TEMP                        2639
+TCA1_SPLIT_LCNT                  2656
+TCA1_CNTL                        2656
+TCA1_CNTH                        2657
+TCA1_SPLIT_HCNT                  2657
+TCA1_SPLIT_LPER                  2662
+TCA1_PERL                        2662
+TCA1_PERH                        2663
+TCA1_SPLIT_HPER                  2663
+TCA1_SPLIT_LCMP0                 2664
+TCA1_CMP0L                       2664
+TCA1_CMP0H                       2665
+TCA1_SPLIT_HCMP0                 2665
+TCA1_CMP1L                       2666
+TCA1_CMP1H                       2667
+TCA1_SPLIT_LCMP1                 2666
+TCA1_SPLIT_HCMP1                 2667
+TCA1_SPLIT_LCMP2                 2668
+TCA1_CMP2L                       2668
+TCA1_CMP2H                       2669
+TCA1_SPLIT_HCMP2                 2669
+TCA1_PERBUFL                     2678
+TCA1_PERBUFH                     2679
+TCA1_CMP0BUFL                    2680
+TCA1_CMP0BUFH                    2681
+TCA1_CMP1BUFL                    2682
+TCA1_CMP1BUFH                    2683
+TCA1_CMP2BUFL                    2684
+TCA1_CMP2BUFH                    2685
+TCB0_CTRLA                       2816
+TCB0_CTRLB                       2817
+TCB0_EVCTRL                      2820
+TCB0_INTCTRL                     2821
+TCB0_INTFLAGS                    2822
+TCB0_STATUS                      2823
+TCB0_DBGCTRL                     2824
+TCB0_TEMP                        2825
+TCB0_CNTL                        2826
+TCB0_CNTH                        2827
+TCB0_CCMPL                       2828
+TCB0_CCMPH                       2829
+TCB1_CTRLA                       2832
+TCB1_CTRLB                       2833
+TCB1_EVCTRL                      2836
+TCB1_INTCTRL                     2837
+TCB1_INTFLAGS                    2838
+TCB1_STATUS                      2839
+TCB1_DBGCTRL                     2840
+TCB1_TEMP                        2841
+TCB1_CNTL                        2842
+TCB1_CNTH                        2843
+TCB1_CCMPL                       2844
+TCB1_CCMPH                       2845
+TCB2_CTRLA                       2848
+TCB2_CTRLB                       2849
+TCB2_EVCTRL                      2852
+TCB2_INTCTRL                     2853
+TCB2_INTFLAGS                    2854
+TCB2_STATUS                      2855
+TCB2_DBGCTRL                     2856
+TCB2_TEMP                        2857
+TCB2_CNTL                        2858
+TCB2_CNTH                        2859
+TCB2_CCMPL                       2860
+TCB2_CCMPH                       2861
+TCB3_CTRLA                       2864
+TCB3_CTRLB                       2865
+TCB3_EVCTRL                      2868
+TCB3_INTCTRL                     2869
+TCB3_INTFLAGS                    2870
+TCB3_STATUS                      2871
+TCB3_DBGCTRL                     2872
+TCB3_TEMP                        2873
+TCB3_CNTL                        2874
+TCB3_CNTH                        2875
+TCB3_CCMPL                       2876
+TCB3_CCMPH                       2877
+TCB4_CTRLA                       2880
+TCB4_CTRLB                       2881
+TCB4_EVCTRL                      2884
+TCB4_INTCTRL                     2885
+TCB4_INTFLAGS                    2886
+TCB4_STATUS                      2887
+TCB4_DBGCTRL                     2888
+TCB4_TEMP                        2889
+TCB4_CNTL                        2890
+TCB4_CNTH                        2891
+TCB4_CCMPL                       2892
+TCB4_CCMPH                       2893
+TCD0_CTRLA                       2944
+TCD0_CTRLB                       2945
+TCD0_CTRLC                       2946
+TCD0_CTRLD                       2947
+TCD0_CTRLE                       2948
+TCD0_EVCTRLA                     2952
+TCD0_EVCTRLB                     2953
+TCD0_INTCTRL                     2956
+TCD0_INTFLAGS                    2957
+TCD0_STATUS                      2958
+TCD0_INPUTCTRLA                  2960
+TCD0_INPUTCTRLB                  2961
+TCD0_FAULTCTRL                   2962
+TCD0_DLYCTRL                     2964
+TCD0_DLYVAL                      2965
+TCD0_DITCTRL                     2968
+TCD0_DITVAL                      2969
+TCD0_DBGCTRL                     2974
+TCD0_CAPTUREAL                   2978
+TCD0_CAPTUREAH                   2979
+TCD0_CAPTUREBL                   2980
+TCD0_CAPTUREBH                   2981
+TCD0_CMPASETL                    2984
+TCD0_CMPASETH                    2985
+TCD0_CMPACLRL                    2986
+TCD0_CMPACLRH                    2987
+TCD0_CMPBSETL                    2988
+TCD0_CMPBSETH                    2989
+TCD0_CMPBCLRL                    2990
+TCD0_CMPBCLRH                    2991
+SYSCFG_REVID                     3841
+SYSCFG_OCDMCTRL                  3864
+SYSCFG_OCDMSTATUS                3865
+NVMCTRL_CTRLA                    4096
+NVMCTRL_CTRLB                    4097
+NVMCTRL_STATUS                   4098
+NVMCTRL_INTCTRL                  4099
+NVMCTRL_INTFLAGS                 4100
+NVMCTRL_DATAL                    4102
+NVMCTRL_DATAH                    4103
+NVMCTRL_ADDR0                    4104
+NVMCTRL_ADDR1                    4105
+NVMCTRL_ADDR2                    4106
+NVMCTRL_ADDR3                    4107
+LOCK_KEY0                        4160
+LOCK_KEY1                        4161
+LOCK_KEY2                        4162
+LOCK_KEY3                        4163
+FUSE_WDTCFG                      4176
+FUSE_BODCFG                      4177
+FUSE_OSCCFG                      4178
+FUSE_SYSCFG0                     4181
+FUSE_SYSCFG1                     4182
+FUSE_CODESIZE                    4183
+FUSE_BOOTSIZE                    4184
+USERROW_USERROW0                 4224
+USERROW_USERROW1                 4225
+USERROW_USERROW2                 4226
+USERROW_USERROW3                 4227
+USERROW_USERROW4                 4228
+USERROW_USERROW5                 4229
+USERROW_USERROW6                 4230
+USERROW_USERROW7                 4231
+USERROW_USERROW8                 4232
+USERROW_USERROW9                 4233
+USERROW_USERROW10                4234
+USERROW_USERROW11                4235
+USERROW_USERROW12                4236
+USERROW_USERROW13                4237
+USERROW_USERROW14                4238
+USERROW_USERROW15                4239
+USERROW_USERROW16                4240
+USERROW_USERROW17                4241
+USERROW_USERROW18                4242
+USERROW_USERROW19                4243
+USERROW_USERROW20                4244
+USERROW_USERROW21                4245
+USERROW_USERROW22                4246
+USERROW_USERROW23                4247
+USERROW_USERROW24                4248
+USERROW_USERROW25                4249
+USERROW_USERROW26                4250
+USERROW_USERROW27                4251
+USERROW_USERROW28                4252
+USERROW_USERROW29                4253
+USERROW_USERROW30                4254
+USERROW_USERROW31                4255
+SIGROW_DEVICEID0                 4352
+SIGROW_DEVICEID1                 4353
+SIGROW_DEVICEID2                 4354
+SIGROW_TEMPSENSE0L               4356
+SIGROW_TEMPSENSE0H               4357
+SIGROW_TEMPSENSE1L               4358
+SIGROW_TEMPSENSE1H               4359
+SIGROW_SERNUM0                   4368
+SIGROW_SERNUM1                   4369
+SIGROW_SERNUM2                   4370
+SIGROW_SERNUM3                   4371
+SIGROW_SERNUM4                   4372
+SIGROW_SERNUM5                   4373
+SIGROW_SERNUM6                   4374
+SIGROW_SERNUM7                   4375
+SIGROW_SERNUM8                   4376
+SIGROW_SERNUM9                   4377
+SIGROW_SERNUM10                  4378
+SIGROW_SERNUM11                  4379
+SIGROW_SERNUM12                  4380
+SIGROW_SERNUM13                  4381
+SIGROW_SERNUM14                  4382
+SIGROW_SERNUM15                  4383
+_ROMSIZE                         65536
+_CHIP                            20928
+AC_ENABLE_BP                     0
+AC_HYSMODE_0_BP                  1
+AC_HYSMODE_1_BP                  2
+AC_POWER_0_BP                    3
+AC_POWER_1_BP                    4
+AC_OUTEN_BP                      6
+AC_RUNSTDBY_BP                   7
+AC_WINSEL_0_BP                   0
+AC_WINSEL_1_BP                   1
+AC_MUXNEG_0_BP                   0
+AC_MUXNEG_1_BP                   1
+AC_MUXNEG_2_BP                   2
+AC_MUXPOS_0_BP                   3
+AC_MUXPOS_1_BP                   4
+AC_MUXPOS_2_BP                   5
+AC_INITVAL_BP                    6
+AC_INVERT_BP                     7
+AC_DACREF_0_BP                   0
+AC_DACREF_1_BP                   1
+AC_DACREF_2_BP                   2
+AC_DACREF_3_BP                   3
+AC_DACREF_4_BP                   4
+AC_DACREF_5_BP                   5
+AC_DACREF_6_BP                   6
+AC_DACREF_7_BP                   7
+AC_CMP_BP                        0
+AC_INTMODE_NORMAL_0_BP           4
+AC_INTMODE_NORMAL_1_BP           5
+AC_INTMODE_WINDOW_0_BP           4
+AC_INTMODE_WINDOW_1_BP           5
+AC_CMPIF_BP                      0
+AC_CMPSTATE_BP                   4
+AC_WINSTATE_0_BP                 6
+AC_WINSTATE_1_BP                 7
+ADC_ENABLE_BP                    0
+ADC_FREERUN_BP                   1
+ADC_RESSEL_0_BP                  2
+ADC_RESSEL_1_BP                  3
+ADC_LEFTADJ_BP                   4
+ADC_CONVMODE_BP                  5
+ADC_RUNSTBY_BP                   7
+ADC_SAMPNUM_0_BP                 0
+ADC_SAMPNUM_1_BP                 1
+ADC_SAMPNUM_2_BP                 2
+ADC_PRESC_0_BP                   0
+ADC_PRESC_1_BP                   1
+ADC_PRESC_2_BP                   2
+ADC_PRESC_3_BP                   3
+ADC_SAMPDLY_0_BP                 0
+ADC_SAMPDLY_1_BP                 1
+ADC_SAMPDLY_2_BP                 2
+ADC_SAMPDLY_3_BP                 3
+ADC_INITDLY_0_BP                 5
+ADC_INITDLY_1_BP                 6
+ADC_INITDLY_2_BP                 7
+ADC_WINCM_0_BP                   0
+ADC_WINCM_1_BP                   1
+ADC_WINCM_2_BP                   2
+ADC_SAMPLEN_0_BP                 0
+ADC_SAMPLEN_1_BP                 1
+ADC_SAMPLEN_2_BP                 2
+ADC_SAMPLEN_3_BP                 3
+ADC_SAMPLEN_4_BP                 4
+ADC_SAMPLEN_5_BP                 5
+ADC_SAMPLEN_6_BP                 6
+ADC_SAMPLEN_7_BP                 7
+ADC_MUXPOS_0_BP                  0
+ADC_MUXPOS_1_BP                  1
+ADC_MUXPOS_2_BP                  2
+ADC_MUXPOS_3_BP                  3
+ADC_MUXPOS_4_BP                  4
+ADC_MUXPOS_5_BP                  5
+ADC_MUXPOS_6_BP                  6
+ADC_MUXNEG_0_BP                  0
+ADC_MUXNEG_1_BP                  1
+ADC_MUXNEG_2_BP                  2
+ADC_MUXNEG_3_BP                  3
+ADC_MUXNEG_4_BP                  4
+ADC_MUXNEG_5_BP                  5
+ADC_MUXNEG_6_BP                  6
+ADC_STCONV_BP                    0
+ADC_SPCONV_BP                    1
+ADC_STARTEI_BP                   0
+ADC_RESRDY_BP                    0
+ADC_WCMP_BP                      1
+ADC_DBGRUN_BP                    0
+ADC_TEMP_0_BP                    0
+ADC_TEMP_1_BP                    1
+ADC_TEMP_2_BP                    2
+ADC_TEMP_3_BP                    3
+ADC_TEMP_4_BP                    4
+ADC_TEMP_5_BP                    5
+ADC_TEMP_6_BP                    6
+ADC_TEMP_7_BP                    7
+BOD_SLEEP_0_BP                   0
+BOD_SLEEP_1_BP                   1
+BOD_ACTIVE_0_BP                  2
+BOD_ACTIVE_1_BP                  3
+BOD_SAMPFREQ_BP                  4
+BOD_LVL_0_BP                     0
+BOD_LVL_1_BP                     1
+BOD_LVL_2_BP                     2
+BOD_VLMLVL_0_BP                  0
+BOD_VLMLVL_1_BP                  1
+BOD_VLMIE_BP                     0
+BOD_VLMCFG_0_BP                  1
+BOD_VLMCFG_1_BP                  2
+BOD_VLMIF_BP                     0
+BOD_VLMS_BP                      0
+CCL_ENABLE_BP                    0
+CCL_RUNSTDBY_BP                  6
+CCL_SEQSEL_0_BP                  0
+CCL_SEQSEL_1_BP                  1
+CCL_SEQSEL_2_BP                  2
+CCL_INTMODE0_0_BP                0
+CCL_INTMODE0_1_BP                1
+CCL_INTMODE1_0_BP                2
+CCL_INTMODE1_1_BP                3
+CCL_INTMODE2_0_BP                4
+CCL_INTMODE2_1_BP                5
+CCL_INTMODE3_0_BP                6
+CCL_INTMODE3_1_BP                7
+CCL_INTMODE4_0_BP                0
+CCL_INTMODE4_1_BP                1
+CCL_INTMODE5_0_BP                2
+CCL_INTMODE5_1_BP                3
+CCL_INT_0_BP                     0
+CCL_INT_1_BP                     1
+CCL_INT_2_BP                     2
+CCL_INT_3_BP                     3
+CCL_INT_4_BP                     4
+CCL_INT_5_BP                     5
+CCL_CLKSRC_0_BP                  1
+CCL_CLKSRC_1_BP                  2
+CCL_CLKSRC_2_BP                  3
+CCL_FILTSEL_0_BP                 4
+CCL_FILTSEL_1_BP                 5
+CCL_OUTEN_BP                     6
+CCL_EDGEDET_BP                   7
+CCL_INSEL0_0_BP                  0
+CCL_INSEL0_1_BP                  1
+CCL_INSEL0_2_BP                  2
+CCL_INSEL0_3_BP                  3
+CCL_INSEL1_0_BP                  4
+CCL_INSEL1_1_BP                  5
+CCL_INSEL1_2_BP                  6
+CCL_INSEL1_3_BP                  7
+CCL_INSEL2_0_BP                  0
+CCL_INSEL2_1_BP                  1
+CCL_INSEL2_2_BP                  2
+CCL_INSEL2_3_BP                  3
+CCL_TRUTH_0_BP                   0
+CCL_TRUTH_1_BP                   1
+CCL_TRUTH_2_BP                   2
+CCL_TRUTH_3_BP                   3
+CCL_TRUTH_4_BP                   4
+CCL_TRUTH_5_BP                   5
+CCL_TRUTH_6_BP                   6
+CCL_TRUTH_7_BP                   7
+CLKCTRL_CLKSEL_0_BP              0
+CLKCTRL_CLKSEL_1_BP              1
+CLKCTRL_CLKSEL_2_BP              2
+CLKCTRL_CLKOUT_BP                7
+CLKCTRL_PEN_BP                   0
+CLKCTRL_PDIV_0_BP                1
+CLKCTRL_PDIV_1_BP                2
+CLKCTRL_PDIV_2_BP                3
+CLKCTRL_PDIV_3_BP                4
+CLKCTRL_LOCKEN_BP                0
+CLKCTRL_SOSC_BP                  0
+CLKCTRL_OSCHFS_BP                1
+CLKCTRL_OSC32KS_BP               2
+CLKCTRL_XOSC32KS_BP              3
+CLKCTRL_EXTS_BP                  4
+CLKCTRL_PLLS_BP                  5
+CLKCTRL_AUTOTUNE_BP              0
+CLKCTRL_FRQSEL_0_BP              2
+CLKCTRL_FRQSEL_1_BP              3
+CLKCTRL_FRQSEL_2_BP              4
+CLKCTRL_FRQSEL_3_BP              5
+CLKCTRL_RUNSTDBY_BP              7
+CLKCTRL_TUNE_0_BP                0
+CLKCTRL_TUNE_1_BP                1
+CLKCTRL_TUNE_2_BP                2
+CLKCTRL_TUNE_3_BP                3
+CLKCTRL_TUNE_4_BP                4
+CLKCTRL_TUNE_5_BP                5
+CLKCTRL_TUNE_6_BP                6
+CLKCTRL_TUNE_7_BP                7
+CLKCTRL_MULFAC_0_BP              0
+CLKCTRL_MULFAC_1_BP              1
+CLKCTRL_SOURCE_BP                6
+CLKCTRL_ENABLE_BP                0
+CLKCTRL_LPMODE_BP                1
+CLKCTRL_SEL_BP                   2
+CLKCTRL_CSUT_0_BP                4
+CLKCTRL_CSUT_1_BP                5
+CPU_CCP_0_BP                     0
+CPU_CCP_1_BP                     1
+CPU_CCP_2_BP                     2
+CPU_CCP_3_BP                     3
+CPU_CCP_4_BP                     4
+CPU_CCP_5_BP                     5
+CPU_CCP_6_BP                     6
+CPU_CCP_7_BP                     7
+CPU_C_BP                         0
+CPU_Z_BP                         1
+CPU_N_BP                         2
+CPU_V_BP                         3
+CPU_S_BP                         4
+CPU_H_BP                         5
+CPU_T_BP                         6
+CPU_I_BP                         7
+CPUINT_LVL0RR_BP                 0
+CPUINT_CVT_BP                    5
+CPUINT_IVSEL_BP                  6
+CPUINT_LVL0EX_BP                 0
+CPUINT_LVL1EX_BP                 1
+CPUINT_NMIEX_BP                  7
+CPUINT_LVL0PRI_0_BP              0
+CPUINT_LVL0PRI_1_BP              1
+CPUINT_LVL0PRI_2_BP              2
+CPUINT_LVL0PRI_3_BP              3
+CPUINT_LVL0PRI_4_BP              4
+CPUINT_LVL0PRI_5_BP              5
+CPUINT_LVL0PRI_6_BP              6
+CPUINT_LVL0PRI_7_BP              7
+CPUINT_LVL1VEC_0_BP              0
+CPUINT_LVL1VEC_1_BP              1
+CPUINT_LVL1VEC_2_BP              2
+CPUINT_LVL1VEC_3_BP              3
+CPUINT_LVL1VEC_4_BP              4
+CPUINT_LVL1VEC_5_BP              5
+CPUINT_LVL1VEC_6_BP              6
+CPUINT_LVL1VEC_7_BP              7
+CRCSCAN_ENABLE_BP                0
+CRCSCAN_NMIEN_BP                 1
+CRCSCAN_RESET_BP                 7
+CRCSCAN_SRC_0_BP                 0
+CRCSCAN_SRC_1_BP                 1
+CRCSCAN_BUSY_BP                  0
+CRCSCAN_OK_BP                    1
+DAC_ENABLE_BP                    0
+DAC_OUTEN_BP                     6
+DAC_RUNSTDBY_BP                  7
+DAC_DATA_0_BP                    6
+DAC_DATA_1_BP                    7
+DAC_DATA_2_BP                    8
+DAC_DATA_3_BP                    9
+DAC_DATA_4_BP                    10
+DAC_DATA_5_BP                    11
+DAC_DATA_6_BP                    12
+DAC_DATA_7_BP                    13
+DAC_DATA_8_BP                    14
+DAC_DATA_9_BP                    15
+EVSYS_SWEVENTA_0_BP              0
+EVSYS_SWEVENTA_1_BP              1
+EVSYS_SWEVENTA_2_BP              2
+EVSYS_SWEVENTA_3_BP              3
+EVSYS_SWEVENTA_4_BP              4
+EVSYS_SWEVENTA_5_BP              5
+EVSYS_SWEVENTA_6_BP              6
+EVSYS_SWEVENTA_7_BP              7
+EVSYS_SWEVENTB_0_BP              0
+EVSYS_SWEVENTB_1_BP              1
+EVSYS_CHANNEL0_0_BP              0
+EVSYS_CHANNEL0_1_BP              1
+EVSYS_CHANNEL0_2_BP              2
+EVSYS_CHANNEL0_3_BP              3
+EVSYS_CHANNEL0_4_BP              4
+EVSYS_CHANNEL0_5_BP              5
+EVSYS_CHANNEL0_6_BP              6
+EVSYS_CHANNEL0_7_BP              7
+EVSYS_CHANNEL1_0_BP              0
+EVSYS_CHANNEL1_1_BP              1
+EVSYS_CHANNEL1_2_BP              2
+EVSYS_CHANNEL1_3_BP              3
+EVSYS_CHANNEL1_4_BP              4
+EVSYS_CHANNEL1_5_BP              5
+EVSYS_CHANNEL1_6_BP              6
+EVSYS_CHANNEL1_7_BP              7
+EVSYS_CHANNEL2_0_BP              0
+EVSYS_CHANNEL2_1_BP              1
+EVSYS_CHANNEL2_2_BP              2
+EVSYS_CHANNEL2_3_BP              3
+EVSYS_CHANNEL2_4_BP              4
+EVSYS_CHANNEL2_5_BP              5
+EVSYS_CHANNEL2_6_BP              6
+EVSYS_CHANNEL2_7_BP              7
+EVSYS_CHANNEL3_0_BP              0
+EVSYS_CHANNEL3_1_BP              1
+EVSYS_CHANNEL3_2_BP              2
+EVSYS_CHANNEL3_3_BP              3
+EVSYS_CHANNEL3_4_BP              4
+EVSYS_CHANNEL3_5_BP              5
+EVSYS_CHANNEL3_6_BP              6
+EVSYS_CHANNEL3_7_BP              7
+EVSYS_CHANNEL4_0_BP              0
+EVSYS_CHANNEL4_1_BP              1
+EVSYS_CHANNEL4_2_BP              2
+EVSYS_CHANNEL4_3_BP              3
+EVSYS_CHANNEL4_4_BP              4
+EVSYS_CHANNEL4_5_BP              5
+EVSYS_CHANNEL4_6_BP              6
+EVSYS_CHANNEL4_7_BP              7
+EVSYS_CHANNEL5_0_BP              0
+EVSYS_CHANNEL5_1_BP              1
+EVSYS_CHANNEL5_2_BP              2
+EVSYS_CHANNEL5_3_BP              3
+EVSYS_CHANNEL5_4_BP              4
+EVSYS_CHANNEL5_5_BP              5
+EVSYS_CHANNEL5_6_BP              6
+EVSYS_CHANNEL5_7_BP              7
+EVSYS_CHANNEL6_0_BP              0
+EVSYS_CHANNEL6_1_BP              1
+EVSYS_CHANNEL6_2_BP              2
+EVSYS_CHANNEL6_3_BP              3
+EVSYS_CHANNEL6_4_BP              4
+EVSYS_CHANNEL6_5_BP              5
+EVSYS_CHANNEL6_6_BP              6
+EVSYS_CHANNEL6_7_BP              7
+EVSYS_CHANNEL7_0_BP              0
+EVSYS_CHANNEL7_1_BP              1
+EVSYS_CHANNEL7_2_BP              2
+EVSYS_CHANNEL7_3_BP              3
+EVSYS_CHANNEL7_4_BP              4
+EVSYS_CHANNEL7_5_BP              5
+EVSYS_CHANNEL7_6_BP              6
+EVSYS_CHANNEL7_7_BP              7
+EVSYS_CHANNEL8_0_BP              0
+EVSYS_CHANNEL8_1_BP              1
+EVSYS_CHANNEL8_2_BP              2
+EVSYS_CHANNEL8_3_BP              3
+EVSYS_CHANNEL8_4_BP              4
+EVSYS_CHANNEL8_5_BP              5
+EVSYS_CHANNEL8_6_BP              6
+EVSYS_CHANNEL8_7_BP              7
+EVSYS_CHANNEL9_0_BP              0
+EVSYS_CHANNEL9_1_BP              1
+EVSYS_CHANNEL9_2_BP              2
+EVSYS_CHANNEL9_3_BP              3
+EVSYS_CHANNEL9_4_BP              4
+EVSYS_CHANNEL9_5_BP              5
+EVSYS_CHANNEL9_6_BP              6
+EVSYS_CHANNEL9_7_BP              7
+EVSYS_USER_0_BP                  0
+EVSYS_USER_1_BP                  1
+EVSYS_USER_2_BP                  2
+EVSYS_USER_3_BP                  3
+EVSYS_USER_4_BP                  4
+EVSYS_USER_5_BP                  5
+EVSYS_USER_6_BP                  6
+EVSYS_USER_7_BP                  7
+FUSE_PERIOD_0_BP                 0
+FUSE_PERIOD_1_BP                 1
+FUSE_PERIOD_2_BP                 2
+FUSE_PERIOD_3_BP                 3
+FUSE_WINDOW_0_BP                 4
+FUSE_WINDOW_1_BP                 5
+FUSE_WINDOW_2_BP                 6
+FUSE_WINDOW_3_BP                 7
+FUSE_SLEEP_0_BP                  0
+FUSE_SLEEP_1_BP                  1
+FUSE_ACTIVE_0_BP                 2
+FUSE_ACTIVE_1_BP                 3
+FUSE_SAMPFREQ_BP                 4
+FUSE_LVL_0_BP                    5
+FUSE_LVL_1_BP                    6
+FUSE_LVL_2_BP                    7
+FUSE_CLKSEL_0_BP                 0
+FUSE_CLKSEL_1_BP                 1
+FUSE_CLKSEL_2_BP                 2
+FUSE_EESAVE_BP                   0
+FUSE_RSTPINCFG_0_BP              2
+FUSE_RSTPINCFG_1_BP              3
+FUSE_CRCSEL_BP                   5
+FUSE_CRCSRC_0_BP                 6
+FUSE_CRCSRC_1_BP                 7
+FUSE_SUT_0_BP                    0
+FUSE_SUT_1_BP                    1
+FUSE_SUT_2_BP                    2
+LOCK_KEY_0_BP                    0
+LOCK_KEY_1_BP                    1
+LOCK_KEY_2_BP                    2
+LOCK_KEY_3_BP                    3
+LOCK_KEY_4_BP                    4
+LOCK_KEY_5_BP                    5
+LOCK_KEY_6_BP                    6
+LOCK_KEY_7_BP                    7
+LOCK_KEY_8_BP                    8
+LOCK_KEY_9_BP                    9
+LOCK_KEY_10_BP                   10
+LOCK_KEY_11_BP                   11
+LOCK_KEY_12_BP                   12
+LOCK_KEY_13_BP                   13
+LOCK_KEY_14_BP                   14
+LOCK_KEY_15_BP                   15
+LOCK_KEY_16_BP                   16
+LOCK_KEY_17_BP                   17
+LOCK_KEY_18_BP                   18
+LOCK_KEY_19_BP                   19
+LOCK_KEY_20_BP                   20
+LOCK_KEY_21_BP                   21
+LOCK_KEY_22_BP                   22
+LOCK_KEY_23_BP                   23
+LOCK_KEY_24_BP                   24
+LOCK_KEY_25_BP                   25
+LOCK_KEY_26_BP                   26
+LOCK_KEY_27_BP                   27
+LOCK_KEY_28_BP                   28
+LOCK_KEY_29_BP                   29
+LOCK_KEY_30_BP                   30
+LOCK_KEY_31_BP                   31
+NVMCTRL_CMD_0_BP                 0
+NVMCTRL_CMD_1_BP                 1
+NVMCTRL_CMD_2_BP                 2
+NVMCTRL_CMD_3_BP                 3
+NVMCTRL_CMD_4_BP                 4
+NVMCTRL_CMD_5_BP                 5
+NVMCTRL_CMD_6_BP                 6
+NVMCTRL_APPCODEWP_BP             0
+NVMCTRL_BOOTRP_BP                1
+NVMCTRL_APPDATAWP_BP             2
+NVMCTRL_FLMAP_0_BP               4
+NVMCTRL_FLMAP_1_BP               5
+NVMCTRL_FLMAPLOCK_BP             7
+NVMCTRL_FBUSY_BP                 0
+NVMCTRL_EEBUSY_BP                1
+NVMCTRL_ERROR_0_BP               4
+NVMCTRL_ERROR_1_BP               5
+NVMCTRL_ERROR_2_BP               6
+NVMCTRL_EEREADY_BP               0
+PORT_INT_0_BP                    0
+PORT_INT_1_BP                    1
+PORT_INT_2_BP                    2
+PORT_INT_3_BP                    3
+PORT_INT_4_BP                    4
+PORT_INT_5_BP                    5
+PORT_INT_6_BP                    6
+PORT_INT_7_BP                    7
+PORT_SRL_BP                      0
+PORT_ISC_0_BP                    0
+PORT_ISC_1_BP                    1
+PORT_ISC_2_BP                    2
+PORT_PULLUPEN_BP                 3
+PORT_INVEN_BP                    7
+PORT_PINCTRLUPD_0_BP             0
+PORT_PINCTRLUPD_1_BP             1
+PORT_PINCTRLUPD_2_BP             2
+PORT_PINCTRLUPD_3_BP             3
+PORT_PINCTRLUPD_4_BP             4
+PORT_PINCTRLUPD_5_BP             5
+PORT_PINCTRLUPD_6_BP             6
+PORT_PINCTRLUPD_7_BP             7
+PORT_PINCTRLSET_0_BP             0
+PORT_PINCTRLSET_1_BP             1
+PORT_PINCTRLSET_2_BP             2
+PORT_PINCTRLSET_3_BP             3
+PORT_PINCTRLSET_4_BP             4
+PORT_PINCTRLSET_5_BP             5
+PORT_PINCTRLSET_6_BP             6
+PORT_PINCTRLSET_7_BP             7
+PORT_PINCTRLCLR_0_BP             0
+PORT_PINCTRLCLR_1_BP             1
+PORT_PINCTRLCLR_2_BP             2
+PORT_PINCTRLCLR_3_BP             3
+PORT_PINCTRLCLR_4_BP             4
+PORT_PINCTRLCLR_5_BP             5
+PORT_PINCTRLCLR_6_BP             6
+PORT_PINCTRLCLR_7_BP             7
+PORTMUX_EVOUTA_BP                0
+PORTMUX_EVOUTB_BP                1
+PORTMUX_EVOUTC_BP                2
+PORTMUX_EVOUTD_BP                3
+PORTMUX_EVOUTE_BP                4
+PORTMUX_EVOUTF_BP                5
+PORTMUX_EVOUTG_BP                6
+PORTMUX_LUT0_BP                  0
+PORTMUX_LUT1_BP                  1
+PORTMUX_LUT2_BP                  2
+PORTMUX_LUT3_BP                  3
+PORTMUX_LUT4_BP                  4
+PORTMUX_LUT5_BP                  5
+PORTMUX_USART0_0_BP              0
+PORTMUX_USART0_1_BP              1
+PORTMUX_USART1_0_BP              2
+PORTMUX_USART1_1_BP              3
+PORTMUX_USART2_0_BP              4
+PORTMUX_USART2_1_BP              5
+PORTMUX_USART3_0_BP              6
+PORTMUX_USART3_1_BP              7
+PORTMUX_USART4_0_BP              0
+PORTMUX_USART4_1_BP              1
+PORTMUX_USART5_0_BP              2
+PORTMUX_USART5_1_BP              3
+PORTMUX_SPI0_0_BP                0
+PORTMUX_SPI0_1_BP                1
+PORTMUX_SPI1_0_BP                2
+PORTMUX_SPI1_1_BP                3
+PORTMUX_TWI0_0_BP                0
+PORTMUX_TWI0_1_BP                1
+PORTMUX_TWI1_0_BP                2
+PORTMUX_TWI1_1_BP                3
+PORTMUX_TCA0_0_BP                0
+PORTMUX_TCA0_1_BP                1
+PORTMUX_TCA0_2_BP                2
+PORTMUX_TCA1_0_BP                3
+PORTMUX_TCA1_1_BP                4
+PORTMUX_TCA1_2_BP                5
+PORTMUX_TCB0_BP                  0
+PORTMUX_TCB1_BP                  1
+PORTMUX_TCB2_BP                  2
+PORTMUX_TCB3_BP                  3
+PORTMUX_TCB4_BP                  4
+PORTMUX_TCD0_0_BP                0
+PORTMUX_TCD0_1_BP                1
+PORTMUX_TCD0_2_BP                2
+PORTMUX_AC0_BP                   0
+PORTMUX_AC1_BP                   1
+PORTMUX_AC2_BP                   2
+PORTMUX_ZCD0_BP                  0
+PORTMUX_ZCD1_BP                  1
+PORTMUX_ZCD2_BP                  2
+RSTCTRL_PORF_BP                  0
+RSTCTRL_BORF_BP                  1
+RSTCTRL_EXTRF_BP                 2
+RSTCTRL_WDRF_BP                  3
+RSTCTRL_SWRF_BP                  4
+RSTCTRL_UPDIRF_BP                5
+RSTCTRL_SWRST_BP                 0
+RTC_RTCEN_BP                     0
+RTC_CORREN_BP                    2
+RTC_PRESCALER_0_BP               3
+RTC_PRESCALER_1_BP               4
+RTC_PRESCALER_2_BP               5
+RTC_PRESCALER_3_BP               6
+RTC_RUNSTDBY_BP                  7
+RTC_CTRLABUSY_BP                 0
+RTC_CNTBUSY_BP                   1
+RTC_PERBUSY_BP                   2
+RTC_CMPBUSY_BP                   3
+RTC_OVF_BP                       0
+RTC_CMP_BP                       1
+RTC_DBGRUN_BP                    0
+RTC_ERROR_0_BP                   0
+RTC_ERROR_1_BP                   1
+RTC_ERROR_2_BP                   2
+RTC_ERROR_3_BP                   3
+RTC_ERROR_4_BP                   4
+RTC_ERROR_5_BP                   5
+RTC_ERROR_6_BP                   6
+RTC_SIGN_BP                      7
+RTC_CLKSEL_0_BP                  0
+RTC_CLKSEL_1_BP                  1
+RTC_PITEN_BP                     0
+RTC_PERIOD_0_BP                  3
+RTC_PERIOD_1_BP                  4
+RTC_PERIOD_2_BP                  5
+RTC_PERIOD_3_BP                  6
+RTC_CTRLBUSY_BP                  0
+RTC_PI_BP                        0
+SIGROW_TEMPSENSE0_0_BP           0
+SIGROW_TEMPSENSE0_1_BP           1
+SIGROW_TEMPSENSE0_2_BP           2
+SIGROW_TEMPSENSE0_3_BP           3
+SIGROW_TEMPSENSE0_4_BP           4
+SIGROW_TEMPSENSE0_5_BP           5
+SIGROW_TEMPSENSE0_6_BP           6
+SIGROW_TEMPSENSE0_7_BP           7
+SIGROW_TEMPSENSE0_8_BP           8
+SIGROW_TEMPSENSE0_9_BP           9
+SIGROW_TEMPSENSE0_10_BP          10
+SIGROW_TEMPSENSE0_11_BP          11
+SIGROW_TEMPSENSE0_12_BP          12
+SIGROW_TEMPSENSE0_13_BP          13
+SIGROW_TEMPSENSE0_14_BP          14
+SIGROW_TEMPSENSE0_15_BP          15
+SIGROW_TEMPSENSE1_0_BP           0
+SIGROW_TEMPSENSE1_1_BP           1
+SIGROW_TEMPSENSE1_2_BP           2
+SIGROW_TEMPSENSE1_3_BP           3
+SIGROW_TEMPSENSE1_4_BP           4
+SIGROW_TEMPSENSE1_5_BP           5
+SIGROW_TEMPSENSE1_6_BP           6
+SIGROW_TEMPSENSE1_7_BP           7
+SIGROW_TEMPSENSE1_8_BP           8
+SIGROW_TEMPSENSE1_9_BP           9
+SIGROW_TEMPSENSE1_10_BP          10
+SIGROW_TEMPSENSE1_11_BP          11
+SIGROW_TEMPSENSE1_12_BP          12
+SIGROW_TEMPSENSE1_13_BP          13
+SIGROW_TEMPSENSE1_14_BP          14
+SIGROW_TEMPSENSE1_15_BP          15
+SLPCTRL_SEN_BP                   0
+SLPCTRL_SMODE_0_BP               1
+SLPCTRL_SMODE_1_BP               2
+SLPCTRL_PMODE_0_BP               0
+SLPCTRL_PMODE_1_BP               1
+SLPCTRL_PMODE_2_BP               2
+SLPCTRL_HTLLEN_BP                4
+SPI_ENABLE_BP                    0
+SPI_PRESC_0_BP                   1
+SPI_PRESC_1_BP                   2
+SPI_CLK2X_BP                     4
+SPI_MASTER_BP                    5
+SPI_DORD_BP                      6
+SPI_MODE_0_BP                    0
+SPI_MODE_1_BP                    1
+SPI_SSD_BP                       2
+SPI_BUFWR_BP                     6
+SPI_BUFEN_BP                     7
+SPI_IE_BP                        0
+SPI_SSIE_BP                      4
+SPI_DREIE_BP                     5
+SPI_TXCIE_BP                     6
+SPI_RXCIE_BP                     7
+SPI_BUFOVF_BP                    0
+SPI_SSIF_BP                      4
+SPI_DREIF_BP                     5
+SPI_TXCIF_BP                     6
+SPI_WRCOL_BP                     6
+SPI_RXCIF_BP                     7
+SPI_IF_BP                        7
+SYSCFG_OCDMR_BP                  0
+TCA_SINGLE_ENABLE_BP             0
+TCA_SINGLE_CLKSEL_0_BP           1
+TCA_SINGLE_CLKSEL_1_BP           2
+TCA_SINGLE_CLKSEL_2_BP           3
+TCA_SINGLE_RUNSTDBY_BP           7
+TCA_SINGLE_WGMODE_0_BP           0
+TCA_SINGLE_WGMODE_1_BP           1
+TCA_SINGLE_WGMODE_2_BP           2
+TCA_SINGLE_ALUPD_BP              3
+TCA_SINGLE_CMP0EN_BP             4
+TCA_SINGLE_CMP1EN_BP             5
+TCA_SINGLE_CMP2EN_BP             6
+TCA_SINGLE_CMP0OV_BP             0
+TCA_SINGLE_CMP1OV_BP             1
+TCA_SINGLE_CMP2OV_BP             2
+TCA_SINGLE_SPLITM_BP             0
+TCA_SINGLE_DIR_BP                0
+TCA_SINGLE_LUPD_BP               1
+TCA_SINGLE_CMD_0_BP              2
+TCA_SINGLE_CMD_1_BP              3
+TCA_SINGLE_PERBV_BP              0
+TCA_SINGLE_CMP0BV_BP             1
+TCA_SINGLE_CMP1BV_BP             2
+TCA_SINGLE_CMP2BV_BP             3
+TCA_SINGLE_CNTAEI_BP             0
+TCA_SINGLE_EVACTA_0_BP           1
+TCA_SINGLE_EVACTA_1_BP           2
+TCA_SINGLE_EVACTA_2_BP           3
+TCA_SINGLE_CNTBEI_BP             4
+TCA_SINGLE_EVACTB_0_BP           5
+TCA_SINGLE_EVACTB_1_BP           6
+TCA_SINGLE_EVACTB_2_BP           7
+TCA_SINGLE_OVF_BP                0
+TCA_SINGLE_CMP0_BP               4
+TCA_SINGLE_CMP1_BP               5
+TCA_SINGLE_CMP2_BP               6
+TCA_SINGLE_DBGRUN_BP             0
+TCA_SPLIT_ENABLE_BP              0
+TCA_SPLIT_CLKSEL_0_BP            1
+TCA_SPLIT_CLKSEL_1_BP            2
+TCA_SPLIT_CLKSEL_2_BP            3
+TCA_SPLIT_RUNSTDBY_BP            7
+TCA_SPLIT_LCMP0EN_BP             0
+TCA_SPLIT_LCMP1EN_BP             1
+TCA_SPLIT_LCMP2EN_BP             2
+TCA_SPLIT_HCMP0EN_BP             4
+TCA_SPLIT_HCMP1EN_BP             5
+TCA_SPLIT_HCMP2EN_BP             6
+TCA_SPLIT_LCMP0OV_BP             0
+TCA_SPLIT_LCMP1OV_BP             1
+TCA_SPLIT_LCMP2OV_BP             2
+TCA_SPLIT_HCMP0OV_BP             4
+TCA_SPLIT_HCMP1OV_BP             5
+TCA_SPLIT_HCMP2OV_BP             6
+TCA_SPLIT_SPLITM_BP              0
+TCA_SPLIT_CMDEN_0_BP             0
+TCA_SPLIT_CMDEN_1_BP             1
+TCA_SPLIT_CMD_0_BP               2
+TCA_SPLIT_CMD_1_BP               3
+TCA_SPLIT_LUNF_BP                0
+TCA_SPLIT_HUNF_BP                1
+TCA_SPLIT_LCMP0_BP               4
+TCA_SPLIT_LCMP1_BP               5
+TCA_SPLIT_LCMP2_BP               6
+TCA_SPLIT_DBGRUN_BP              0
+TCB_ENABLE_BP                    0
+TCB_CLKSEL_0_BP                  1
+TCB_CLKSEL_1_BP                  2
+TCB_CLKSEL_2_BP                  3
+TCB_SYNCUPD_BP                   4
+TCB_CASCADE_BP                   5
+TCB_RUNSTDBY_BP                  6
+TCB_CNTMODE_0_BP                 0
+TCB_CNTMODE_1_BP                 1
+TCB_CNTMODE_2_BP                 2
+TCB_CCMPEN_BP                    4
+TCB_CCMPINIT_BP                  5
+TCB_ASYNC_BP                     6
+TCB_CAPTEI_BP                    0
+TCB_EDGE_BP                      4
+TCB_FILTER_BP                    6
+TCB_CAPT_BP                      0
+TCB_OVF_BP                       1
+TCB_RUN_BP                       0
+TCB_DBGRUN_BP                    0
+TCD_ENABLE_BP                    0
+TCD_SYNCPRES_0_BP                1
+TCD_SYNCPRES_1_BP                2
+TCD_CNTPRES_0_BP                 3
+TCD_CNTPRES_1_BP                 4
+TCD_CLKSEL_0_BP                  5
+TCD_CLKSEL_1_BP                  6
+TCD_WGMODE_0_BP                  0
+TCD_WGMODE_1_BP                  1
+TCD_CMPOVR_BP                    0
+TCD_AUPDATE_BP                   1
+TCD_FIFTY_BP                     3
+TCD_CMPCSEL_BP                   6
+TCD_CMPDSEL_BP                   7
+TCD_CMPAVAL_0_BP                 0
+TCD_CMPAVAL_1_BP                 1
+TCD_CMPAVAL_2_BP                 2
+TCD_CMPAVAL_3_BP                 3
+TCD_CMPBVAL_0_BP                 4
+TCD_CMPBVAL_1_BP                 5
+TCD_CMPBVAL_2_BP                 6
+TCD_CMPBVAL_3_BP                 7
+TCD_SYNCEOC_BP                   0
+TCD_SYNC_BP                      1
+TCD_RESTART_BP                   2
+TCD_SCAPTUREA_BP                 3
+TCD_SCAPTUREB_BP                 4
+TCD_DISEOC_BP                    7
+TCD_TRIGEI_BP                    0
+TCD_ACTION_BP                    2
+TCD_EDGE_BP                      4
+TCD_CFG_0_BP                     6
+TCD_CFG_1_BP                     7
+TCD_OVF_BP                       0
+TCD_TRIGA_BP                     2
+TCD_TRIGB_BP                     3
+TCD_ENRDY_BP                     0
+TCD_CMDRDY_BP                    1
+TCD_PWMACTA_BP                   6
+TCD_PWMACTB_BP                   7
+TCD_INPUTMODE_0_BP               0
+TCD_INPUTMODE_1_BP               1
+TCD_INPUTMODE_2_BP               2
+TCD_INPUTMODE_3_BP               3
+TCD_CMPA_BP                      0
+TCD_CMPB_BP                      1
+TCD_CMPC_BP                      2
+TCD_CMPD_BP                      3
+TCD_CMPAEN_BP                    4
+TCD_CMPBEN_BP                    5
+TCD_CMPCEN_BP                    6
+TCD_CMPDEN_BP                    7
+TCD_DLYSEL_0_BP                  0
+TCD_DLYSEL_1_BP                  1
+TCD_DLYTRIG_0_BP                 2
+TCD_DLYTRIG_1_BP                 3
+TCD_DLYPRESC_0_BP                4
+TCD_DLYPRESC_1_BP                5
+TCD_DLYVAL_0_BP                  0
+TCD_DLYVAL_1_BP                  1
+TCD_DLYVAL_2_BP                  2
+TCD_DLYVAL_3_BP                  3
+TCD_DLYVAL_4_BP                  4
+TCD_DLYVAL_5_BP                  5
+TCD_DLYVAL_6_BP                  6
+TCD_DLYVAL_7_BP                  7
+TCD_DITHERSEL_0_BP               0
+TCD_DITHERSEL_1_BP               1
+TCD_DITHER_0_BP                  0
+TCD_DITHER_1_BP                  1
+TCD_DITHER_2_BP                  2
+TCD_DITHER_3_BP                  3
+TCD_DBGRUN_BP                    0
+TCD_FAULTDET_BP                  2
+TWI_FMPEN_BP                     1
+TWI_SDAHOLD_0_BP                 2
+TWI_SDAHOLD_1_BP                 3
+TWI_SDASETUP_BP                  4
+TWI_INPUTLVL_BP                  6
+TWI_ENABLE_BP                    0
+TWI_DBGRUN_BP                    0
+TWI_SMEN_BP                      1
+TWI_TIMEOUT_0_BP                 2
+TWI_TIMEOUT_1_BP                 3
+TWI_QCEN_BP                      4
+TWI_WIEN_BP                      6
+TWI_RIEN_BP                      7
+TWI_MCMD_0_BP                    0
+TWI_MCMD_1_BP                    1
+TWI_ACKACT_BP                    2
+TWI_FLUSH_BP                     3
+TWI_BUSSTATE_0_BP                0
+TWI_BUSSTATE_1_BP                1
+TWI_BUSERR_BP                    2
+TWI_ARBLOST_BP                   3
+TWI_RXACK_BP                     4
+TWI_CLKHOLD_BP                   5
+TWI_WIF_BP                       6
+TWI_RIF_BP                       7
+TWI_PMEN_BP                      2
+TWI_PIEN_BP                      5
+TWI_APIEN_BP                     6
+TWI_DIEN_BP                      7
+TWI_SCMD_0_BP                    0
+TWI_SCMD_1_BP                    1
+TWI_AP_BP                        0
+TWI_DIR_BP                       1
+TWI_COLL_BP                      3
+TWI_APIF_BP                      6
+TWI_DIF_BP                       7
+TWI_ADDREN_BP                    0
+TWI_ADDRMASK_0_BP                1
+TWI_ADDRMASK_1_BP                2
+TWI_ADDRMASK_2_BP                3
+TWI_ADDRMASK_3_BP                4
+TWI_ADDRMASK_4_BP                5
+TWI_ADDRMASK_5_BP                6
+TWI_ADDRMASK_6_BP                7
+USART_DATA_0_BP                  0
+USART_DATA_1_BP                  1
+USART_DATA_2_BP                  2
+USART_DATA_3_BP                  3
+USART_DATA_4_BP                  4
+USART_DATA_5_BP                  5
+USART_DATA_6_BP                  6
+USART_DATA_7_BP                  7
+USART_DATA8_BP                   0
+USART_PERR_BP                    1
+USART_FERR_BP                    2
+USART_BUFOVF_BP                  6
+USART_RXCIF_BP                   7
+USART_WFB_BP                     0
+USART_BDF_BP                     1
+USART_ISFIF_BP                   3
+USART_RXSIF_BP                   4
+USART_DREIF_BP                   5
+USART_TXCIF_BP                   6
+USART_RS485_BP                   0
+USART_ABEIE_BP                   2
+USART_LBME_BP                    3
+USART_RXSIE_BP                   4
+USART_DREIE_BP                   5
+USART_TXCIE_BP                   6
+USART_RXCIE_BP                   7
+USART_MPCM_BP                    0
+USART_RXMODE_0_BP                1
+USART_RXMODE_1_BP                2
+USART_ODME_BP                    3
+USART_SFDEN_BP                   4
+USART_TXEN_BP                    6
+USART_RXEN_BP                    7
+USART_UCPHA_BP                   1
+USART_UDORD_BP                   2
+USART_CHSIZE_0_BP                0
+USART_CHSIZE_1_BP                1
+USART_CHSIZE_2_BP                2
+USART_SBMODE_BP                  3
+USART_PMODE_0_BP                 4
+USART_PMODE_1_BP                 5
+USART_CMODE_0_BP                 6
+USART_CMODE_1_BP                 7
+USART_ABW_0_BP                   6
+USART_ABW_1_BP                   7
+USART_DBGRUN_BP                  0
+USART_IREI_BP                    0
+USART_TXPL_0_BP                  0
+USART_TXPL_1_BP                  1
+USART_TXPL_2_BP                  2
+USART_TXPL_3_BP                  3
+USART_TXPL_4_BP                  4
+USART_TXPL_5_BP                  5
+USART_TXPL_6_BP                  6
+USART_TXPL_7_BP                  7
+USART_RXPL_0_BP                  0
+USART_RXPL_1_BP                  1
+USART_RXPL_2_BP                  2
+USART_RXPL_3_BP                  3
+USART_RXPL_4_BP                  4
+USART_RXPL_5_BP                  5
+USART_RXPL_6_BP                  6
+VPORT_INT_0_BP                   0
+VPORT_INT_1_BP                   1
+VPORT_INT_2_BP                   2
+VPORT_INT_3_BP                   3
+VPORT_INT_4_BP                   4
+VPORT_INT_5_BP                   5
+VPORT_INT_6_BP                   6
+VPORT_INT_7_BP                   7
+VREF_REFSEL_0_BP                 0
+VREF_REFSEL_1_BP                 1
+VREF_REFSEL_2_BP                 2
+VREF_ALWAYSON_BP                 7
+WDT_PERIOD_0_BP                  0
+WDT_PERIOD_1_BP                  1
+WDT_PERIOD_2_BP                  2
+WDT_PERIOD_3_BP                  3
+WDT_WINDOW_0_BP                  4
+WDT_WINDOW_1_BP                  5
+WDT_WINDOW_2_BP                  6
+WDT_WINDOW_3_BP                  7
+WDT_SYNCBUSY_BP                  0
+WDT_LOCK_BP                      7
+ZCD_ENABLE_BP                    0
+ZCD_INVERT_BP                    3
+ZCD_OUTEN_BP                     6
+ZCD_RUNSTDBY_BP                  7
+ZCD_INTMODE_0_BP                 0
+ZCD_INTMODE_1_BP                 1
+ZCD_CROSSIF_BP                   0
+ZCD_STATE_BP                     4
+_RESET                           0
+_DATE_FORMAT                     0
+_DATE_SEPARATOR                  92
+_GSTRBUF                         32648
+_DECIMALPOINT                    46
+_RTSCTS                          0
+_RTSCTS1                         0
+_RTSCTS3                         0
+_RTSCTS4                         0
+_RTSCTS5                         0
+_RTSCTS6                         0
+_RTSCTS7                         0
+_RTSCTS8                         0
+_RAMSIZE                         8192
+_ERAMSIZE                        512
+_SIM                             1
+_HUGE                            0
+_BASE                            1
+_XTAL                            20000000
+_BUILD                           20870
+_COMPILER                        90
+_HWMUL                           1
+_DOSFILEWRITE                    0
+_DOSDIRWRITE                     0
+_1WEXT                           0
+_UARTS                           6
+_HWSTACKSTART                    32767
+_TIMEOUT                         0
+_PBIN_EXTENDED                   0
+_SPI_EXTENDED                    0
+_INPBIN_EXTENDED                 0
+_BIGSTRINGS                      0
+SEROUT_EXTPULL                   1
+_FPROTECT                        0
+_HWSTACK_LOW                     &H7FD7
+_SWSTACK_LOW                     &H7FB0
+_FRAME_HIGH                      &H7FB1
+_HAVEMOVW                        1
+_XMEGA                           0
+_XTINY                           3
+_LCDDB4                          21
+_LCDDB4_PIN                      0
+_LCDDB4DIR                       20
+_LCDDB5                          21
+_LCDDB5_PIN                      1
+_LCDDB5DIR                       20
+_LCDDB6                          21
+_LCDDB6_PIN                      2
+_LCDDB6DIR                       20
+_LCDDB7                          21
+_LCDDB7_PIN                      3
+_LCDDB7DIR                       20
+_LCDDBE                          21
+_LCDDBE_PIN                      4
+_LCDDBEDIR                       20
+_LCDDBRS                         21
+_LCDDBRS_PIN                     6
+_LCDDBRSDIR                      20
+_TEXTLCDKIND                     402
+CBITINFINITY                     0
+CMBITINFINITY                    1
+CBITZERO                         1
+CMBITZERO                        2
+CBITNAN                          2
+CMBITNAN                         4
+CBITNANIFINF                     3
+CMBITNANIFINF                    8
+CBITNANIFMINUS                   4
+CMBITNANIFMINUS                  16
+CBITSIGN                         7
+CMBITSIGN                        128
+CEXPADDOFFSET                    0
+CEXPSUBOFFSET                    12
+CEXPMULOFFSET                    24
+CEXPDIVOFFSET                    36
+
+
+--------------------------------------------------------------------------------
+Warnings:
+--------------------------------------------------------------------------------
+NVMCTRL_ADDR                     not used
+LOCK_KEY                         not used
+LEFTMARKER                       not used
+RIGHTMARKER                      not used
+ADCRESULTS                       not used
+ADCSTRING                        not used
+ADCLENGTH                        not used
+XX                               not used
+ADCSPACES                        not used
+

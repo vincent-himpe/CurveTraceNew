@@ -1,0 +1,55 @@
+
+
+'$regfile = "attiny13.dat "
+'$crystal = 9600000
+'$hwstack = 20
+'$swstack = 16
+'$framesize = 4
+
+
+Declare Sub Keyintbhandler()
+Led1 Alias Portb.3
+Led2 Alias Portb.4
+Button Alias Portb.0
+Config Led1 = Output
+Config Led2 = Output
+Config Button = Input
+
+'attiny code
+'
+Button = 1                                                                      'set pullup resistor
+
+Set Pcmsk.pcint0
+Set Gimsk.pcie
+On Pcint0 Pcint0_isr
+
+
+'Config Xpin = Portb.0 , Pullup = Pullup , Sense = Low_level
+'On Portb_int Keyintbhandler
+'Enable Portb0_falling
+Enable Interrupts
+
+Enable Interrupts
+Do
+   Toggle Led1
+   'Waitms 1
+Loop
+End
+
+Sub Keyintbhandler()
+   If Pinb.0 = 0 Then
+    '  Waitms 20
+      If Pinb.0 = 0 Then
+         Toggle Led2
+      End If
+   End If
+  return
+End Sub
+
+
+
+
+
+
+
+

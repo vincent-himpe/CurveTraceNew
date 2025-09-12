@@ -1,0 +1,28 @@
+$regfile = "avrx64da64.dat"
+$crystal = 20000000
+$hwstack = 40
+$swstack = 40
+$framesize = 40
+
+Declare Sub Inthandler()
+Dim X As Integer
+Config Portc = Output
+Config Portb = Input
+Config Porta = Output
+Config Xpin = Portb , Pullup = Pullup , Sense = Falling
+
+On PortA_int Inthandler
+
+enable Interrupts
+
+
+Do
+ X = X + 1
+ Portc = X
+ If X = 0 Then Porta = 0
+Loop
+End
+
+Sub Inthandler()
+  Porta = &B1010_1010
+End Sub
