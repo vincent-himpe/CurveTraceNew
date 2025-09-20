@@ -1,0 +1,163 @@
+Added Component: Designator=C?(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3039694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "187-CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SO65P640X120-24N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = "568-9928-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2669740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NEXPERIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PCAL9555APW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SO65P640X120-24N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = "568-9928-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2669740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NEXPERIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PCAL9555APW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SO65P640X120-24N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = "568-9928-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2669740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NEXPERIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PCAL9555APW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SO65P640X120-24N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = "568-9928-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2669740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NEXPERIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PCAL9555APW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FP5VD Pin=C?-1
+Added Pin To Net: NetName=FP5VD Pin=C?-1
+Added Pin To Net: NetName=FGND Pin=C?-2
+Added Pin To Net: NetName=FGND Pin=C?-2
+Added Pin To Net: NetName=FGND Pin=J1-4
+Added Pin To Net: NetName=FGND Pin=J1-6
+Added Pin To Net: NetName=FGND Pin=J1-8
+Added Pin To Net: NetName=FGND Pin=J1-10
+Added Pin To Net: NetName=FGND Pin=J1-12
+Added Pin To Net: NetName=FGND Pin=J1-14
+Added Pin To Net: NetName=FGND Pin=J1-16
+Added Pin To Net: NetName=FGND Pin=J1-18
+Added Pin To Net: NetName=FGND Pin=R1-1
+Added Pin To Net: NetName=FGND Pin=R2-1
+Added Pin To Net: NetName=FGND Pin=R29-1
+Added Pin To Net: NetName=FGND Pin=R30-1
+Added Pin To Net: NetName=FGND Pin=R159-1
+Added Pin To Net: NetName=FGND Pin=R160-1
+Added Pin To Net: NetName=FGND Pin=R165-2
+Added Pin To Net: NetName=FGND Pin=R166-2
+Added Pin To Net: NetName=FGND Pin=SW4-A
+Added Pin To Net: NetName=FGND Pin=SW4-B
+Added Pin To Net: NetName=FP5VD Pin=U1-2
+Added Pin To Net: NetName=FP5VD Pin=U1-3
+Added Pin To Net: NetName=LED-PMAX4W Pin=U1-4
+Added Pin To Net: NetName=LED-PMAX400mW Pin=U1-5
+Added Pin To Net: NetName=LED-PMAX40mW Pin=U1-6
+Added Pin To Net: NetName=LED-VMAX40V Pin=U1-7
+Added Pin To Net: NetName=LED-VMAX10V Pin=U1-8
+Added Pin To Net: NetName=LED-VMAX2V Pin=U1-9
+Added Pin To Net: NetName=LED-200mA Pin=U1-10
+Added Pin To Net: NetName=LED-20mA Pin=U1-11
+Added Pin To Net: NetName=FGND Pin=U1-12
+Added Pin To Net: NetName=LED-2mA Pin=U1-13
+Added Pin To Net: NetName=LED-CHB Pin=U1-14
+Added Pin To Net: NetName=LED-CHA Pin=U1-15
+Added Pin To Net: NetName=LED-FET Pin=U1-16
+Added Pin To Net: NetName=LED-NPN Pin=U1-17
+Added Pin To Net: NetName=LED-PNP Pin=U1-18
+Added Pin To Net: NetName=LED-BIP Pin=U1-19
+Added Pin To Net: NetName=LED-BACKLIGHT Pin=U1-20
+Added Pin To Net: NetName=FGND Pin=U1-21
+Added Pin To Net: NetName=FGND Pin=U1-22
+Added Pin To Net: NetName=FGND Pin=U1-23
+Added Pin To Net: NetName=FP5VD Pin=U1-24
+Added Pin To Net: NetName=FP5VD Pin=U2-2
+Added Pin To Net: NetName=FP5VD Pin=U2-3
+Added Pin To Net: NetName=LED-MRK-2 Pin=U2-4
+Added Pin To Net: NetName=LED-MRK-B Pin=U2-5
+Added Pin To Net: NetName=LED-MRK-A Pin=U2-6
+Added Pin To Net: NetName=LED-MRK-1 Pin=U2-7
+Added Pin To Net: NetName=LED-ALT Pin=U2-8
+Added Pin To Net: NetName=LED-RUNSTOP Pin=U2-9
+Added Pin To Net: NetName=FGND Pin=U2-12
+Added Pin To Net: NetName=FP5VD Pin=U2-21
+Added Pin To Net: NetName=FGND Pin=U2-22
+Added Pin To Net: NetName=FGND Pin=U2-23
+Added Pin To Net: NetName=FP5VD Pin=U2-24
+Added Pin To Net: NetName=FGND Pin=U3-1
+Added Pin To Net: NetName=FGND Pin=U3-2
+Added Pin To Net: NetName=FP5VD Pin=U3-3
+Added Pin To Net: NetName=BTN-BIPFET Pin=U3-4
+Added Pin To Net: NetName=BTN-DUTAB Pin=U3-5
+Added Pin To Net: NetName=BTN-MARK12 Pin=U3-6
+Added Pin To Net: NetName=BTN-TRSEL Pin=U3-7
+Added Pin To Net: NetName=BTN-NPN-PNP Pin=U3-8
+Added Pin To Net: NetName=BTN-PAGE Pin=U3-9
+Added Pin To Net: NetName=BTN-RUNSTOP Pin=U3-10
+Added Pin To Net: NetName=BTN-ALTERNATE Pin=U3-11
+Added Pin To Net: NetName=FGND Pin=U3-12
+Added Pin To Net: NetName=BTN-PMAXDN Pin=U3-13
+Added Pin To Net: NetName=BTN-PMAXUP Pin=U3-14
+Added Pin To Net: NetName=BTN-VMAXDN Pin=U3-15
+Added Pin To Net: NetName=BTN-VMAXDN Pin=U3-16
+Added Pin To Net: NetName=BTN-IMAXDN Pin=U3-17
+Added Pin To Net: NetName=BTN-IMAXUP Pin=U3-18
+Added Pin To Net: NetName=BTN-CHB Pin=U3-19
+Added Pin To Net: NetName=BTN-CHA Pin=U3-20
+Added Pin To Net: NetName=FGND Pin=U3-21
+Added Pin To Net: NetName=FGND Pin=U3-22
+Added Pin To Net: NetName=FGND Pin=U3-23
+Added Pin To Net: NetName=FP5VD Pin=U3-24
+Added Pin To Net: NetName=FGND Pin=U?-1
+Added Pin To Net: NetName=FGND Pin=U?-2
+Added Pin To Net: NetName=FP5VD Pin=U?-3
+Added Pin To Net: NetName=BTN-ROTCLICK Pin=U?-4
+Added Pin To Net: NetName=BTN-SETUP Pin=U?-5
+Added Pin To Net: NetName=BTN-TRCNT Pin=U?-6
+Added Pin To Net: NetName=FGND Pin=U?-12
+Added Pin To Net: NetName=FP5VD Pin=U?-21
+Added Pin To Net: NetName=FGND Pin=U?-22
+Added Pin To Net: NetName=FGND Pin=U?-23
+Added Pin To Net: NetName=FP5VD Pin=U?-24
+Change Net Name : Old Net Name=FGND New Net Name=F-KEYINT-A
+Added Member To Class: ClassName=CT9042 Front Board Member=Component C? CAP0603
+Added Member To Class: ClassName=CT9042 Front Board Member=Component C? CAP0805
+Added Member To Class: ClassName=CT9042 Front Board Member=Component U1 PCAL9555
+Added Member To Class: ClassName=CT9042 Front Board Member=Component U2 PCAL9555
+Added Member To Class: ClassName=CT9042 Front Board Member=Component U3 PCAL9555
+Added Member To Class: ClassName=CT9042 Front Board Member=Component U? PCAL9555
+Added Rule: Name=Schematic Supply Nets_2

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BTN-IMAXUP Pin=SW8-1
+Removed Pin From Net: NetName=BTN-VMAXDN Pin=SW9-1
+Removed Pin From Net: NetName=BTN-IMAXDN Pin=SW15-2
+Removed Pin From Net: NetName=BTN-VMAXDN Pin=SW16-2
+Removed Pin From Net: NetName=BTN-VMAXDN Pin=U3-16
+Added Pin To Net: NetName=BTN-IMAXUP Pin=SW9-1
+Added Pin To Net: NetName=BTN-VMAXDN Pin=SW15-2
+Added Pin To Net: NetName=BTN-IMAXDN Pin=SW16-2
+Added Pin To Net: NetName=BTN-VMAXUP Pin=SW8-1
+Added Pin To Net: NetName=BTN-VMAXUP Pin=U3-16
+Added Net: Name=BTN-VMAXUP

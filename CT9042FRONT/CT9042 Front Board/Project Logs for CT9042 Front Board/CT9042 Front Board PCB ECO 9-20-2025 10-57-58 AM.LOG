@@ -1,0 +1,1258 @@
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\MJSILCXN" ("\MJSILCXN")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\HKBPKYLN" ("\HKBPKYLN")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\KLRXODRF" ("\KLRXODRF")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\NRGQLZYR" ("\NRGQLZYR")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\NKVTAPXQ" ("\NKVTAPXQ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\IJLJFFOL" ("\IJLJFFOL")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\YPTRKEAW" ("\YPTRKEAW")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\KFDYJVHZ" ("\KFDYJVHZ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\SFVJVIHI" ("\SFVJVIHI")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\RPRCYXWK" ("\RPRCYXWK")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11" ("D11"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\SKVIWIVA" ("\SKVIWIVA")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12" ("D12"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\PZZWVRWY" ("\PZZWVRWY")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13" ("D13"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\QMFLTSAJ" ("\QMFLTSAJ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14" ("D14"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\OLMETLRP" ("\OLMETLRP")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D15" ("D15"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\ZUBNYKSM" ("\ZUBNYKSM")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D16" ("D16"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\YUZLHXZS" ("\YUZLHXZS")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D17" ("D17"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\TUNJDULP" ("\TUNJDULP")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D18" ("D18"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\LVSCZPLT" ("\LVSCZPLT")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D19" ("D19"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\BKQPGTHA" ("\BKQPGTHA")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D20" ("D20"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\XEBXJYBK" ("\XEBXJYBK")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D21" ("D21"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\BBUHUNMD" ("\BBUHUNMD")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D40" ("D40"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\BMCWVNSP" ("\BMCWVNSP")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D47" ("D47"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\RWLVGZSH" ("\RWLVGZSH")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "WURTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "151031VS06000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\ZYSONUIS" ("\ZYSONUIS")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\BGEUYSHO" ("\BGEUYSHO")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\TISKYGRT" ("\TISKYGRT")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4" ("SW4"); Footprint = "SWITCH-BOURNS-PEC12R-4120F-S0012"; UniqueID = "\JBUAIUWQ" ("\JBUAIUWQ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW5" ("SW5"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\AOUHZGIF" ("\AOUHZGIF")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW6" ("SW6"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\IZYEZQTK" ("\IZYEZQTK")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW7" ("SW7"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\MKHISKXB" ("\MKHISKXB")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW8" ("SW8"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\HYMLMZWQ" ("\HYMLMZWQ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW9" ("SW9"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\NJQVEFGZ" ("\NJQVEFGZ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW10" ("SW10"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\YOBFYNZZ" ("\YOBFYNZZ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW11" ("SW11"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\PWWNQVNJ" ("\PWWNQVNJ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW12" ("SW12"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\BORXMPBM" ("\BORXMPBM")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW13" ("SW13"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\IQVPHRCA" ("\IQVPHRCA")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW14" ("SW14"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\THZFPAIZ" ("\THZFPAIZ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW15" ("SW15"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\HEGLQWCG" ("\HEGLQWCG")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW16" ("SW16"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\ARCIQCTY" ("\ARCIQCTY")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW17" ("SW17"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\EQKWFWNJ" ("\EQKWFWNJ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW18" ("SW18"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\PJNSQQMN" ("\PJNSQQMN")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW19" ("SW19"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\QYRPKFSP" ("\QYRPKFSP")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW20" ("SW20"); Footprint = "SWITCH-ESWITCH-TL1105SPF-1RCAP"; UniqueID = "\SLLLUMCE" ("\SLLLUMCE")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "EG1861-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "E-SWITCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TL1105SPF160Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3039694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "187-CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3039694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "187-CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3039694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "187-CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3039694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "187-CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C127833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "80-C0603C104K5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0603C104K5R7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "80-C0603C104K5R7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "KGM15BR71H104KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "1276-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C3039694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "187-CL21B106KAYQNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=DISP1(CONNECTOR-GENERIC-PINHEADER-2X8)
+Added Component: Designator=J1(CONNECTOR GENERIC-BOXHEADER-2X10)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONNECTOR GENERIC-BOXHEADER-2X10)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC0805)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C21190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R157(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R158(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R159(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R160(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R161(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R162(RESC0805)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R163(RESC0805)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R164(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = "603-RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R165(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R166(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BTN-ALTERNATE Pin=SW11-1
+Added Net: Name=BTN-ALTERNATE
+Added Pin To Net: NetName=BTN-BIPFET Pin=SW7-3
+Added Net: Name=BTN-BIPFET
+Added Pin To Net: NetName=BTN-CHA Pin=SW5-1
+Added Net: Name=BTN-CHA
+Added Pin To Net: NetName=BTN-CHB Pin=SW6-2
+Added Net: Name=BTN-CHB
+Added Pin To Net: NetName=BTN-DUTAB Pin=SW20-3
+Added Net: Name=BTN-DUTAB
+Added Pin To Net: NetName=BTN-IMAXDN Pin=SW15-2
+Added Net: Name=BTN-IMAXDN
+Added Pin To Net: NetName=BTN-IMAXUP Pin=SW8-1
+Added Net: Name=BTN-IMAXUP
+Added Pin To Net: NetName=BTN-MARK12 Pin=SW2-3
+Added Net: Name=BTN-MARK12
+Added Pin To Net: NetName=BTN-NPN-PNP Pin=SW12-3
+Added Net: Name=BTN-NPN-PNP
+Added Pin To Net: NetName=BTN-PAGE Pin=SW1-1
+Added Net: Name=BTN-PAGE
+Added Pin To Net: NetName=BTN-PMAXDN Pin=SW17-2
+Added Net: Name=BTN-PMAXDN
+Added Pin To Net: NetName=BTN-PMAXUP Pin=SW10-1
+Added Net: Name=BTN-PMAXUP
+Added Pin To Net: NetName=BTN-ROTCLICK Pin=R164-1
+Added Net: Name=BTN-ROTCLICK
+Added Pin To Net: NetName=BTN-RUNSTOP Pin=SW18-2
+Added Net: Name=BTN-RUNSTOP
+Added Pin To Net: NetName=BTN-SETUP Pin=SW14-4
+Added Net: Name=BTN-SETUP
+Added Pin To Net: NetName=BTN-TRCNT Pin=SW13-3
+Added Net: Name=BTN-TRCNT
+Added Pin To Net: NetName=BTN-TRSEL Pin=SW19-1
+Added Net: Name=BTN-TRSEL
+Added Pin To Net: NetName=BTN-VMAXDN Pin=SW9-1
+Added Pin To Net: NetName=BTN-VMAXDN Pin=SW16-2
+Added Net: Name=BTN-VMAXDN
+Added Pin To Net: NetName=F-KEYINT-A Pin=J1-8
+Added Pin To Net: NetName=F-KEYINT-A Pin=R159-1
+Added Net: Name=F-KEYINT-A
+Added Pin To Net: NetName=F-KEYINT-B Pin=J1-10
+Added Pin To Net: NetName=F-KEYINT-B Pin=R160-1
+Added Net: Name=F-KEYINT-B
+Added Pin To Net: NetName=F-LCD4 Pin=DISP1-11
+Added Pin To Net: NetName=F-LCD4 Pin=J1-11
+Added Net: Name=F-LCD4
+Added Pin To Net: NetName=F-LCD5 Pin=DISP1-12
+Added Pin To Net: NetName=F-LCD5 Pin=J1-13
+Added Net: Name=F-LCD5
+Added Pin To Net: NetName=F-LCD6 Pin=DISP1-13
+Added Pin To Net: NetName=F-LCD6 Pin=J1-15
+Added Net: Name=F-LCD6
+Added Pin To Net: NetName=F-LCD7 Pin=DISP1-14
+Added Pin To Net: NetName=F-LCD7 Pin=J1-17
+Added Net: Name=F-LCD7
+Added Pin To Net: NetName=F-LCDE Pin=DISP1-6
+Added Pin To Net: NetName=F-LCDE Pin=J1-9
+Added Net: Name=F-LCDE
+Added Pin To Net: NetName=F-LCDRS Pin=DISP1-4
+Added Pin To Net: NetName=F-LCDRS Pin=J1-5
+Added Net: Name=F-LCDRS
+Added Pin To Net: NetName=F-POWERON Pin=J1-3
+Added Pin To Net: NetName=F-POWERON Pin=SW3-3
+Added Net: Name=F-POWERON
+Added Pin To Net: NetName=F-SCL Pin=J1-4
+Added Pin To Net: NetName=F-SCL Pin=R29-1
+Added Net: Name=F-SCL
+Added Pin To Net: NetName=F-SDA Pin=J1-6
+Added Pin To Net: NetName=F-SDA Pin=R30-1
+Added Net: Name=F-SDA
+Added Pin To Net: NetName=FGND Pin=C1-2
+Added Pin To Net: NetName=FGND Pin=C2-2
+Added Pin To Net: NetName=FGND Pin=C3-2
+Added Pin To Net: NetName=FGND Pin=C4-2
+Added Pin To Net: NetName=FGND Pin=C5-2
+Added Pin To Net: NetName=FGND Pin=C6-2
+Added Pin To Net: NetName=FGND Pin=C7-2
+Added Pin To Net: NetName=FGND Pin=C8-2
+Added Pin To Net: NetName=FGND Pin=C9-2
+Added Pin To Net: NetName=FGND Pin=DISP1-1
+Added Pin To Net: NetName=FGND Pin=DISP1-5
+Added Pin To Net: NetName=FGND Pin=J1-19
+Added Pin To Net: NetName=FGND Pin=J1-20
+Added Pin To Net: NetName=FGND Pin=Q1-2
+Added Pin To Net: NetName=FGND Pin=R3-2
+Added Pin To Net: NetName=FGND Pin=R5-2
+Added Pin To Net: NetName=FGND Pin=R157-2
+Added Pin To Net: NetName=FGND Pin=R158-2
+Added Pin To Net: NetName=FGND Pin=R161-1
+Added Pin To Net: NetName=FGND Pin=SW1-4
+Added Pin To Net: NetName=FGND Pin=SW2-2
+Added Pin To Net: NetName=FGND Pin=SW3-2
+Added Pin To Net: NetName=FGND Pin=SW4-2
+Added Pin To Net: NetName=FGND Pin=SW5-4
+Added Pin To Net: NetName=FGND Pin=SW6-3
+Added Pin To Net: NetName=FGND Pin=SW7-2
+Added Pin To Net: NetName=FGND Pin=SW8-3
+Added Pin To Net: NetName=FGND Pin=SW9-3
+Added Pin To Net: NetName=FGND Pin=SW10-3
+Added Pin To Net: NetName=FGND Pin=SW11-4
+Added Pin To Net: NetName=FGND Pin=SW12-2
+Added Pin To Net: NetName=FGND Pin=SW13-2
+Added Pin To Net: NetName=FGND Pin=SW14-1
+Added Pin To Net: NetName=FGND Pin=SW15-3
+Added Pin To Net: NetName=FGND Pin=SW16-3
+Added Pin To Net: NetName=FGND Pin=SW17-3
+Added Pin To Net: NetName=FGND Pin=SW18-3
+Added Pin To Net: NetName=FGND Pin=SW19-4
+Added Pin To Net: NetName=FGND Pin=SW20-2
+Added Net: Name=FGND
+Added Pin To Net: NetName=FP5VD Pin=C1-1
+Added Pin To Net: NetName=FP5VD Pin=C2-1
+Added Pin To Net: NetName=FP5VD Pin=C3-1
+Added Pin To Net: NetName=FP5VD Pin=C4-1
+Added Pin To Net: NetName=FP5VD Pin=C5-1
+Added Pin To Net: NetName=FP5VD Pin=C6-1
+Added Pin To Net: NetName=FP5VD Pin=C7-1
+Added Pin To Net: NetName=FP5VD Pin=C8-1
+Added Pin To Net: NetName=FP5VD Pin=C9-1
+Added Pin To Net: NetName=FP5VD Pin=D1-2
+Added Pin To Net: NetName=FP5VD Pin=D2-2
+Added Pin To Net: NetName=FP5VD Pin=D3-2
+Added Pin To Net: NetName=FP5VD Pin=D4-2
+Added Pin To Net: NetName=FP5VD Pin=D5-2
+Added Pin To Net: NetName=FP5VD Pin=D6-2
+Added Pin To Net: NetName=FP5VD Pin=D7-2
+Added Pin To Net: NetName=FP5VD Pin=D8-2
+Added Pin To Net: NetName=FP5VD Pin=D9-2
+Added Pin To Net: NetName=FP5VD Pin=D10-2
+Added Pin To Net: NetName=FP5VD Pin=D11-2
+Added Pin To Net: NetName=FP5VD Pin=D12-2
+Added Pin To Net: NetName=FP5VD Pin=D13-2
+Added Pin To Net: NetName=FP5VD Pin=D14-2
+Added Pin To Net: NetName=FP5VD Pin=D15-2
+Added Pin To Net: NetName=FP5VD Pin=D16-2
+Added Pin To Net: NetName=FP5VD Pin=D17-2
+Added Pin To Net: NetName=FP5VD Pin=D18-2
+Added Pin To Net: NetName=FP5VD Pin=D19-2
+Added Pin To Net: NetName=FP5VD Pin=D20-2
+Added Pin To Net: NetName=FP5VD Pin=D21-2
+Added Pin To Net: NetName=FP5VD Pin=D40-2
+Added Pin To Net: NetName=FP5VD Pin=D47-2
+Added Pin To Net: NetName=FP5VD Pin=DISP1-2
+Added Pin To Net: NetName=FP5VD Pin=DISP1-15
+Added Pin To Net: NetName=FP5VD Pin=J1-1
+Added Pin To Net: NetName=FP5VD Pin=J1-2
+Added Pin To Net: NetName=FP5VD Pin=R1-2
+Added Pin To Net: NetName=FP5VD Pin=R2-2
+Added Pin To Net: NetName=FP5VD Pin=R4-2
+Added Pin To Net: NetName=FP5VD Pin=R29-2
+Added Pin To Net: NetName=FP5VD Pin=R30-2
+Added Pin To Net: NetName=FP5VD Pin=R159-2
+Added Pin To Net: NetName=FP5VD Pin=R160-2
+Added Pin To Net: NetName=FP5VD Pin=R164-2
+Added Net: Name=FP5VD
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Net: Name=GND
+Added Pin To Net: NetName=LED-2mA Pin=R18-2
+Added Net: Name=LED-2mA
+Added Pin To Net: NetName=LED-20mA Pin=R19-2
+Added Net: Name=LED-20mA
+Added Pin To Net: NetName=LED-200mA Pin=R20-2
+Added Net: Name=LED-200mA
+Added Pin To Net: NetName=LED-ALT Pin=R28-2
+Added Net: Name=LED-ALT
+Added Pin To Net: NetName=LED-BACKLIGHT Pin=R7-2
+Added Net: Name=LED-BACKLIGHT
+Added Pin To Net: NetName=LED-BIP Pin=R12-2
+Added Net: Name=LED-BIP
+Added Pin To Net: NetName=LED-CHA Pin=R16-2
+Added Net: Name=LED-CHA
+Added Pin To Net: NetName=LED-CHB Pin=R17-2
+Added Net: Name=LED-CHB
+Added Pin To Net: NetName=LED-FET Pin=R15-2
+Added Net: Name=LED-FET
+Added Pin To Net: NetName=LED-ILIMIT Pin=J1-12
+Added Pin To Net: NetName=LED-ILIMIT Pin=R165-2
+Added Net: Name=LED-ILIMIT
+Added Pin To Net: NetName=LED-MRK-1 Pin=R8-2
+Added Net: Name=LED-MRK-1
+Added Pin To Net: NetName=LED-MRK-2 Pin=R11-2
+Added Net: Name=LED-MRK-2
+Added Pin To Net: NetName=LED-MRK-A Pin=R9-2
+Added Net: Name=LED-MRK-A
+Added Pin To Net: NetName=LED-MRK-B Pin=R10-2
+Added Net: Name=LED-MRK-B
+Added Pin To Net: NetName=LED-NPN Pin=R14-2
+Added Net: Name=LED-NPN
+Added Pin To Net: NetName=LED-PLIMIT Pin=J1-14
+Added Pin To Net: NetName=LED-PLIMIT Pin=R166-2
+Added Net: Name=LED-PLIMIT
+Added Pin To Net: NetName=LED-PMAX4W Pin=R26-2
+Added Net: Name=LED-PMAX4W
+Added Pin To Net: NetName=LED-PMAX40mW Pin=R24-2
+Added Net: Name=LED-PMAX40mW
+Added Pin To Net: NetName=LED-PMAX400mW Pin=R25-2
+Added Net: Name=LED-PMAX400mW
+Added Pin To Net: NetName=LED-PNP Pin=R13-2
+Added Net: Name=LED-PNP
+Added Pin To Net: NetName=LED-RUNSTOP Pin=R27-2
+Added Net: Name=LED-RUNSTOP
+Added Pin To Net: NetName=LED-VMAX2V Pin=R21-2
+Added Net: Name=LED-VMAX2V
+Added Pin To Net: NetName=LED-VMAX10V Pin=R22-2
+Added Net: Name=LED-VMAX10V
+Added Pin To Net: NetName=LED-VMAX40V Pin=R23-2
+Added Net: Name=LED-VMAX40V
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R11-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R8-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R16-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R12-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R17-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R15-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R20-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R23-1
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R26-1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R28-1
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R13-1
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=R14-1
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=R19-1
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=R22-1
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=R25-1
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=R18-1
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=R21-1
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD18_1 Pin=R24-1
+Added Net: Name=NetD18_1
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=NetD19_1 Pin=R27-1
+Added Net: Name=NetD19_1
+Added Pin To Net: NetName=NetD20_1 Pin=D20-1
+Added Pin To Net: NetName=NetD20_1 Pin=R10-1
+Added Net: Name=NetD20_1
+Added Pin To Net: NetName=NetD21_1 Pin=D21-1
+Added Pin To Net: NetName=NetD21_1 Pin=R9-1
+Added Net: Name=NetD21_1
+Added Pin To Net: NetName=NetD40_1 Pin=D40-1
+Added Pin To Net: NetName=NetD40_1 Pin=R165-1
+Added Net: Name=NetD40_1
+Added Pin To Net: NetName=NetD47_1 Pin=D47-1
+Added Pin To Net: NetName=NetD47_1 Pin=R166-1
+Added Net: Name=NetD47_1
+Added Pin To Net: NetName=NetDISP1_3 Pin=DISP1-3
+Added Pin To Net: NetName=NetDISP1_3 Pin=R4-1
+Added Pin To Net: NetName=NetDISP1_3 Pin=R161-2
+Added Net: Name=NetDISP1_3
+Added Pin To Net: NetName=NetDISP1_7 Pin=DISP1-7
+Added Pin To Net: NetName=NetDISP1_7 Pin=R3-1
+Added Net: Name=NetDISP1_7
+Added Pin To Net: NetName=NetDISP1_8 Pin=DISP1-8
+Added Pin To Net: NetName=NetDISP1_8 Pin=R5-1
+Added Net: Name=NetDISP1_8
+Added Pin To Net: NetName=NetDISP1_9 Pin=DISP1-9
+Added Pin To Net: NetName=NetDISP1_9 Pin=R157-1
+Added Net: Name=NetDISP1_9
+Added Pin To Net: NetName=NetDISP1_10 Pin=DISP1-10
+Added Pin To Net: NetName=NetDISP1_10 Pin=R158-1
+Added Net: Name=NetDISP1_10
+Added Pin To Net: NetName=NetDISP1_16 Pin=DISP1-16
+Added Pin To Net: NetName=NetDISP1_16 Pin=R6-2
+Added Pin To Net: NetName=NetDISP1_16 Pin=R162-2
+Added Pin To Net: NetName=NetDISP1_16 Pin=R163-2
+Added Net: Name=NetDISP1_16
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Net: Name=NetJ2_7
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Net: Name=NetJ2_8
+Added Pin To Net: NetName=NetJ2_9 Pin=J2-9
+Added Net: Name=NetJ2_9
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ2_11 Pin=J2-11
+Added Net: Name=NetJ2_11
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Net: Name=NetJ2_12
+Added Pin To Net: NetName=NetJ2_13 Pin=J2-13
+Added Net: Name=NetJ2_13
+Added Pin To Net: NetName=NetJ2_14 Pin=J2-14
+Added Net: Name=NetJ2_14
+Added Pin To Net: NetName=NetJ2_15 Pin=J2-15
+Added Net: Name=NetJ2_15
+Added Pin To Net: NetName=NetJ2_16 Pin=J2-16
+Added Net: Name=NetJ2_16
+Added Pin To Net: NetName=NetJ2_17 Pin=J2-17
+Added Net: Name=NetJ2_17
+Added Pin To Net: NetName=NetJ2_18 Pin=J2-18
+Added Net: Name=NetJ2_18
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R7-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R162-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R163-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=P5VD Pin=J2-1
+Added Pin To Net: NetName=P5VD Pin=J2-2
+Added Net: Name=P5VD
+Added Pin To Net: NetName=ROT-PHA Pin=J1-16
+Added Pin To Net: NetName=ROT-PHA Pin=R2-1
+Added Pin To Net: NetName=ROT-PHA Pin=SW4-1
+Added Net: Name=ROT-PHA
+Added Pin To Net: NetName=ROT-PHB Pin=J1-18
+Added Pin To Net: NetName=ROT-PHB Pin=R1-1
+Added Net: Name=ROT-PHB
+Added Class: Name=CT9042 Front Board
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

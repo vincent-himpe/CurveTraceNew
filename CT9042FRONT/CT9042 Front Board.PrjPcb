@@ -51,7 +51,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=FrontPanel.SchDoc
+DocumentPath=..\CT8042\FrontPanel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GJKSVLZY
 
 [Document2]
-DocumentPath=PROCESSOR.SchDoc
+DocumentPath=..\CT8042\PROCESSOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -85,7 +85,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZNRUQLIY
 
 [Document3]
-DocumentPath=SWEEP.SchDoc
+DocumentPath=..\CT8042\SWEEP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -102,7 +102,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CCMRZZRT
 
 [Document4]
-DocumentPath=IBVG-DRIVER.SchDoc
+DocumentPath=..\CT8042\IBVG-DRIVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -119,7 +119,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EPBWAQWD
 
 [Document5]
-DocumentPath=POWERAMP.SchDoc
+DocumentPath=..\CT8042\POWERAMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136,7 +136,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DTRVIPUL
 
 [Document6]
-DocumentPath=MULTIPLIER.SchDoc
+DocumentPath=..\CT8042\MULTIPLIER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,7 +153,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JHKOFGAY
 
 [Document7]
-DocumentPath=CT9042.OutJob
+DocumentPath=..\CT8042\CT9042.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=CT9042 Toplevel.SchDoc
+DocumentPath=..\CT8042\CT9042 Toplevel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -187,7 +187,7 @@ GenerateClassCluster=0
 DocumentUniqueId=COQAUUBM
 
 [Document9]
-DocumentPath=CT9042 Cover Sheet.PCBDwf
+DocumentPath=..\CT8042\CT9042 Cover Sheet.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -204,7 +204,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HERGIXBU
 
 [Document10]
-DocumentPath=CT9042 Main Board.PcbDoc
+DocumentPath=..\CT8042\CT9042 Main Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -221,7 +221,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IPATNCTU
 
 [Document11]
-DocumentPath=CT9042 Main Board Cover Sheet.PCBDwf
+DocumentPath=..\CT8042\CT9042 Main Board Cover Sheet.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -238,7 +238,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XDHODONS
 
 [Document12]
-DocumentPath=CT9042 Main Board Fabrication Drawing.PCBDwf
+DocumentPath=..\CT8042\CT9042 Main Board Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -255,7 +255,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IRIWHSPG
 
 [Document13]
-DocumentPath=CT9042 Main Board Assembly Drawing.PCBDwf
+DocumentPath=..\CT8042\CT9042 Main Board Assembly Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -272,7 +272,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AVBFROTC
 
 [Document14]
-DocumentPath=CT9042 Front Board.PcbDoc
+DocumentPath=..\CT8042\CT9042 Front Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -289,7 +289,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GNSEWXSF
 
 [Document15]
-DocumentPath=CT9042 Front Board Cover Sheet.PCBDwf
+DocumentPath=..\CT8042\CT9042 Front Board Cover Sheet.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -306,7 +306,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XBRYLSYV
 
 [Document16]
-DocumentPath=POWERMUX.SchDoc
+DocumentPath=..\CT8042\POWERMUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -323,7 +323,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ISIZTXTN
 
 [Document17]
-DocumentPath=PSU.SchDoc
+DocumentPath=..\CT8042\PSU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,7 +340,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EMKSDUMJ
 
 [Document18]
-DocumentPath=CT9042 Front Board Fabrication Drawing.PCBDwf
+DocumentPath=..\CT8042\CT9042 Front Board Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -357,7 +357,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SVYFBTCE
 
 [Document19]
-DocumentPath=CT8042 Front Board Assembly Drawing.PCBDwf
+DocumentPath=..\CT8042\CT8042 Front Board Assembly Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -374,7 +374,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XOMFWSLM
 
 [Document20]
-DocumentPath=CT9042 Front Panel.PcbDoc
+DocumentPath=..\CT8042\CT9042 Front Panel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -391,7 +391,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BFOCGONQ
 
 [Document21]
-DocumentPath=CT9042 Front Panel Cover Sheet .PCBDwf
+DocumentPath=..\CT8042\CT9042 Front Panel Cover Sheet .PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -408,7 +408,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LBAOCPHT
 
 [Document22]
-DocumentPath=CT9042 Front Panel Fabrication Drawing.PCBDwf
+DocumentPath=..\CT8042\CT9042 Front Panel Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -425,7 +425,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QFQGZWVM
 
 [Document23]
-DocumentPath=Operation.txt
+DocumentPath=..\CT8042\Operation.txt
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

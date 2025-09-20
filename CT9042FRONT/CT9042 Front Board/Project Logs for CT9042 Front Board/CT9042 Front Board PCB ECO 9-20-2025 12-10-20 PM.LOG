@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-4
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-6
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-8
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-10
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-12
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-14
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-16
+Removed Pin From Net: NetName=F-KEYINT-A Pin=J1-18
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R1-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R2-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R29-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R30-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R159-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R160-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R165-2
+Removed Pin From Net: NetName=F-KEYINT-A Pin=R166-2
+Removed Pin From Net: NetName=F-KEYINT-A Pin=SW4-A
+Removed Pin From Net: NetName=F-KEYINT-A Pin=SW4-B
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U1-22
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U1-23
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U2-22
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U2-23
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U3-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U3-22
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U3-23
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U4-1
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U4-22
+Removed Pin From Net: NetName=F-KEYINT-A Pin=U4-23
+Change Net Name : Old Net Name=F-KEYINT-A New Net Name=FGND
+Added Pin To Net: NetName=F-KEYINT-A Pin=J1-8
+Added Pin To Net: NetName=F-KEYINT-A Pin=R159-1
+Added Pin To Net: NetName=F-KEYINT-A Pin=U3-1
+Added Net: Name=F-KEYINT-A
+Added Pin To Net: NetName=F-KEYINT-B Pin=J1-10
+Added Pin To Net: NetName=F-KEYINT-B Pin=R160-1
+Added Pin To Net: NetName=F-KEYINT-B Pin=U4-1
+Added Net: Name=F-KEYINT-B
+Added Pin To Net: NetName=F-SCL Pin=J1-4
+Added Pin To Net: NetName=F-SCL Pin=R29-1
+Added Pin To Net: NetName=F-SCL Pin=U1-22
+Added Pin To Net: NetName=F-SCL Pin=U2-22
+Added Pin To Net: NetName=F-SCL Pin=U3-22
+Added Pin To Net: NetName=F-SCL Pin=U4-22
+Added Net: Name=F-SCL
+Added Pin To Net: NetName=F-SDA Pin=J1-6
+Added Pin To Net: NetName=F-SDA Pin=R30-1
+Added Pin To Net: NetName=F-SDA Pin=U1-23
+Added Pin To Net: NetName=F-SDA Pin=U2-23
+Added Pin To Net: NetName=F-SDA Pin=U3-23
+Added Pin To Net: NetName=F-SDA Pin=U4-23
+Added Net: Name=F-SDA
+Added Pin To Net: NetName=LED-ILIMIT Pin=J1-12
+Added Pin To Net: NetName=LED-ILIMIT Pin=R165-2
+Added Net: Name=LED-ILIMIT
+Added Pin To Net: NetName=LED-PLIMIT Pin=J1-14
+Added Pin To Net: NetName=LED-PLIMIT Pin=R166-2
+Added Net: Name=LED-PLIMIT
+Added Pin To Net: NetName=ROT-PHA Pin=J1-16
+Added Pin To Net: NetName=ROT-PHA Pin=R2-1
+Added Pin To Net: NetName=ROT-PHA Pin=SW4-A
+Added Net: Name=ROT-PHA
+Added Pin To Net: NetName=ROT-PHB Pin=J1-18
+Added Pin To Net: NetName=ROT-PHB Pin=R1-1
+Added Pin To Net: NetName=ROT-PHB Pin=SW4-B
+Added Net: Name=ROT-PHB
+Added Rule: Name=Schematic Supply Nets

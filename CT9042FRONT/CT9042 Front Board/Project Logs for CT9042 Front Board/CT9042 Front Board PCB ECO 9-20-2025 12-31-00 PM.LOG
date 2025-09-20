@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=FGND Pin=SW8-3
+Removed Pin From Net: NetName=FGND Pin=SW9-3
+Removed Pin From Net: NetName=FGND Pin=SW10-3
+Added Component: Designator=R31(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC0603)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C23179"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Location"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FP5VD Pin=D22-2
+Added Pin To Net: NetName=FP5VD Pin=D23-2
+Added Pin To Net: NetName=FP5VD Pin=D24-2
+Added Pin To Net: NetName=FGND Pin=SW8-4
+Added Pin To Net: NetName=FGND Pin=SW9-4
+Added Pin To Net: NetName=FGND Pin=SW10-4
+Added Pin To Net: NetName=LED-I-VAR Pin=R33-2
+Added Pin To Net: NetName=LED-I-VAR Pin=U2-11
+Added Net: Name=LED-I-VAR
+Added Pin To Net: NetName=LED-P-VAR Pin=R32-2
+Added Pin To Net: NetName=LED-P-VAR Pin=U2-10
+Added Net: Name=LED-P-VAR
+Added Pin To Net: NetName=LED-V-VAR Pin=R31-2
+Added Pin To Net: NetName=LED-V-VAR Pin=U2-13
+Added Net: Name=LED-V-VAR
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_1 Pin=R31-1
+Added Net: Name=NetD22_1
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=NetD23_1 Pin=R33-1
+Added Net: Name=NetD23_1
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=NetD24_1 Pin=R32-1
+Added Net: Name=NetD24_1
+Added Member To Class: ClassName=CT9042 Front Board Member=Component D22 LED-SUNLED-XLUY13D
+Added Member To Class: ClassName=CT9042 Front Board Member=Component D23 LED-SUNLED-XLUY13D
+Added Member To Class: ClassName=CT9042 Front Board Member=Component D24 LED-SUNLED-XLUY13D
+Added Member To Class: ClassName=CT9042 Front Board Member=Component R31 RESC0603
+Added Member To Class: ClassName=CT9042 Front Board Member=Component R32 RESC0603
+Added Member To Class: ClassName=CT9042 Front Board Member=Component R33 RESC0603

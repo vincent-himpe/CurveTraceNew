@@ -1,0 +1,274 @@
+Change Component Comment : Designator=D1 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D2 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D3 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D4 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D5 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D6 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D8 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D9 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D10 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D11 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D12 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D13 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D14 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D15 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D16 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D17 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D18 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D19 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D20 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D21 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D40 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=D47 Old Comment=Comment New Comment=LED-SUNLED-XLUY13D
+Change Component Comment : Designator=SW4 Old Comment=Comment New Comment=PEC12R-XX
+Change Component Comment : Designator=SW1 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW2 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW3 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW5 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW6 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW7 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW8 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW9 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW10 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW11 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW12 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW13 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW14 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW15 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW16 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW17 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW18 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW19 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=SW20 Old Comment=Comment New Comment=SWITCH-E-SWITCH-TL1105SFP
+Change Component Comment : Designator=D7 Old Comment=D7 New Comment=LED-SUNLED-XLUY13D
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\MJSILCXN" ("\MJSILCXN")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\HKBPKYLN" ("\HKBPKYLN")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\KLRXODRF" ("\KLRXODRF")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\NRGQLZYR" ("\NRGQLZYR")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\NKVTAPXQ" ("\NKVTAPXQ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\IJLJFFOL" ("\IJLJFFOL")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\YPTRKEAW" ("\YPTRKEAW")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\KFDYJVHZ" ("\KFDYJVHZ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\SFVJVIHI" ("\SFVJVIHI")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\RPRCYXWK" ("\RPRCYXWK")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11" ("D11"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\SKVIWIVA" ("\SKVIWIVA")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12" ("D12"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\PZZWVRWY" ("\PZZWVRWY")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13" ("D13"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\QMFLTSAJ" ("\QMFLTSAJ")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14" ("D14"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\OLMETLRP" ("\OLMETLRP")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D15" ("D15"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\ZUBNYKSM" ("\ZUBNYKSM")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D16" ("D16"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\YUZLHXZS" ("\YUZLHXZS")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D17" ("D17"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\TUNJDULP" ("\TUNJDULP")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D18" ("D18"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\LVSCZPLT" ("\LVSCZPLT")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D19" ("D19"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\BKQPGTHA" ("\BKQPGTHA")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D20" ("D20"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\XEBXJYBK" ("\XEBXJYBK")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D21" ("D21"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\BBUHUNMD" ("\BBUHUNMD")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D40" ("D40"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\BMCWVNSP" ("\BMCWVNSP")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D47" ("D47"); Footprint = "LED-SUNLED-XLUY13D"; UniqueID = "\RWLVGZSH" ("\RWLVGZSH")
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "XLUY13D-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "SUNLED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XLUY13D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER"; Value = "78-VLMPG33N1P2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4
+Add Pin To Net: Unknown Pin: Pin SW4-5
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-18
+Add Pin To Net: Unknown Pin: Pin U2-19
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U3-17
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Class Member: Failed to add class member : Component U1 PCAL9555
+Add Class Member: Failed to add class member : Component U2 PCAL9555
+Add Class Member: Failed to add class member : Component U3 PCAL9555

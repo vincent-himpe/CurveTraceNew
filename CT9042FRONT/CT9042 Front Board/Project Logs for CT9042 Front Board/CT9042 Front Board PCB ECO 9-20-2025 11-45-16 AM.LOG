@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Member To Class: ClassName=CT9042 Front Board Member=Component C10 CAP0603
