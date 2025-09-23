@@ -1,0 +1,133 @@
+Altium Designer Pick and Place Locations
+C:\GitHub\CurveTracer\CT9042FRONT\CT9042 Front Board\.\Production\Front Board\Pick Place for CT9042 Front Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/09/25
+Time:       18:27
+Revision:   837e460546bf380a2249496db33e8ac55d299a61
+Variant:    No variations
+Units used: mil
+
+Designator Comment                   Layer       Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                           
+U6         TLC555                    BottomLayer SO127P600-8N                     8456.693      898.622       270      IC,TIMER,CMOSE,TI,TLC555,SO8                                          
+U5         TLC555                    BottomLayer SO127P600-8N                     8696.850      898.622       270      IC,TIMER,CMOSE,TI,TLC555,SO8                                          
+R39        RESC0603                  BottomLayer RESC0603                         8193.898      860.236       270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R38        RESC0603                  BottomLayer RESC0603                         8037.402      861.221       270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R37        RESC0603                  BottomLayer RESC0603                         8286.417      1179.134      90       "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R36        RESC0603                  BottomLayer RESC0603                         8221.457      1180.118      90       "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R35        RESC0603                  BottomLayer RESC0603                         8381.890      672.244       90       "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R34        RESC0603                  BottomLayer RESC0603                         8621.063      672.244       90       "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+Q3         MMBT2222                  BottomLayer SOT23                            8240.157      989.173       180      XSTR,NPN,40V,0.6A,,MMBT2222,SOT23                                     
+Q2         MMBT2222                  BottomLayer SOT23                            8083.661      989.173       180      XSTR,NPN,40V,0.6A,,MMBT2222,SOT23                                     
+C15        CAP0603                   BottomLayer CAPC0603                         8555.118      672.244       270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                  
+C14        CAP0603                   BottomLayer CAPC0603                         8794.291      671.260       270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                  
+C13        CAP0805                   BottomLayer CAPC0805                         8481.299      673.228       270      CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+C12        CAP0805                   BottomLayer CAPC0805                         8720.472      671.260       270      CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+R33        RESC0603                  BottomLayer RESC0603                         4645.669      767.716       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R32        RESC0603                  BottomLayer RESC0603                         5275.591      767.716       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R31        RESC0603                  BottomLayer RESC0603                         4015.748      767.716       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+D22        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4015.748      629.921       90       "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D24        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               5275.591      629.921       90       "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D23        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4645.669      629.921       90       "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+U4         PCAL9555                  BottomLayer SO65P640X120-24N                 7106.299      334.646       180      "I2C,16BIT AGILE I/O EXPANDER,INT,NEXPERIA,PCAL95555,TSSOP24"         
+U3         PCAL9555                  BottomLayer SO65P640X120-24N                 7106.299      -78.740       180      "I2C,16BIT AGILE I/O EXPANDER,INT,NEXPERIA,PCAL95555,TSSOP24"         
+U2         PCAL9555                  BottomLayer SO65P640X120-24N                 7106.299      728.346       180      "I2C,16BIT AGILE I/O EXPANDER,INT,NEXPERIA,PCAL95555,TSSOP24"         
+U1         PCAL9555                  BottomLayer SO65P640X120-24N                 7106.299      1102.362      180      "I2C,16BIT AGILE I/O EXPANDER,INT,NEXPERIA,PCAL95555,TSSOP24"         
+C11        CAP0805                   BottomLayer CAPC0805                         6868.268      497.940       180      CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+C10        CAP0603                   BottomLayer CAPC0603                         7125.984      531.496       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                  
+R166       RESC0603                  BottomLayer RESC0603                         5708.661      767.716       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R165       RESC0603                  BottomLayer RESC0603                         5078.740      767.716       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R164       RESC0603                  BottomLayer RESC0603                         7863.189      1202.756      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R163       RESC0805                  BottomLayer RESC0805                         354.331       461.614       90       RESISTOR,GENERIC,0805                                                 
+R162       RESC0805                  BottomLayer RESC0805                         276.575       461.614       90       RESISTOR,GENERIC,0805                                                 
+R161       RESC0603                  BottomLayer RESC0603                         35.433        318.898       90       "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R160       RESC0603                  BottomLayer RESC0603                         7618.110      1318.898      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R159       RESC0603                  BottomLayer RESC0603                         7460.630      1318.898      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R158       RESC0603                  BottomLayer RESC0603                         490.158       102.362       270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R157       RESC0603                  BottomLayer RESC0603                         411.417       102.362       270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R30        RESC0603                  BottomLayer RESC0603                         7362.205      231.299       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R29        RESC0603                  BottomLayer RESC0603                         7362.205      170.276       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R28        RESC0603                  BottomLayer RESC0603                         6279.528      433.071       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R27        RESC0603                  BottomLayer RESC0603                         6279.528      196.850       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R26        RESC0603                  BottomLayer RESC0603                         5708.661      433.071       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R25        RESC0603                  BottomLayer RESC0603                         5708.661      314.961       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R24        RESC0603                  BottomLayer RESC0603                         5708.661      196.850       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R23        RESC0603                  BottomLayer RESC0603                         5078.740      433.071       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R22        RESC0603                  BottomLayer RESC0603                         5078.740      314.961       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R21        RESC0603                  BottomLayer RESC0603                         5078.740      196.850       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R20        RESC0603                  BottomLayer RESC0603                         4409.449      433.071       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R19        RESC0603                  BottomLayer RESC0603                         4409.449      314.961       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R18        RESC0603                  BottomLayer RESC0603                         4409.449      196.850       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R17        RESC0603                  BottomLayer RESC0603                         3307.087      728.346       180      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R16        RESC0603                  BottomLayer RESC0603                         1633.858      728.346       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R15        RESC0603                  BottomLayer RESC0603                         885.827       629.921       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R14        RESC0603                  BottomLayer RESC0603                         885.827       314.961       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R13        RESC0603                  BottomLayer RESC0603                         531.496       314.961       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R12        RESC0603                  BottomLayer RESC0603                         531.496       629.921       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R11        RESC0603                  BottomLayer RESC0603                         8700.787      1909.449      180      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R10        RESC0603                  BottomLayer RESC0603                         8700.787      295.276       180      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R9         RESC0603                  BottomLayer RESC0603                         8464.567      295.276       180      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R8         RESC0603                  BottomLayer RESC0603                         8464.567      1909.449      180      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R7         RESC0603                  BottomLayer RESC0603                         946.850       499.016       0        "RESISTOR,1K,1%,100mW,0603 (1608)"                                    
+R6         RESC0805                  BottomLayer RESC0805                         431.102       461.614       90       RESISTOR,GENERIC,0805                                                 
+R5         RESC0603                  BottomLayer RESC0603                         332.677       102.362       270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R4         RESC0603                  BottomLayer RESC0603                         -51.181       317.913       270      "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R3         RESC0603                  BottomLayer RESC0603                         253.937       102.362       270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                  
+R2         RESC0603                  BottomLayer RESC0603                         7854.331      1318.898      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+R1         RESC0603                  BottomLayer RESC0603                         8011.811      1318.898      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                   
+Q1         MMBT2222                  BottomLayer SOT23                            745.079       461.614       180      XSTR,NPN,40V,0.6A,,MMBT2222,SOT23                                     
+J1         BOXHEADER-10X2            BottomLayer CONNECTOR_GENERIC-BOXHEADER-2X10 7637.795      1574.803      270      ""                                                                    
+DISP1      DISPLAY-LCD-2X40          TopLayer    CONNECTOR-GENERIC-PINHEADER-2X8  -197.315      1476.639      90       "DISPLAY,LCD,ALPHA,2X40CHAR,HD44780,YELLOW BL"                        
+C9         CAP0805                   BottomLayer CAPC0805                         6909.068      161.036       90       CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+C8         CAP0603                   BottomLayer CAPC0603                         7060.094      129.981       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                  
+C7         CAP0805                   BottomLayer CAPC0805                         6875.000      774.606       270      CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+C6         CAP0603                   BottomLayer CAPC0603                         6956.693      916.339       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                  
+C5         CAP0805                   BottomLayer CAPC0805                         6921.528      1338.583      90       CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+C4         CAP0603                   BottomLayer CAPC0603                         6997.508      1327.173      90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                  
+C3         CAP0805                   BottomLayer CAPC0805                         53.150        628.937       90       CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+C2         CAP0805                   BottomLayer CAPC0805                         -24.606       629.921       90       CAPACITOR,CERAMIC,10uF,25V,X5R,0805                                   
+C1         CAP0603                   BottomLayer CAPC0603                         -87.402       634.641       90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                  
+D40        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               5078.740      629.921       90       "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D47        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               5708.661      629.921       90       "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW20       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   8582.677      0.492         0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+D21        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               8464.567      196.850       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D20        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               8700.787      196.850       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D1         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               8700.787      1791.339      0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D2         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               8464.567      1791.339      0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW2        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   8582.677      1594.980      0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW19       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   6692.913      -0.492        180      "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW1        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   6771.161      1594.488      90       "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW4        PEC12R-XX                 TopLayer    SWITCH-BOURNS-PEC12R-4120F-S0012 7637.795      816.929       0        SWITCH,ENCODER+CLICK,BOURNS,PEC12R-4120F-S0012                        
+D5         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               3484.252      728.346       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW6        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   3700.787      727.854       180      "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW5        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   1259.842      728.839       0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+D3         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               1476.378      728.346       180      "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW14       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   728.346       0.492         0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+D12        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               728.346       314.961       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D11        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               374.016       314.961       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW12       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   0.000         315.453       0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+D4         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               374.016       629.921       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D6         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               728.346       629.921       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW7        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   0.000         630.413       0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW3        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   0.039         0.492         0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW18       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   6122.047      0.492         0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW11       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   6122.047      630.413       0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+D19        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               6122.047      196.850       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D10        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               6122.047      433.071       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D9         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               5492.122      433.067       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D15        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               5492.122      314.961       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D18        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               5492.122      196.847       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW10       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   5492.122      630.413       0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW17       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   5492.122      0.492         0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+D8         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4862.201      433.067       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D14        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4862.201      314.961       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D17        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4862.201      196.847       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+SW9        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   4862.201      630.413       0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW16       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   4862.201      0.492         0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW15       SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   4232.283      0.492         0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+SW8        SWITCH-E-SWITCH-TL1105SFP TopLayer    SWITCH-ESWITCH-TL1105SPF-1RCAP   4232.283      630.413       0        "SW,SMD,TACT,4PIN,TH,160g TOP ACTUATOR FOR CAP,E-SWITCH,TL1105SPF160" 
+D16        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4232.283      196.850       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D13        LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4232.283      314.961       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     
+D7         LED-SUNLED-XLUY13D        TopLayer    LED-SUNLED-XLUY13D               4232.283      433.071       0        "LED,TH,GREEN,42mCd,2mm PINMOUNT"                                     

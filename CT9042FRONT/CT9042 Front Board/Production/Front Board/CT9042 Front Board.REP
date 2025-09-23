@@ -1,0 +1,327 @@
+*************************************************************
+FileName = CT9042 Front Board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Assembly
+      File : CT9042 Front Board.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : CT9042 Front Board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : CT9042 Front Board.GM4
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : CT9042 Front Board.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : CT9042 Front Board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CT9042 Front Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : CT9042 Front Board.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : CT9042 Front Board.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : CT9042 Front Board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : CT9042 Front Board.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CT9042 Front Board.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : CT9042 Front Board.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : CT9042 Front Board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : CT9042 Front Board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CT9042 Front Board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : CT9042 Front Board.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CT9042 Front Board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : CT9042 Front Board.GM
+
+
+Used DCodes :
+    D56
+*************************************************************
+

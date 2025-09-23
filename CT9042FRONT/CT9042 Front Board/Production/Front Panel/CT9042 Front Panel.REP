@@ -1,0 +1,204 @@
+*************************************************************
+FileName = CT9042 Front Panel.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : CT9042 Front Panel.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CT9042 Front Panel.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CT9042 Front Panel.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : CT9042 Front Panel.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CT9042 Front Panel.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : CT9042 Front Panel.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : CT9042 Front Panel.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : CT9042 Front Panel.GM4
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CT9042 Front Panel.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : CT9042 Front Panel.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : CT9042 Front Panel.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : CT9042 Front Panel.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : CT9042 Front Panel.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : CT9042 Front Panel.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : CT9042 Front Panel.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : CT9042 Front Panel.GM
+
+
+Used DCodes :
+    D22
+*************************************************************
+

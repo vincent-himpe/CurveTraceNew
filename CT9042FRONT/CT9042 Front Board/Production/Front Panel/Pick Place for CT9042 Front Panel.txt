@@ -1,0 +1,13 @@
+Altium Designer Pick and Place Locations
+C:\GitHub\CurveTracer\CT9042FRONT\CT9042 Front Board\.\Production\Front Panel\Pick Place for CT9042 Front Panel.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/09/25
+Time:       18:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator	Comment	Layer	Footprint	Center-X(mil)	Center-Y(mil)	Rotation	Description
