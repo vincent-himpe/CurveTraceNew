@@ -1,3 +1,14 @@
+/* NOTE : this code uses the principle of scheduled logic. If you don't know what that is : the verilog (and als VHDL) standard mandate that code shall be evaluated in the order it is written. The practical aspect is that a later line of statements takes precedence over an earlier one.
+
+	Example:
+		x <= x+;
+		.... some more stuff ...
+		if (reset)  x <= 0;
+
+	The reset now has priority. There is no need for if-then-else constructs. Since the last line gets evaluated last , it determines the final outcome.
+	Scheduled logic eliminates undefined states completely and removes the complexity of nested if-then-else constructs)
+*/
+
 module sweepcontrol 
 (
    // ----------------------- inputs ---------------------
@@ -35,7 +46,10 @@ module sweepcontrol
 	output reg [1:0] cursor_state,
    
 	// voltage dac
-	output reg [7:0] dac_y
+	output reg [7:0] dac_y,
+	
+	// general purpose encoder
+	output reg [7:0] encoder_value
 );
 
 
@@ -69,17 +83,17 @@ always_ff @(posedge clk) begin
 		loopcounter <=0;
 		if (auto_channel ==1) begin
 		   case (channel_select)
-			  2'b00 : channel_select <= 2'b00;
-			  2'b01 : channel_select <= 2'b10;
-			  2'b10 : channel_select <= 2'b01;
-			  2'b11 : channel_select <= 2'b00;   // this can't happen , but if it does : turn all off
+				2'b00 : channel_select <= 2'b00;
+				2'b01 : channel_select <= 2'b10;
+				2'b10 : channel_select <= 2'b01;
+				2'b11 : channel_select <= 2'b00;   // this can't happen , but if it does : turn all off
 			endcase
 		end
 	end	
 	
 	// this can run always too : update vertical dac 
 	case (loopcounter[10:8])
-	   3'b000 : dac_y <= step1;
+		3'b000 : dac_y <= step1;
 		3'b001 : dac_y <= step2;
 		3'b010 : dac_y <= step3;
 		3'b011 : dac_y <= step4;
@@ -103,7 +117,7 @@ always_ff @(posedge clk) begin
 				 sample_gate_b <= 1'b1;
 			end
 			case (cursor_state)
-			2'b00   :	begin
+			2'b00	:	begin
 								if (loopcounter [7:0] == cursor_a) begin
 									cursor_state  <= 2'b01;
 									sample_gate_a <= 1'b0;
@@ -114,9 +128,9 @@ always_ff @(posedge clk) begin
 									sample_ready  <= 1'b1;
 								end;	
 							end 
-			2'b01   :   cursor_state <= 2'b11;
-			2'b11   :   cursor_state <= 2'b00;
-			default :   cursor_state <= 2'b00;
+			2'b01	:	cursor_state <= 2'b11;
+			2'b11	:	cursor_state <= 2'b00;
+			default:	cursor_state <= 2'b00;
 			endcase
 		end
 		else begin
@@ -128,24 +142,31 @@ always_ff @(posedge clk) begin
 	if (edge_detector == 4'b0111) begin
 		case (rotary_binding)
 		2'b00 :  if (rot_phase_b ==0) begin
-		            if (cursor_b !=255) cursor_a <= cursor_a+ 8'd1;
+						if (cursor_b !=255) cursor_a <= cursor_a+ 8'd1;
 					end
 					else begin
-					   if (cursor_a !=0) cursor_a <= cursor_a-8'd1;
+						if (cursor_a !=0) cursor_a <= cursor_a-8'd1;
 					end
 					
 		2'b01 :  if (rot_phase_b ==0) begin
-		            if (cursor_b !=255) cursor_b <= cursor_b+8'd1;
+						if (cursor_b !=255) cursor_b <= cursor_b+8'd1;
 					end
 					else begin
-					   if (cursor_b !=0) cursor_b <= cursor_b-8'd1;
+						if (cursor_b !=0) cursor_b <= cursor_b-8'd1;
 					end
 		2'b10 : 	if (rot_phase_b ==0) begin
-		            if (selected_trace != 3'b100) selected_trace <= selected_trace+3'd1;
+						if (selected_trace != 3'b100) selected_trace <= selected_trace+3'd1;
 					end
 					else begin
-					   if (selected_trace !=0) selected_trace <= selected_trace-3'd1;
+						if (selected_trace !=0) selected_trace <= selected_trace-3'd1;
 					end	
+		2'b11 :	if (rot_phase_b ==0) begin
+						if (encoder_value != rotary_limit) encoder_value <= encoder_value + 8'd1;
+					end
+					else begin
+						if (encoder_value !=0) encoder_value <= encoder_value -8'd1;
+					end	
+		
 		endcase
 	end
 	
@@ -180,124 +201,11 @@ always_ff @(posedge clk) begin
 			4'b1010 : step3 <= data_in;
 			4'b1011 : step4 <= data_in;
 			4'b1100 : step5 <= data_in;
+			5'b1111 : encoder_value <=data_in;
 		endcase
 	end
 	
 end
 
-
-/*
-always_ff @(posedge latch_cur_a) begin
-   cursor_a <= databus;
-end
-
-always_ff @(posedge latch_cur_b) begin
-   cursor_b <= databus;
-end
-
-always_ff @(posedge latch_trace) begin
-   selected_trace <= databus [2:0];
-end
-*/
-
 endmodule
 
-
-
-//module sweepcontrol 
-//(
-//   input logic latch_cur_a , latch_cur_b  , clk , latch_trace,
-//	input logic [7:0]  databus ,
-//	input logic rot_phase_a , rot_phase_b,
-//	input logic [1:0] addr,
-//	input logic write,
-//	//output wire cursor_enable , cursor_polarity ,
-//	output reg [2:0] current_trace,
-//	output reg [7:0] sweep ,
-//	output reg sample_gate_a , sample_gate_b , 
-//	output reg [1:0] cursor_state,
-//   output logic [7:0] dac
-//);
-//
-//reg [7:0] cursor_a , cursor_b ;
-//reg [2:0] selected_trace;
-//reg [7:0] rotary_limit;
-//reg [11:0] loopcounter;
-//
-//always_comb begin
-//   dac[7:0] <=loopcounter [7:0];
-//end
-//
-//always_ff @(posedge clk) begin
-//   
-//	// Always running upcounter. on counter overrun increment sweep counter
-//	sweep <= sweep +8'd1;
-//	if (sweep == 255) begin
-//	   if (current_trace == 4) begin
-//		    current_trace <=0;
-//		end else begin
-//		    current_trace <= current_trace +2'b001;
-//		end
-//	end
-//	
-//	/*
-//	// alternate way : have a 11 bit counter
-//	   loopcounter <= loopcounter +1;
-//		if (loopcounter == 11'b101_11111111) loopcounter <=0;
-//	
-//	*/
-//	
-//	if (current_trace == selected_trace) begin
-//	   if (sweep == 7'b0) begin
-//		    sample_gate_a <= 1'b1;
-//			 sample_gate_b <= 1'b1;
-//		end
-//  	   case (cursor_state)
-//	   2'b00   :	begin
-//							if (sweep == cursor_a) begin
-//								cursor_state <= 2'b01;
-//								sample_gate_a <= 1'b0;
-//							end
-//							if (sweep == cursor_b)begin
-//								cursor_state <= 2'b01;
-//								sample_gate_b <= 1'b0;
-//							end;	
-//		            end 
-//	   2'b01   :   cursor_state <= 2'b11;
-//	   2'b11   :   cursor_state <= 2'b00;
-//	   default :   cursor_state <= 2'b00;
-//	   endcase
-//	end	
-//	
-//	
-//	
-//	
-//	// process the register writes. Since this happens later it takes priority (scheduled logic)
-//	if (write ==1) begin
-//		case (addr)
-//			2'b00 : cursor_a       <= databus;
-//			2'b01 : cursor_b       <= databus;
-//			2'b10 : selected_trace <= databus [2:0];
-//			2'b11 : rotary_limit   <= databus;
-//		endcase
-//	end
-//	
-//end
-//
-//
-///*
-//always_ff @(posedge latch_cur_a) begin
-//   cursor_a <= databus;
-//end
-//
-//always_ff @(posedge latch_cur_b) begin
-//   cursor_b <= databus;
-//end
-//
-//always_ff @(posedge latch_trace) begin
-//   selected_trace <= databus [2:0];
-//end
-//*/
-//
-//endmodule
-//*/
