@@ -51,6 +51,8 @@ reg [7:0] step2;
 reg [7:0] step3;
 reg [7:0] step4;
 reg [7:0] step5;
+reg [3:0] edge_detector;
+reg [1:0] rotary_binding;
 
 // This is a pure combinatorial block 
 // We bring out the lowest 8 bit of the loopcounter to drive the dac
@@ -62,7 +64,7 @@ end
 always_ff @(posedge clk) begin
    
 	// Always running upcounter. on counter overrun increment sweep counter
-	loopcounter <= loopcounter +1;
+	loopcounter <= loopcounter +11'd1;
 	if (loopcounter == 11'b100_11111111) begin
 		loopcounter <=0;
 		if (auto_channel ==1) begin
@@ -85,10 +87,14 @@ always_ff @(posedge clk) begin
 	endcase
 	
 	
-	
 	if (channel_select == 2'b10) channel_ab <=1;
 	if (channel_select == 2'b01) channel_ab <=0;
 	
+	// rotary encoder edge detector
+	
+	edge_detector[3:0] <= { edge_detector [2:0],rot_phase_a};
+	
+	// sampling logic
 	
 	if (loopcounter[10:8] == selected_trace) begin
 	   if (sample_ready == 1'b0) begin
@@ -118,6 +124,30 @@ always_ff @(posedge clk) begin
 		end
 	end	
 	
+	// cursor control
+	if (edge_detector == 4'b0111) begin
+		case (rotary_binding)
+		2'b00 :  if (rot_phase_b ==0) begin
+		            if (cursor_b !=255) cursor_a <= cursor_a+ 8'd1;
+					end
+					else begin
+					   if (cursor_a !=0) cursor_a <= cursor_a-8'd1;
+					end
+					
+		2'b01 :  if (rot_phase_b ==0) begin
+		            if (cursor_b !=255) cursor_b <= cursor_b+8'd1;
+					end
+					else begin
+					   if (cursor_b !=0) cursor_b <= cursor_b-8'd1;
+					end
+		2'b10 : 	if (rot_phase_b ==0) begin
+		            if (selected_trace != 3'b100) selected_trace <= selected_trace+3'd1;
+					end
+					else begin
+					   if (selected_trace !=0) selected_trace <= selected_trace-3'd1;
+					end	
+		endcase
+	end
 	
 	
 	
@@ -134,6 +164,16 @@ always_ff @(posedge clk) begin
 							end	
 						end	
 			4'b0101 : auto_channel   <= data_in[0];
+         4'b0110 : rotary_binding [1:0] <= data_in[1:0];
+			4'b0111 : begin                                                             // reset command
+							sample_ready <=1'b0;                                            // force sample write register
+							cursor_state <=2'b0;
+							channel_select <=2'b0;
+							sample_gate_a <=1'b0;
+							sample_gate_b <=1'b0;
+							loopcounter <=0;
+							dac_y <=0;
+						 end	
 			
 			4'b1000 : step1 <= data_in;
 			4'b1001 : step2 <= data_in;
