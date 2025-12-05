@@ -135,6 +135,13 @@ applicable agreement for further details.
 		(text "encoder_value[7..0]" (rect 148 155 227 167)(font "Arial" ))
 		(line (pt 248 160)(pt 232 160)(line_width 3))
 	)
+	(port
+		(pt 248 176)
+		(output)
+		(text "readback[7..0]" (rect 0 0 56 12)(font "Arial" ))
+		(text "readback[7..0]" (rect 171 171 227 183)(font "Arial" ))
+		(line (pt 248 176)(pt 232 176)(line_width 3))
+	)
 	(drawing
 		(rectangle (rect 16 16 232 192)(line_width 1))
 	)

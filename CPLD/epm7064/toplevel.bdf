@@ -291,6 +291,23 @@ applicable agreement for further details.
 	)
 	(annotation_block (location)(rect 1504 512 1552 528))
 )
+(pin
+	(output)
+	(rect 928 408 1110 424)
+	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
+	(text "READBACK[7..0]" (rect 90 0 176 12)(font "Arial" ))
+	(pt 0 8)
+	(drawing
+		(line (pt 0 8)(pt 52 8))
+		(line (pt 52 4)(pt 78 4))
+		(line (pt 52 12)(pt 78 12))
+		(line (pt 52 12)(pt 52 4))
+		(line (pt 78 4)(pt 82 8))
+		(line (pt 82 8)(pt 78 12))
+		(line (pt 78 12)(pt 82 8))
+	)
+	(annotation_block (location)(rect 1576 568 1624 584))
+)
 (symbol
 	(rect 632 240 880 448)
 	(text "sweepcontrol" (rect 5 0 68 12)(font "Arial" ))
@@ -407,6 +424,13 @@ applicable agreement for further details.
 		(text "encoder_value[7..0]" (rect 145 155 227 167)(font "Arial" ))
 		(line (pt 248 160)(pt 232 160)(line_width 3))
 	)
+	(port
+		(pt 248 176)
+		(output)
+		(text "readback[7..0]" (rect 0 0 70 12)(font "Arial" ))
+		(text "readback[7..0]" (rect 168 171 227 183)(font "Arial" ))
+		(line (pt 248 176)(pt 232 176)(line_width 3))
+	)
 	(drawing
 		(rectangle (rect 16 16 232 192))
 	)
@@ -480,5 +504,10 @@ applicable agreement for further details.
 (connector
 	(pt 880 400)
 	(pt 928 400)
+	(bus)
+)
+(connector
+	(pt 880 416)
+	(pt 928 416)
 	(bus)
 )

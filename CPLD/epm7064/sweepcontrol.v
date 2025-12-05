@@ -49,7 +49,8 @@ module sweepcontrol
 	output reg [7:0] dac_y,
 	
 	// general purpose encoder
-	output reg [7:0] encoder_value
+	output reg [7:0] encoder_value,
+	output logic [7:0] readback
 );
 
 
@@ -73,6 +74,14 @@ reg [1:0] rotary_binding;
 
 always_comb begin
    dac[7:0] <=loopcounter [7:0];
+	case (address_in)
+			4'b0000 : readback <= cursor_a;
+			4'b0001 : readback <= cursor_b;
+			4'b0010 : readback <= selected_trace;
+			
+			default : readback <= encoder_value;
+	endcase		
+	
 end
 
 always_ff @(posedge clk) begin
@@ -90,6 +99,8 @@ always_ff @(posedge clk) begin
 			endcase
 		end
 	end	
+	
+	
 	
 	// this can run always too : update vertical dac 
 	case (loopcounter[10:8])
